@@ -1,0 +1,206 @@
+{
+    "taz.de__Leichte-Sprache__!5634433.html": {
+        "url": "http://web.archive.org/web/20211021133044/https://taz.de/Leichte-Sprache/!5634433/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Barrierefreie-Kommunikation-im-Netz__!5619787.html"
+        ]
+    },
+    "taz.de__Leichte-Sprache__!5621822.html": {
+        "url": "http://web.archive.org/web/20211021133047/https://taz.de/Leichte-Sprache/!5621822/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Jurist-und-Aktivist-aus-Frankfurt-Oder__!5616434.html",
+            "taz.de__Mit-MigrantInnen-auf-Jobsuche__!5613660.html",
+            "taz.de__Integration-durch-Schwimmkurs__!5617309.html"
+        ]
+    },
+    "taz.de__Leichte-Sprache__!5617312.html": {
+        "url": "http://web.archive.org/web/20211031151125/https://taz.de/Leichte-Sprache/!5617312/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Migrantisches-Leben-in-Dresden__!5613086.html"
+        ]
+    },
+    "taz.de__Leichte-Sprache__!5597599.html": {
+        "url": "http://web.archive.org/web/20211022081315/https://taz.de/Leichte-Sprache/!5597599/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Neutrale-EU-Klimabilanz-2050__!5592058.html",
+            "taz.de__Klimastreit-in-der-Koalition__!5591579.html",
+            "taz.de__Petersberger-Klimadialog__!5591540.html"
+        ]
+    },
+    "taz.de__Leichte-Sprache__!5592510.html": {
+        "url": "http://web.archive.org/web/20211031151107/https://taz.de/Leichte-Sprache/!5592510/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__!5589309.html"
+        ]
+    },
+    "taz.de__Leichte-Sprache__!5590875.html": {
+        "url": "http://web.archive.org/web/20211021214007/https://taz.de/Leichte-Sprache/!5590875/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Wahlzulassung-fuer-Betreute__!5588713.html"
+        ]
+    },
+    "taz.de__Leichte-Sprache__!5585793.html": {
+        "url": "http://web.archive.org/web/20211022081314/https://taz.de/Leichte-Sprache/!5585793/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__UN-Behindertenrechtskonvention__!5579449.html",
+            "taz.de__Kommentar-Behindertenrechtskonvention__!5579425.html",
+            "taz.de__Gewerkschafterin-ueber-inklusive-Arbeit__!5582903.html"
+        ]
+    },
+    "taz.de__Aktuelle-Nachrichten-in-der-Coronakrise__!5832464.html": {
+        "url": "http://web.archive.org/web/20220214210505/https://taz.de/Aktuelle-Nachrichten-in-der-Coronakrise/!5832464/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Ueberwachung-bei-den-Olympischen-Spielen__!5827435.html"
+        ]
+    },
+    "taz.de__Wahlzulassung-fuer-Betreute__!5588713.html": {
+        "url": "http://web.archive.org/web/20210617034003/https://taz.de/Wahlzulassung-fuer-Betreute/!5588713/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5590875.html"
+        ]
+    },
+    "taz.de__Kommentar-Behindertenrechtskonvention__!5579425.html": {
+        "url": "http://web.archive.org/web/20220325165735/https://taz.de/Kommentar-Behindertenrechtskonvention/!5579425/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5585793.html"
+        ]
+    },
+    "taz.de__Petersberger-Klimadialog__!5591540.html": {
+        "url": "http://web.archive.org/web/20201107223734/https://taz.de/Petersberger-Klimadialog/!5591540/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5597599.html"
+        ]
+    },
+    "taz.de__Mit-MigrantInnen-auf-Jobsuche__!5613660.html": {
+        "url": "http://web.archive.org/web/20201027074901/https://taz.de/Mit-MigrantInnen-auf-Jobsuche/!5613660/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5621822.html"
+        ]
+    },
+    "taz.de__Integration-durch-Schwimmkurs__!5617309.html": {
+        "url": "http://web.archive.org/web/20200814181548/https://taz.de/Integration-durch-Schwimmkurs/!5617309/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5621822.html"
+        ]
+    },
+    "taz.de__Gewerkschafterin-ueber-inklusive-Arbeit__!5582903.html": {
+        "url": "http://web.archive.org/web/20201108000312/https://taz.de/Gewerkschafterin-ueber-inklusive-Arbeit/!5582903/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5585793.html"
+        ]
+    },
+    "taz.de__Ueberwachung-bei-den-Olympischen-Spielen__!5827435.html": {
+        "url": "http://web.archive.org/web/20220215002147/https://taz.de/Ueberwachung-bei-den-Olympischen-Spielen/!5827435/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Aktuelle-Nachrichten-in-der-Coronakrise__!5832464.html"
+        ]
+    },
+    "taz.de__Jurist-und-Aktivist-aus-Frankfurt-Oder__!5616434.html": {
+        "url": "http://web.archive.org/web/20211218074019/https://taz.de/Jurist-und-Aktivist-aus-Frankfurt-Oder/!5616434/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5621822.html"
+        ]
+    },
+    "taz.de__UN-Behindertenrechtskonvention__!5579449.html": {
+        "url": "http://web.archive.org/web/20211014211916/https://taz.de/UN-Behindertenrechtskonvention/!5579449/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5585793.html"
+        ]
+    },
+    "taz.de__Klimastreit-in-der-Koalition__!5591579.html": {
+        "url": "http://web.archive.org/web/20210506202504/https://taz.de/Klimastreit-in-der-Koalition/!5591579/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5597599.html"
+        ]
+    },
+    "taz.de__!5589309.html": {
+        "url": "http://web.archive.org/web/20220401085350/https://taz.de/!5589309/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5592510.html"
+        ]
+    },
+    "taz.de__Barrierefreie-Kommunikation-im-Netz__!5619787.html": {
+        "url": "http://web.archive.org/web/20211129053119/https://taz.de/Barrierefreie-Kommunikation-im-Netz/!5619787/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5634433.html"
+        ]
+    },
+    "taz.de__Neutrale-EU-Klimabilanz-2050__!5592058.html": {
+        "url": "http://web.archive.org/web/20210128132714/https://taz.de/Neutrale-EU-Klimabilanz-2050/!5592058/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5597599.html"
+        ]
+    },
+    "taz.de__Migrantisches-Leben-in-Dresden__!5613086.html": {
+        "url": "http://web.archive.org/web/20220320212005/https://taz.de/Migrantisches-Leben-in-Dresden/!5613086/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "taz.de__Leichte-Sprache__!5617312.html"
+        ]
+    }
+}

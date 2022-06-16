@@ -1,0 +1,56 @@
+{
+  "Die Wohnungs-Vermittlungs-Stelle unterstützt Menschen, die dringend eine Wohnung suchen.": {
+    "Für die Anmietung einer öffentlich geförderten Wohnung benötigen Sie einen Wohnberechtigungsschein.": false
+  },
+  "Menschen ohne Wohn-Möglichkeit.": {
+    "Für die Anmietung einer öffentlich geförderten Wohnung benötigen Sie einen Wohnberechtigungsschein.": false
+  },
+  "Wenn Sie in einem anderen Bundes-Land eine Wohnung suchen:": {
+    "Für wohnungssuchende Rollstuhlfahrer gibt es weiterhin eine spezielle Beratungsstelle, die auch über besondere Wohnformen, wie zum Beispiel Seniorenwohnungen, Mehrgenerationenwohnen et cetera informiert.": false,
+    "Für die Anmietung einer öffentlich geförderten Wohnung benötigen Sie einen Wohnberechtigungsschein.": false
+  },
+  "Es kann aber leider nicht allen Wohnungs-Suchenden helfen.": {
+    "Es fallen grundsätzlich keine gesonderten Gebühren an.": false
+  },
+  "Vorsprache für Vermieter von geförderten Wohnungen: Wenn Sie Fragen zum Vermieten haben, sprechen Sie uns bitte an!": {
+    "Für die Anmietung einer öffentlich geförderten Wohnung benötigen Sie einen Wohnberechtigungsschein.": false,
+    "Gebühren": false
+  },
+  "Dann beachten Sie bitte: Sie haben keinen gesetzlichen Anspruch : dass Sie von uns eine Wohnung bekommen.": {
+    "Ansonsten ist eine Antragstellung erforderlich.": false
+  },
+  "Das Wohnungs-Amt hilft Ihnen bei der Suche.": {
+    "Für wohnungssuchende Rollstuhlfahrer gibt es weiterhin eine spezielle Beratungsstelle, die auch über besondere Wohnformen, wie zum Beispiel Seniorenwohnungen, Mehrgenerationenwohnen et cetera informiert.": false
+  },
+  "Die Person, die Sie zu uns schicken:": {
+    "Ihre Wohnungssuche müssen sie jedoch in Eigenregie gestalten.": false
+  },
+  "Wohn-Berechtigung und Wohnungs-Vermittlung Ottmar-Pohl-Platz 1 51103 Köln": {
+    "Für wohnungssuchende Rollstuhlfahrer gibt es weiterhin eine spezielle Beratungsstelle, die auch über besondere Wohnformen, wie zum Beispiel Seniorenwohnungen, Mehrgenerationenwohnen et cetera informiert.": false
+  },
+  "Dann müssen Sie dort einen WBS beantragen.": {
+    "Benötigt werden Wenn Sie einen Wohnberechtigungsschein (WBS) haben, der in Nordrhein-Westfalen ausgestellt wurde, müssen Sie keinen besonderen Antrag stellen.": true
+  },
+  "Angebot für Wohnungs-Suchende": {
+    "Für wohnungssuchende Rollstuhlfahrer gibt es weiterhin eine spezielle Beratungsstelle, die auch über besondere Wohnformen, wie zum Beispiel Seniorenwohnungen, Mehrgenerationenwohnen et cetera informiert.": false
+  },
+  "Der zuständige WBS-Sachbearbeiter ist Ihr Ansprech-Partner bei Fragen zur Wohnungs-Suche.": {
+    "Für wohnungssuchende Rollstuhlfahrer gibt es weiterhin eine spezielle Beratungsstelle, die auch über besondere Wohnformen, wie zum Beispiel Seniorenwohnungen, Mehrgenerationenwohnen et cetera informiert.": false
+  },
+  "Sie müssen nicht persönlich vorbei kommen.": {
+    "Ihre Wohnungssuche müssen sie jedoch in Eigenregie gestalten.": false
+  },
+  "Diese Bescheinigung heißt: Wohn-Berechtigungs-Schein.": {
+    "Für die Anmietung einer öffentlich geförderten Wohnung benötigen Sie einen Wohnberechtigungsschein.": true
+  },
+  "Ein WBS ist eine Bescheinigung für Hilfe zum Wohnen.": {
+    "Beratungen zum Thema Wohnungssuche bieten die Mitarbeiterinnen und Mitarbeiter für den Wohnberechtigungsschein (WBS) an.": false,
+    "Hinweis für Wohnungssuchende": false
+  },
+  "Eine Liste von Vermieterinnen und Vermietern von geförderten Wohnungen in Köln finden Sie hier: Wohnungen finden Sie auch in Zeitungen oder im Internet .": {
+    "Benötigt werden Wenn Sie einen Wohnberechtigungsschein (WBS) haben, der in Nordrhein-Westfalen ausgestellt wurde, müssen Sie keinen besonderen Antrag stellen.": false
+  },
+  "Wenn Sie schon einen gültigen Wohn-Berechtigungs-Schein ( WBS ) haben.": {
+    "Benötigt werden Wenn Sie einen Wohnberechtigungsschein (WBS) haben, der in Nordrhein-Westfalen ausgestellt wurde, müssen Sie keinen besonderen Antrag stellen.": true
+  }
+}

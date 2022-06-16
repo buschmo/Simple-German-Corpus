@@ -1,0 +1,830 @@
+{
+    "lebenshilfe-main-taunus.de__ls__wohnen.html": {
+        "url": "http://web.archive.org/web/20210117032049/https://www.lebenshilfe-main-taunus.de/ls/wohnen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__wohnen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__ideen-und-beschwerden.html": {
+        "url": "http://web.archive.org/web/20210419122941/https://www.lebenshilfe-main-taunus.de/ls/ideen-und-beschwerden.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ideen-und-beschwerden.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__informationen-zum-betreuten-wohnen.html": {
+        "url": "http://web.archive.org/web/20210419115926/https://www.lebenshilfe-main-taunus.de/informationen-zum-betreuten-wohnen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__weitere-informationen-zum-betreuten-wohnen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__infos.html-1529997863.html": {
+        "url": "http://web.archive.org/web/20220529143159/https://www.lebenshilfe-main-taunus.de/ls/infos.html-1529997863.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__unser-infomaterial.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__buecherei-74.html": {
+        "url": "http://web.archive.org/web/20210419135424/https://www.lebenshilfe-main-taunus.de/buecherei-74.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__buecherei-74.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__vorstand.html": {
+        "url": "http://web.archive.org/web/20210419135202/https://www.lebenshilfe-main-taunus.de/vorstand.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__der-vorstand.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__schulungen.html": {
+        "url": "http://web.archive.org/web/20210419123354/https://www.lebenshilfe-main-taunus.de/schulungen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__schulungen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__treffpunkt-leichte-sprache-m-65.html": {
+        "url": "http://web.archive.org/web/20220328101252/https://www.lebenshilfe-main-taunus.de/treffpunkt-leichte-sprache-m-65/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__treffpunkt-leichte-sprache-m-65.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__haus-trappen-9.html": {
+        "url": "http://web.archive.org/web/20220529143026/https://www.lebenshilfe-main-taunus.de/ls/haus-trappen-9.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__haus-trappen-9.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__dabei-sein.html": {
+        "url": "http://web.archive.org/web/20210419120744/https://www.lebenshilfe-main-taunus.de/ls/dabei-sein.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__mitmachen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__beratungsstelle-wohnen-12.html": {
+        "url": "http://web.archive.org/web/20210418083614/https://www.lebenshilfe-main-taunus.de/beratungsstelle-wohnen-12.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__beratung-wohnen-12.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__spenden-helfen-mitmachen.html": {
+        "url": "http://web.archive.org/web/20220529143423/https://www.lebenshilfe-main-taunus.de/spenden-helfen-mitmachen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__spenden-helfen-mitmachen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__ueber-uns.html": {
+        "url": "http://web.archive.org/web/20210419114648/https://www.lebenshilfe-main-taunus.de/ls/ueber-uns.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ueber-uns.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__wohnheim-floersheim.html": {
+        "url": "http://web.archive.org/web/20210419134239/https://www.lebenshilfe-main-taunus.de/wohnheim-floersheim.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__wohnheim-floersheim.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__projekt-mitleben.html": {
+        "url": "http://web.archive.org/web/20210418074556/https://www.lebenshilfe-main-taunus.de/projekt-mitleben.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__mitleben.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__das-haus-wehr.html": {
+        "url": "http://web.archive.org/web/20220529142722/https://www.lebenshilfe-main-taunus.de/ls/das-haus-wehr.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__haus-wehr-betreute-wohngemeinschaft-179.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__unser-infomaterial.html": {
+        "url": "http://web.archive.org/web/20220529143636/https://www.lebenshilfe-main-taunus.de/unser-infomaterial.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__infos.html-1529997863.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__leichte-sprache.html": {
+        "url": "http://web.archive.org/web/20210419112852/https://www.lebenshilfe-main-taunus.de/leichte-sprache.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__texte-in-leichter-sprache.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__tages-betreuung.html": {
+        "url": "http://web.archive.org/web/20220529143247/https://www.lebenshilfe-main-taunus.de/ls/tages-betreuung.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__tagesstruktur.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__freizeit-und-kunst-m-30.html": {
+        "url": "http://web.archive.org/web/20210419130749/https://www.lebenshilfe-main-taunus.de/ls/freizeit-und-kunst-m-30/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__freizeit-und-kunst-m-30.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__buecherei-126.html": {
+        "url": "http://web.archive.org/web/20210419123216/https://www.lebenshilfe-main-taunus.de/buecherei-126.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__buecherei-126.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__beratungsstelle-stark.html": {
+        "url": "http://web.archive.org/web/20220529142011/https://www.lebenshilfe-main-taunus.de/beratungsstelle-stark.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__beratungs-stelle-stark.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__impressum.html": {
+        "url": "http://web.archive.org/web/20220529142551/https://www.lebenshilfe-main-taunus.de/impressum.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__impressum.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__buecherei-74.html": {
+        "url": "http://web.archive.org/web/20200812064850/https://www.lebenshilfe-main-taunus.de/ls/buecherei-74.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__buecherei-74.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__die-villa-luce.html": {
+        "url": "http://web.archive.org/web/20220529142853/https://www.lebenshilfe-main-taunus.de/ls/die-villa-luce.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__villa-luce-5.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ueber-uns.html": {
+        "url": "http://web.archive.org/web/20210419122659/https://www.lebenshilfe-main-taunus.de/ueber-uns.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__ueber-uns.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__haus-walburga.html": {
+        "url": "http://web.archive.org/web/20210419123839/https://www.lebenshilfe-main-taunus.de/haus-walburga.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__wohnheim-haus-walburga.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__schulungen.html": {
+        "url": "http://web.archive.org/web/20220401085118/https://www.lebenshilfe-main-taunus.de/ls/schulungen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__schulungen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__galerie.html": {
+        "url": "http://web.archive.org/web/20210419134933/https://www.lebenshilfe-main-taunus.de/galerie.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__galerie.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__beratung-und-foerderung-m-79.html": {
+        "url": "http://web.archive.org/web/20210518194520/https://www.lebenshilfe-main-taunus.de/beratung-und-foerderung-m-79/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__beratung-und-foerderung-m-79.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__was-wir-bieten.html": {
+        "url": "http://web.archive.org/web/20210419125124/https://www.lebenshilfe-main-taunus.de/ls/was-wir-bieten.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__was-wir-bieten.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__haus-wehr-betreute-wohngemeinschaft-179.html": {
+        "url": "http://web.archive.org/web/20210419124143/https://www.lebenshilfe-main-taunus.de/haus-wehr-betreute-wohngemeinschaft-179.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__das-haus-wehr.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__gruppen.html": {
+        "url": "http://web.archive.org/web/20220529142323/https://www.lebenshilfe-main-taunus.de/gruppen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__gruppen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__reisen.html": {
+        "url": "http://web.archive.org/web/20220529143339/https://www.lebenshilfe-main-taunus.de/reisen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__reisen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__helfen.html": {
+        "url": "http://web.archive.org/web/20220401083648/https://www.lebenshilfe-main-taunus.de/ls/helfen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__helfen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__familienunterstuetzender-dienst-fud.html": {
+        "url": "http://web.archive.org/web/20210419114228/https://www.lebenshilfe-main-taunus.de/familienunterstuetzender-dienst-fud.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__familien-unterstuetzender-dienst.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__freizeit-und-kunst.html": {
+        "url": "http://web.archive.org/web/20210225195237/https://www.lebenshilfe-main-taunus.de/ls/freizeit-und-kunst.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__freizeit.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__weitere-informationen-zum-betreuten-wohnen.html": {
+        "url": "http://web.archive.org/web/20220401083927/https://www.lebenshilfe-main-taunus.de/ls/weitere-informationen-zum-betreuten-wohnen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__informationen-zum-betreuten-wohnen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__wohnheime.html": {
+        "url": "http://web.archive.org/web/20210117022018/https://www.lebenshilfe-main-taunus.de/ls/wohnheime.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__die-wohnhaeuser-der-lebenshilfe.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__wohnheim-haus-walburga.html": {
+        "url": "http://web.archive.org/web/20210117022640/https://www.lebenshilfe-main-taunus.de/ls/wohnheim-haus-walburga.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__haus-walburga.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__wohnheim-floersheim.html": {
+        "url": "http://web.archive.org/web/20210225184833/https://www.lebenshilfe-main-taunus.de/ls/wohnheim-floersheim.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__wohnheim-floersheim.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__freie-stellen.html": {
+        "url": "http://web.archive.org/web/20220529142143/https://www.lebenshilfe-main-taunus.de/freie-stellen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__freie-stellen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__beratung-und-foerderung.html": {
+        "url": "http://web.archive.org/web/20210419123443/https://www.lebenshilfe-main-taunus.de/beratung-und-foerderung.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__beratung-und-foerderung.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__wohnen.html": {
+        "url": "http://web.archive.org/web/20210419121038/https://www.lebenshilfe-main-taunus.de/wohnen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__wohnen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__beratung-und-foerderung.html": {
+        "url": "http://web.archive.org/web/20220401084159/https://www.lebenshilfe-main-taunus.de/ls/beratung-und-foerderung.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__beratung-und-foerderung.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__betreutes-wohnen.html": {
+        "url": "http://web.archive.org/web/20220529142059/https://www.lebenshilfe-main-taunus.de/betreutes-wohnen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__betreutes-wohnen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__die-frueh-foerder-stelle.html": {
+        "url": "http://web.archive.org/web/20220529142811/https://www.lebenshilfe-main-taunus.de/ls/die-frueh-foerder-stelle.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__fruehfoerderung.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__freie-stellen.html": {
+        "url": "http://web.archive.org/web/20210419122432/https://www.lebenshilfe-main-taunus.de/ls/freie-stellen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__freie-stellen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ueber-uns-m-7.html": {
+        "url": "http://web.archive.org/web/20210419111652/https://www.lebenshilfe-main-taunus.de/ueber-uns-m-7/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__ueber-uns-m-7.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__haus-flesch.html": {
+        "url": "http://web.archive.org/web/20210419125345/https://www.lebenshilfe-main-taunus.de/haus-flesch.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__haus-flesch.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__beratung-wohnen-12.html": {
+        "url": "http://web.archive.org/web/20210117021759/https://www.lebenshilfe-main-taunus.de/ls/beratung-wohnen-12.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__beratungsstelle-wohnen-12.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__spenden-helfen-mitmachen.html": {
+        "url": "http://web.archive.org/web/20210419133030/https://www.lebenshilfe-main-taunus.de/ls/spenden-helfen-mitmachen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__spenden-helfen-mitmachen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__familien-unterstuetzender-dienst.html": {
+        "url": "http://web.archive.org/web/20200926184140/https://www.lebenshilfe-main-taunus.de/ls/familien-unterstuetzender-dienst.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__familienunterstuetzender-dienst-fud.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__haus-flesch.html": {
+        "url": "http://web.archive.org/web/20210117033610/https://www.lebenshilfe-main-taunus.de/ls/haus-flesch.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__haus-flesch.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__was-wir-bieten.html": {
+        "url": "http://web.archive.org/web/20210419131057/https://www.lebenshilfe-main-taunus.de/was-wir-bieten.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__was-wir-bieten.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__fruehfoerderung.html": {
+        "url": "http://web.archive.org/web/20220529142240/https://www.lebenshilfe-main-taunus.de/fruehfoerderung.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__die-frueh-foerder-stelle.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__die-kunst-gruppe.html": {
+        "url": "http://web.archive.org/web/20220401084555/https://www.lebenshilfe-main-taunus.de/ls/die-kunst-gruppe.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__kunstforum.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__informationen-und-pressestimmen.html": {
+        "url": "http://web.archive.org/web/20210419115204/https://www.lebenshilfe-main-taunus.de/informationen-und-pressestimmen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__infos-zu-leichter-sprache.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__beratungs-stelle-stark.html": {
+        "url": "http://web.archive.org/web/20220401084353/https://www.lebenshilfe-main-taunus.de/ls/beratungs-stelle-stark.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__beratungsstelle-stark.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__impressum.html": {
+        "url": "http://web.archive.org/web/20220529143116/https://www.lebenshilfe-main-taunus.de/ls/impressum.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__impressum.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__haus-trappen-9.html": {
+        "url": "http://web.archive.org/web/20220529142455/https://www.lebenshilfe-main-taunus.de/haus-trappen-9.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__haus-trappen-9.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__kunst.html": {
+        "url": "http://web.archive.org/web/20210225193352/https://www.lebenshilfe-main-taunus.de/ls/kunst.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__kunst.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__der-vorstand.html": {
+        "url": "http://web.archive.org/web/20210419122122/https://www.lebenshilfe-main-taunus.de/ls/der-vorstand.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__vorstand.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__tagesstruktur.html": {
+        "url": "http://web.archive.org/web/20220529143505/https://www.lebenshilfe-main-taunus.de/tagesstruktur.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__tages-betreuung.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__reisen.html": {
+        "url": "http://web.archive.org/web/20210225194538/https://www.lebenshilfe-main-taunus.de/ls/reisen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__reisen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__freizeit-und-kunst-m-30.html": {
+        "url": "http://web.archive.org/web/20210307060535/https://www.lebenshilfe-main-taunus.de/freizeit-und-kunst-m-30/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__freizeit-und-kunst-m-30.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__freizeit-programm.html": {
+        "url": "http://web.archive.org/web/20210225184957/https://www.lebenshilfe-main-taunus.de/ls/freizeit-programm.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__programm-des-familienunterstuetzenden-diensts.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__gruppen.html": {
+        "url": "http://web.archive.org/web/20210510045338/https://www.lebenshilfe-main-taunus.de/ls/gruppen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__gruppen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__betreutes-wohnen.html": {
+        "url": "http://web.archive.org/web/20220529142637/https://www.lebenshilfe-main-taunus.de/ls/betreutes-wohnen.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__betreutes-wohnen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__villa-luce-5.html": {
+        "url": "http://web.archive.org/web/20220529143722/https://www.lebenshilfe-main-taunus.de/villa-luce-5.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__die-villa-luce.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__kunst.html": {
+        "url": "http://web.archive.org/web/20210419131452/https://www.lebenshilfe-main-taunus.de/kunst.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__kunst.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__grusswort.html": {
+        "url": "http://web.archive.org/web/20220529142936/https://www.lebenshilfe-main-taunus.de/ls/grusswort.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__grusswort.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__kunstforum.html": {
+        "url": "http://web.archive.org/web/20210419122758/https://www.lebenshilfe-main-taunus.de/kunstforum.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__die-kunst-gruppe.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__programm-des-familienunterstuetzenden-diensts.html": {
+        "url": "http://web.archive.org/web/20210419133213/https://www.lebenshilfe-main-taunus.de/programm-des-familienunterstuetzenden-diensts.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__freizeit-programm.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ideen-und-beschwerden.html": {
+        "url": "http://web.archive.org/web/20210419113659/https://www.lebenshilfe-main-taunus.de/ideen-und-beschwerden.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__ideen-und-beschwerden.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__infos-zu-leichter-sprache.html": {
+        "url": "http://web.archive.org/web/20220401084728/https://www.lebenshilfe-main-taunus.de/ls/infos-zu-leichter-sprache.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__informationen-und-pressestimmen.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__freizeit.html": {
+        "url": "http://web.archive.org/web/20210419130249/https://www.lebenshilfe-main-taunus.de/freizeit.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__freizeit-und-kunst.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__treffpunkt-leichte-sprache.html-1526288265.html-1526288405.html": {
+        "url": "http://web.archive.org/web/20220401084923/https://www.lebenshilfe-main-taunus.de/ls/treffpunkt-leichte-sprache.html-1526288265.html-1526288405.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__treffpunkt-leichte-sprache.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__buecherei-126.html": {
+        "url": "http://web.archive.org/web/20210225192022/https://www.lebenshilfe-main-taunus.de/ls/buecherei-126.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__buecherei-126.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__treffpunkt-leichte-sprache-m-65.html": {
+        "url": "http://web.archive.org/web/20210419132300/https://www.lebenshilfe-main-taunus.de/ls/treffpunkt-leichte-sprache-m-65/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__treffpunkt-leichte-sprache-m-65.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__wohnen-und-arbeit-m-20.html": {
+        "url": "http://web.archive.org/web/20210419121431/https://www.lebenshilfe-main-taunus.de/ls/wohnen-und-arbeit-m-20/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__wohnen-und-arbeit-m-20.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__treffpunkt-leichte-sprache.html": {
+        "url": "http://web.archive.org/web/20220529143548/https://www.lebenshilfe-main-taunus.de/treffpunkt-leichte-sprache.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__treffpunkt-leichte-sprache.html-1526288265.html-1526288405.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__ueber-uns-m-7.html": {
+        "url": "http://web.archive.org/web/20210419125746/https://www.lebenshilfe-main-taunus.de/ls/ueber-uns-m-7/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ueber-uns-m-7.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__mitmachen.html": {
+        "url": "http://web.archive.org/web/20210419125925/https://www.lebenshilfe-main-taunus.de/mitmachen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__dabei-sein.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__mitleben.html": {
+        "url": "http://web.archive.org/web/20210117023228/https://www.lebenshilfe-main-taunus.de/ls/mitleben.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__projekt-mitleben.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__die-wohnhaeuser-der-lebenshilfe.html": {
+        "url": "http://web.archive.org/web/20210418074144/https://www.lebenshilfe-main-taunus.de/die-wohnhaeuser-der-lebenshilfe.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__wohnheime.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__wohnen-und-arbeit-m-20.html": {
+        "url": "http://web.archive.org/web/20210518193142/https://www.lebenshilfe-main-taunus.de/wohnen-und-arbeit-m-20/",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__wohnen-und-arbeit-m-20.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__grusswort.html": {
+        "url": "http://web.archive.org/web/20220529142406/https://www.lebenshilfe-main-taunus.de/grusswort.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__grusswort.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__texte-in-leichter-sprache.html": {
+        "url": "http://web.archive.org/web/20220401085011/https://www.lebenshilfe-main-taunus.de/ls/texte-in-leichter-sprache.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__leichte-sprache.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__galerie.html": {
+        "url": "http://web.archive.org/web/20180213051149/http://lebenshilfe-main-taunus.de/ls/galerie.html",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__galerie.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__ls__beratung-und-foerderung-m-79.html": {
+        "url": "http://web.archive.org/web/20210419130158/https://www.lebenshilfe-main-taunus.de/ls/beratung-und-foerderung-m-79/",
+        "crawl_date": "2022-01-29",
+        "easy": true,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__beratung-und-foerderung-m-79.html"
+        ]
+    },
+    "lebenshilfe-main-taunus.de__helfen.html": {
+        "url": "http://web.archive.org/web/20210419131856/https://www.lebenshilfe-main-taunus.de/helfen.html",
+        "crawl_date": "2022-01-29",
+        "easy": false,
+        "publication_date": null,
+        "matching_files": [
+            "lebenshilfe-main-taunus.de__ls__helfen.html"
+        ]
+    }
+}

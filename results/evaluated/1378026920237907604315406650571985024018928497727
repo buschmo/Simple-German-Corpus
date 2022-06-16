@@ -1,0 +1,49 @@
+{
+  "Der Kultus-Minister von Sachsen hat das Corona-Virus.": {
+    "Sachsens Kultusminister Christian Piwarz (CDU) hat sich mit dem Coronavirus infiziert.": true,
+    "Der Kultusminister befindet sich demnach bereits seit Montag in häuslicher Quarantäne.": false,
+    "Nachdem der Corona-Verdacht bei Sachsens Ministerpräsident Michael Kretschmer noch nicht ausgeräumt ist, gibt es nun ein zweites Mitglied im sächsischen Kabinett, bei dem sich dieser Verdacht schon bestätigt hat: bei Kultusminister Christian Piwarz.": true
+  },
+  "Er hat Symptome wie bei einer Erkältung.": {
+    "Seine Ehefrau hat Covid-19 mit leichten Symptomen.": false,
+    "Nachdem der Corona-Verdacht bei Sachsens Ministerpräsident Michael Kretschmer noch nicht ausgeräumt ist, gibt es nun ein zweites Mitglied im sächsischen Kabinett, bei dem sich dieser Verdacht schon bestätigt hat: bei Kultusminister Christian Piwarz.": false
+  },
+  "Deshalb hat er einen Corona-Test gemacht.": {
+    "Seinen Dienstaufgaben gehe er, soweit möglich, von Zuhause aus nach.": false
+  },
+  "Er ist seit Montag in Quarantäne .": {
+    "Der Kultusminister befindet sich demnach bereits seit Montag in häuslicher Quarantäne.": true,
+    "Auswärtige Termine würden für die Dauer der Quarantäne abgesagt.": false
+  },
+  "Aber manche Sachen für seine Arbeit kann er auch von zu Hause weiter machen.": {
+    "Seinen Dienstaufgaben gehe er, soweit möglich, von Zuhause aus nach.": true,
+    "Auswärtige Termine würden für die Dauer der Quarantäne abgesagt.": true
+  },
+  "Aber er ist trotzdem von den Corona-Virus krank geworden.": {
+    "Seinen Dienstaufgaben gehe er, soweit möglich, von Zuhause aus nach.": false
+  },
+  "Der Kultus-Minister von Sachsen heißt Christian Piwarz.": {
+    "Sachsens Kultusminister Christian Piwarz (CDU) hat sich mit dem Coronavirus infiziert.": true,
+    "Sachsens Kultusminister Piwarz an Corona erkrankt.": false,
+    "Nachdem der Corona-Verdacht bei Sachsens Ministerpräsident Michael Kretschmer noch nicht ausgeräumt ist, gibt es nun ein zweites Mitglied im sächsischen Kabinett, bei dem sich dieser Verdacht schon bestätigt hat: bei Kultusminister Christian Piwarz.": true
+  },
+  "Und der Corona-Test hat gezeigt:": {
+    "Nachdem der Corona-Verdacht bei Sachsens Ministerpräsident Michael Kretschmer noch nicht ausgeräumt ist, gibt es nun ein zweites Mitglied im sächsischen Kabinett, bei dem sich dieser Verdacht schon bestätigt hat: bei Kultusminister Christian Piwarz.": false
+  },
+  "Christian Piwarz ist gegen das Corona-Virus ge-impft .": {
+    "Nachdem der Corona-Verdacht bei Sachsens Ministerpräsident Michael Kretschmer noch nicht ausgeräumt ist, gibt es nun ein zweites Mitglied im sächsischen Kabinett, bei dem sich dieser Verdacht schon bestätigt hat: bei Kultusminister Christian Piwarz.": false,
+    "Piwarz ist laut Ministerium vollständig geimpft und zeigt Erkältungssymptome.": true,
+    "Sachsens Kultusminister Christian Piwarz (CDU) hat sich mit dem Coronavirus infiziert.": false
+  },
+  "Christian Piwarz hat das Corona-Virus .": {
+    "Piwarz ist laut Ministerium vollständig geimpft und zeigt Erkältungssymptome.": false,
+    "Sachsens Kultusminister Christian Piwarz (CDU) hat sich mit dem Coronavirus infiziert.": true
+  },
+  "Er hat sich krank gefühlt.": {
+    "Nachdem der Corona-Verdacht bei Sachsens Ministerpräsident Michael Kretschmer noch nicht ausgeräumt ist, gibt es nun ein zweites Mitglied im sächsischen Kabinett, bei dem sich dieser Verdacht schon bestätigt hat: bei Kultusminister Christian Piwarz.": false
+  },
+  "Das bedeutet: Er ist bei sich zu Hause und darf nicht aus dem Haus gehen.": {
+    "Seinen Dienstaufgaben gehe er, soweit möglich, von Zuhause aus nach.": false
+  },
+  "finished": true
+}

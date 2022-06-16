@@ -1,0 +1,3 @@
+Datasets/*/**
+!Datasets/*/archive_header.json
+defaultvalues.py
