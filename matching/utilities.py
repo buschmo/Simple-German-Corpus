@@ -11,7 +11,7 @@ import hashlib
 from spacy.tokens import Doc
 from typing import Iterator
 
-from matching import defaultvalues
+import defaultvalues
 
 nlp = spacy.load('de_core_news_lg')
 

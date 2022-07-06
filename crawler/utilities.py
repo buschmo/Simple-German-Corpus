@@ -474,7 +474,7 @@ def log_resaving_file(filepath: Path):
 
 def already_logged(url: str) -> bool:
     path = get_headerpath_from_url(url)
-    if os.path.exists(path):_description_
+    if os.path.exists(path):
         with open(path, "r") as f:
             content = f.read()
             return bool(url in content)
