@@ -1,15 +1,17 @@
+import os
+import re
+import json
+import urllib
+import urllib3
 import requests
+
+from pathlib import Path
 from bs4 import BeautifulSoup
 from bs4.element import ResultSet
-import os
-import urllib
-from pathlib import Path
-import json
-import re
 from collections.abc import Callable
+from requests.adapters import HTTPAdapter
 
 from datetime import datetime, timedelta, date
-import time
 
 
 HEADERS = {
@@ -21,8 +23,14 @@ LAST_SCRAPE = None
 
 from_archive = False
 
+session = requests.Session()
+retry = urllib3.util.Retry(connect=3, backoff_factor=0.2)
+adapter = HTTPAdapter(max_retries=retry)
+session.mount('http://', adapter)
+session.mount('https://', adapter)
 
-def read_soup(url: str) ->BeautifulSoup:
+
+def read_soup(url: str) -> BeautifulSoup:
     """ Read soup given by url
     Reads the file of the soup and returns it.
     Downloads the soup if necessary.
@@ -45,7 +53,7 @@ def read_soup(url: str) ->BeautifulSoup:
     return soup
 
 
-def save_parallel_soup(normal_soup:BeautifulSoup, normal_url: str, easy_soup:BeautifulSoup, easy_url: str, publication_date:str=None):
+def save_parallel_soup(normal_soup: BeautifulSoup, normal_url: str, easy_soup: BeautifulSoup, easy_url: str, publication_date: str=None):
     """ Save parallel normal and easy webpage
     Given parallel BeautifulSoups, this methods saves both and setups the needed header file information.
 
@@ -68,7 +76,7 @@ def save_parallel_soup(normal_soup:BeautifulSoup, normal_url: str, easy_soup:Bea
                 normal_filepath, True, publication_date)
 
 
-def save_soup(soup:BeautifulSoup, filepath: Path):
+def save_soup(soup: BeautifulSoup, filepath: Path):
     """ Saves a given soup under given path
 
     Args:
@@ -103,7 +111,7 @@ def load_header(url: str) -> dict:
     return header
 
 
-def save_header(filepath : Path, url: str, matching_filepath: Path, bool_easy: bool = False, publication_date:str=None):
+def save_header(filepath: Path, url: str, matching_filepath: Path, bool_easy: bool = False, publication_date: str=None):
     """ Saves the given information to the header file determined by url
 
     Args:
@@ -234,7 +242,7 @@ def get_headerpath_from_url(url: str, parsed: bool = False) -> Path:
         return Path("Datasets", foldername, "header.json")
 
 
-def get_log_path_from_url(url: str)->Path:
+def get_log_path_from_url(url: str) -> Path:
     """ Path to the log file
 
     Args:
@@ -282,18 +290,8 @@ def get_soup_from_url(url: str) -> BeautifulSoup:
 
     Returns:
         BeautifulSoup: downloaded BeautifulSoup
-    """    
-    global LAST_SCRAPE
-    if LAST_SCRAPE is not None:
-        time_since_last = datetime.now() - LAST_SCRAPE
-
-        sleep_time = timedelta(0, SCRAPE_DELAY) - time_since_last
-
-        if sleep_time >= timedelta(0):
-            time.sleep(sleep_time.seconds)
-
-    response = requests.get(url, headers=HEADERS)
-    LAST_SCRAPE = datetime.now()
+    """
+    response = session.get(url, headers=HEADERS)
 
     return BeautifulSoup(response.text, 'html.parser')
 
@@ -321,7 +319,7 @@ def get_urls_from_soup(soup, base_url: str, filter_args: dict = {}, recursive_fi
     return urls
 
 
-def parse_url(url:str, base_url:str) -> str:
+def parse_url(url: str, base_url: str) -> str:
     """ Adds the base_url to url
     Some webpages only yield /some_page as url instead of base_url.domain/some_page
 
@@ -337,7 +335,7 @@ def parse_url(url:str, base_url:str) -> str:
     return url
 
 
-def parse_soups(base_url :str, parser: Callable[[BeautifulSoup], BeautifulSoup]):
+def parse_soups(base_url: str, parser: Callable[[BeautifulSoup], BeautifulSoup]):
     """ Traverses all downloaded files for a given url and parses the content.
 
     Args:

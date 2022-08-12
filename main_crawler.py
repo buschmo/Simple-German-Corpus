@@ -3,6 +3,7 @@ import json
 import urllib
 import os
 import time
+from tqdm import tqdm
 import crawler.utilities as utl
 
 
@@ -26,7 +27,7 @@ def main(from_archive: bool = False):
             #     continue
             print(f"Crawling {website_module.base_url}")
             header = utl.load_header(website_module.base_url)
-            for key in header:
+            for key in tqdm(header):
                 url = header[key]["url"]
                 filepath = utl.get_crawled_path_from_url(url)
                 if not os.path.exists(filepath):
