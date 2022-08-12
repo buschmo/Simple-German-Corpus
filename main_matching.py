@@ -8,6 +8,77 @@ from multiprocessing import Pool
 
 from typing import Iterator
 
+# setup lists for all settings
+similarity_measures = ["n_gram", "bag_of_words",
+                       "cosine", "average", "maximum", "max_matching", "CWASA"]
+sd_thresholds = [0.0, 1.5]
+doc_matchings = ["max", "max_increasing_subsequence"]
+
+header_file = "results/header_matching.json"
+
+# preprocessing arguments for gram and embeddings
+kwargs_gram = utl.make_preprocessing_dict(remove_punctuation=True)
+kwargs_embeddings = utl.make_preprocessing_dict(
+    lowercase=False, remove_punctuation=True)
+
+# output folder setup
+if not os.path.exists("results/matched"):
+    os.makedirs("results/matched")
+
+# check if some matchings have already been calculated
+if not Path(header_file).exists():
+    header = dict()
+else:
+    with open(header_file, 'r') as fp:
+        header = json.load(fp)
+
+# n for n-gram
+n = 4
+
+print("Start working")
+
+articles = utl.get_article_pairs()
+unnested_articles = utl.get_unnested_articles(articles)
+
+# concatenate all article names and hash it
+idf_article_string = ''.join([art.split('/')[-1]
+                             for art in sorted(list(unnested_articles))])
+idf_article_hash = utl.get_hash(idf_article_string)
+
+print("ARTICLE HASH", idf_article_hash)
+
+# check for word idf (and calculate if necessary)
+found = False
+word_idf = dict()
+if Path("results/word_idf.json").exists():
+    with open("results/word_idf.json", 'r') as fp:
+        hash, word_idf = json.load(fp)
+        if hash == idf_article_hash:
+            found = True
+            print("Word idf was already computed!")
+if not found:
+    word_idf = utl.calculate_full_word_idf(
+        unnested_articles, **kwargs_gram)
+    print("Calculated new word idf")
+    with open("results/word_idf.json", 'w') as fp:
+        json.dump([idf_article_hash, word_idf], fp, ensure_ascii=False)
+
+# check for n-gram idf (and calculate if necessary)
+found = False
+n_gram_idf = dict()
+if Path(f"results/{n}_gram_idf.json").exists():
+    with open(f"results/{n}_gram_idf.json", 'r') as fp:
+        hash, n_gram_idf = json.load(fp)
+        if hash == idf_article_hash:
+            found = True
+            print("n_gram idf was already computed!")
+if not found:
+    n_gram_idf = utl.calculate_full_n_gram_idf(
+        unnested_articles, n, **kwargs_gram)
+    print("Calculated new n gram idf")
+    with open(f"results/{n}_gram_idf.json", 'w') as fp:
+        json.dump([idf_article_hash, n_gram_idf], fp, ensure_ascii=False)
+
 
 def article_generator_parallel(matched_article_list: list[tuple[str, str]]) -> Iterator[tuple[str, str, str, str]]:
     """ Generator function that iteratively returns preprocessed articles.
@@ -152,82 +223,9 @@ def main():
     """
     Calculates all pairings of similarity measures and alignment methods.
 
-    BEWARE! Eventhough this calculation is computed in parallel it takes a lot of time.
+    BEWARE! Even though this calculation is computed in parallel it takes a lot of time.
     Also there are no checkpoints.
     """
-    global similarity_measures, sd_thresholds, doc_matchings, header, n, word_idf, n_gram_idf, kwargs_gram, kwargs_embeddings
-
-    # setup lists for all settings
-    similarity_measures = ["n_gram", "bag_of_words",
-                           "cosine", "average", "maximum", "max_matching", "CWASA"]
-    sd_thresholds = [0.0, 1.5]
-    doc_matchings = ["max", "max_increasing_subsequence"]
-
-    header_file = "results/header_matching.json"
-
-    # preprocessing arguments for gram and embeddings
-    kwargs_gram = utl.make_preprocessing_dict(remove_punctuation=True)
-    kwargs_embeddings = utl.make_preprocessing_dict(
-        lowercase=False, remove_punctuation=True)
-
-    # output folder setup
-    if not os.path.exists("results/matched"):
-        os.makedirs("results/matched")
-
-    # check if some matchings have already been calculated
-    if not Path(header_file).exists():
-        header = dict()
-    else:
-        with open(header_file, 'r') as fp:
-            header = json.load(fp)
-
-    # n for n-gram
-    n = 4
-
-    print("Start working")
-
-    articles = utl.get_article_pairs()
-    unnested_articles = utl.get_unnested_articles(articles)
-
-    # concatenate all article names and hash it
-    idf_article_string = ''.join([art.split('/')[-1]
-                                 for art in sorted(list(unnested_articles))])
-    idf_article_hash = utl.get_hash(idf_article_string)
-
-    print("ARTICLE HASH", idf_article_hash)
-
-    # check for word idf (and calculate if necessary)
-    found = False
-    word_idf = dict()
-    if Path("results/word_idf.json").exists():
-        with open("results/word_idf.json", 'r') as fp:
-            hash, word_idf = json.load(fp)
-            if hash == idf_article_hash:
-                found = True
-                print("Word idf was already computed!")
-    if not found:
-        word_idf = utl.calculate_full_word_idf(
-            unnested_articles, **kwargs_gram)
-        print("Calculated new word idf")
-        with open("results/word_idf.json", 'w') as fp:
-            json.dump([idf_article_hash, word_idf], fp, ensure_ascii=False)
-
-    # check for n-gram idf (and calculate if necessary)
-    found = False
-    n_gram_idf = dict()
-    if Path(f"results/{n}_gram_idf.json").exists():
-        with open(f"results/{n}_gram_idf.json", 'r') as fp:
-            hash, n_gram_idf = json.load(fp)
-            if hash == idf_article_hash:
-                found = True
-                print("n_gram idf was already computed!")
-    if not found:
-        n_gram_idf = utl.calculate_full_n_gram_idf(
-            unnested_articles, n, **kwargs_gram)
-        print("Calculated new n gram idf")
-        with open(f"results/{n}_gram_idf.json", 'w') as fp:
-            json.dump([idf_article_hash, n_gram_idf], fp, ensure_ascii=False)
-
     # start multi-processed matching calculation
     with Pool() as p:
         header_extensions = p.starmap(parallel, article_generator_parallel(

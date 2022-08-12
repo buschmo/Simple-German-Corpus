@@ -8,6 +8,7 @@ import os
 import json
 import hashlib
 
+from tqdm import tqdm
 from spacy.tokens import Doc
 from typing import Iterator
 
@@ -206,7 +207,7 @@ def calculate_full_n_gram_idf(articles: set[str], n=3, **kwargs) -> dict[str, fl
     idf_dict = dict()
     article_count = 0
 
-    for article in articles:
+    for article in tqdm(articles):
 
         article_n_gram_set = set()
 
@@ -288,7 +289,7 @@ def calculate_full_word_idf(articles: set[str], **kwargs) -> dict[str, float]:
     idf_dict = dict()
     article_count = 0
 
-    for article in articles:
+    for article in tqdm(articles):
 
         article_n_gram_set = set()
 
