@@ -9,8 +9,23 @@ Currently, there are only few works that build a parallel corpus between Simple 
 1. Scraping websites with parallel versions for German and Simple German
 2. Implementing various algorithms presented in the literature to form a corpus that contains aligned, "translated" sentences.
 
+
+## Installation
+
+We recommend creating a virtual python environment, e.g. using anaconda
+
+  conda create -n simple-german python=3.10
+
+and installing the required packages
+
+  conda activate simple-german
+  pip install -r requirements
+  python -m spacy download de_core_news_lg
+
+
 ## Usage
-Before using the repo, you **must** create the file `defaultvalues.py`.
+
+Before using the repo, you **must** edit the file `defaultvalues.py`.
 Within it, you need to define the variable `repository_location`, the absolute path to the folder of this repository. E.g. `dataset=/home/bob/Simple-German-Corpus`.
 You can also change any of the other variables.
 
