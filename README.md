@@ -1,5 +1,14 @@
 # A New Aligned Simple German Corpus
-This repository contains the data and code for a Simple German Corpus. This work originated from the lab module MA-INF 4306 of the university of Bonn.
+This repository contains the data and code for a Simple German Corpus. 
+
+If you use the corpus in your research, please cite our paper
+
+```
+@article{toborek2022simplegerman,
+  title={A New Aligned Simple German Corpus},
+  author={Toborek, Vanessa and Busch, Moritz and Bo{\ss}ert, Malte and Bauckhage, Christian and Welke, Pascal}
+}
+```
 
 ## About
 The German language knows two versions of plain language: Einfache Sprache (Simple German) and [Leichte Sprache](https://leichte-sprache.de/), the latter being controlled by the _Netzwerk Leichte Sprache_.
