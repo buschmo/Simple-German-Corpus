@@ -14,20 +14,23 @@ Currently, there are only few works that build a parallel corpus between Simple 
 
 We recommend creating a virtual python environment, e.g. using anaconda
 
-  conda create -n simple-german python=3.10
+```
+conda create -n simple-german python=3.10
+```
 
 and installing the required packages
 
-  conda activate simple-german
-  pip install -r requirements
-  python -m spacy download de_core_news_lg
-
-
-## Usage
+```
+conda activate simple-german
+pip install -r requirements
+python -m spacy download de_core_news_lg
+```
 
 Before using the repo, you **must** edit the file `defaultvalues.py`.
 Within it, you need to define the variable `repository_location`, the absolute path to the folder of this repository. E.g. `dataset=/home/bob/Simple-German-Corpus`.
 You can also change any of the other variables.
+
+## Usage
 
 Please note, that downloading is throttled by a 5 second delay to reduce network traffic.
 You can change this in `crawler/utilities.py`
