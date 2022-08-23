@@ -8,8 +8,8 @@ file_matchings = set()
 
 print(os.environ.get("USERNAME"))
 
-if not os.path.isdir("results/evaluated/"):
-    os.mkdir("results/evaluated/")
+if not os.path.isdir(f"{results_location}/evaluated/"):
+    os.mkdir(f"{results_location}/evaluated/")
 
 websites = ["www.apotheken-umschau.de",
             "www.behindertenbeauftragter.de",
@@ -24,13 +24,13 @@ global filtered_files
 
 # Print out number of already evaluated results per website
 website_count = [0 for _ in websites]
-set_evaluated = set([file[:-8] for file in os.listdir("results/evaluated")])
+set_evaluated = set([file[:-8] for file in os.listdir(f"{results_location}/evaluated")])
 for i, website in enumerate(websites):
     with open(os.path.join(dataset_location, f"{website}/parsed_header.json")) as fp:
         header = json.load(fp)
         website_keys = header.keys()
 
-    with open("results/header_matching.json") as fp:
+    with open(f"{results_location}/header_matching.json") as fp:
         header = json.load(fp)
         set_matched = set()
         for key in header:
@@ -46,7 +46,7 @@ if website_selection:
     with open(os.path.join(dataset_location, f"{websites[website_selection - 1]}/parsed_header.json")) as fp:
         header = json.load(fp)
         website_keys = header.keys()
-    with open("results/header_matching.json") as fp:
+    with open(f"{results_location}/header_matching.json") as fp:
         header = json.load(fp)
         filtered_files = []
         for key in header:
@@ -54,11 +54,11 @@ if website_selection:
                 for file in header[key]:
                     filtered_files.append(file.split("/")[-1])
 elif website_selection==0:
-    filtered_files = os.listdir("results/matched")
+    filtered_files = os.listdir(matching_location)
 else:
     exit()
 
-for root, dirs, files in os.walk("results/matched"):
+for root, dirs, files in os.walk(matching_location):
     for file in files:
         if file.endswith(".matches"):
             filepath = os.path.join(root, file)
@@ -72,7 +72,7 @@ def get_matches():
         matches = set()
         for file in filtered_files:
             if file.endswith("1.5.matches") and file.startswith(comb):
-                with open(os.path.join("results/matched", file), 'r') as fp:
+                with open(os.path.join(matching_location, file), 'r') as fp:
                     doc_matches = json.load(fp)
                     for ind, sentences, sim in doc_matches:
                         sentence_tuple = (sentences[0], sentences[1])
@@ -114,13 +114,13 @@ def undefined():
 
 
 def write_results(comb, res):
-    with open("results/evaluated/" + comb + ".results", 'w') as fp:
+    with open(f"{results_location}/evaluated/" + comb + ".results", 'w') as fp:
         json.dump(res, fp, indent=2, ensure_ascii=False)
 
 
 def load_results(comb):
     try:
-        with open("results/evaluated/" + comb + ".results", 'r') as fp:
+        with open(f"{results_location}/evaluated/" + comb + ".results", 'r') as fp:
             return json.load(fp)
     except FileNotFoundError:
         return dict()

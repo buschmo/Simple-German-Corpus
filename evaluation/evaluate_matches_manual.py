@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
-from defaultvalues import dataset_location
+from defaultvalues import *
 
 
 def get_matches(files, name=None):
@@ -13,8 +13,8 @@ def get_matches(files, name=None):
     if name:
         print(name)
     for comb in files:
-        if os.path.exists(os.path.join("results/evaluated", comb + ".results")):
-            with open("results/evaluated/" + comb + ".results", 'r') as fp:
+        if os.path.exists(os.path.join(f"{results_location}/evaluated", comb + ".results")):
+            with open(f"{results_location}/evaluated/" + comb + ".results", 'r') as fp:
                 res = json.load(fp)
 
             if "finished" in res:
@@ -34,7 +34,7 @@ def get_results_done(results, name):
 
     for comb in results:
         all_positive = 0
-        with open("results/evaluated/" + comb + ".results", 'r') as fp:
+        with open(f"{results_location}/evaluated/" + comb + ".results", 'r') as fp:
             res = json.load(fp)
         for elem in res:
             if elem != "finished":
@@ -42,7 +42,7 @@ def get_results_done(results, name):
                     if res[elem][e]:
                         all_positive += 1
 
-        for root, dirs, files in os.walk("results/matched"):
+        for root, dirs, files in os.walk(matching_location):
             for file in files:
                 if file.startswith(comb) and file.endswith("1.5.matches"):
                     _, v1, v2, _ = file.split('--')
@@ -124,13 +124,13 @@ global filtered_files
 website_count = [0 for _ in websites]
 website_evals = [[] for _ in websites]
 
-set_evaluated = set([file[:-8] for file in os.listdir("results/evaluated")])
+set_evaluated = set([file[:-8] for file in os.listdir(f"{results_location}s/evaluated")])
 for i, website in enumerate(websites):
     with open(os.path.join(dataset_location, f"{website}/parsed_header.json")) as fp:
         header = json.load(fp)
         website_keys = header.keys()
 
-    with open("results/header_matching.json") as fp:
+    with open(f"{results_location}/header_matching.json") as fp:
         header = json.load(fp)
         set_matched = set()
         for key in header:

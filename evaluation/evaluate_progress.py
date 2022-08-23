@@ -6,9 +6,11 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from defaultvalues import *
+
 file_matchings = set()
 
-for root, dirs, files in os.walk("results/matched"):
+for root, dirs, files in os.walk(matching_location):
     for file in files:
         if file.endswith(".matches"):
             filepath = os.path.join(root, file)
@@ -21,7 +23,7 @@ def get_results_done(results):
 
     for comb in results:
         all_positive = 0
-        with open("results/evaluated/" + comb + ".results", 'r') as fp:
+        with open(f"{results_location}/evaluated/" + comb + ".results", 'r') as fp:
             res = json.load(fp)
         for elem in res:
             if elem != "finished":
@@ -29,7 +31,7 @@ def get_results_done(results):
                     if res[elem][e]:
                         all_positive += 1
 
-        for root, dirs, files in os.walk("results/matched"):
+        for root, dirs, files in os.walk(matching_location):
             for file in files:
                 if file.startswith(comb) and file.endswith("1.5.matches"):
                     print("\t".join(file.split('--')[1:]))
@@ -127,8 +129,8 @@ def get_matches():
     results_done = set()
     results_started = set()
     for comb in file_matchings:
-        if os.path.exists(os.path.join("results/evaluated", comb + ".results")):
-            with open("results/evaluated/" + comb + ".results", 'r') as fp:
+        if os.path.exists(os.path.join(f"{results_location}/evaluated", comb + ".results")):
+            with open(f"{results_location}/evaluated/" + comb + ".results", 'r') as fp:
                 res = json.load(fp)
 
             if "finished" in res:
