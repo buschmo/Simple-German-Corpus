@@ -1,52 +1,60 @@
+#!/usr/bin/env python3.10
 import os
-from urllib.request import urlopen
-import urllib.parse
-import pickle
-import os
+import time
 import json
+import argparse
+import urllib.parse
+from pathlib import Path
+from urllib.request import urlopen
 
-""" This files is an example file for automatically archiving websites.
-    As it is not intended to be used, it will not be documented.
-"""
+import crawler
+import utilities as utl
+from defaultvalues import dataset_location
+
+parser = argparse.ArgumentParser(description="Script to either archive the links of a certain source and create the "
+                                             "corresponding archive_header.json or check and update the entire dataset "
+                                             "folder.")
+parser.add_argument('--update', action='store_true', help="Use --update to update all the archive_header.json files of"
+                                                          "the entire dataset")
+parser.add_argument('--archive', help="Use --archive {crawler-name} to archive the URLs associated with this crawler in"
+                                      "the dataset folder")
 
 
-def main():
-    # for path,dirs,files in os.walk("Datasets"):
-    #     if "archive_header.json" in files:
-    #         print(path)
-    #         print(dirs)
-    #         print(files)
+def main(args):
+    update = args.update
+    archive_crawler = args.archive
 
-    url = "sozialpolitik.com/arbeitsrecht"
-
-    data = urllib.parse.urlencode({"url":url})
-    data = data.encode("ascii")
-    if not os.path.exists("jonk.pkl"):
-        with open("jonk.pkl", "rb") as fp:
-            conn = pickle.load(fp)
-            print(conn.decode("utf-8"))
-            print(conn.url)
-            
+    if update and archive_crawler:
+        print("Please specify either --update OR --archive {crawler-name}")
+        exit()
+    elif archive_crawler:
+        header_to_archive(archive_crawler)
+    elif update:
+        raise NotImplementedError
     else:
-        # with urlopen("http://web.archive.org/save/", data) as conn:
-        with urlopen(f"http://web.archive.org/save/{url}") as conn:
-            print(conn.url)
-            # with open("jonk.pkl", "wb") as fp:
-            #     pickle.dump(conn.read(), fp)
+        print("Please specify either --update OR --archive {crawler-name}")
 
 
-def header_to_archive():
-    utl = crawler.utilities
-    for name in sorted(crawler.__all__):
-        # if name != "mdr":
-        #     continue
+def header_to_archive(name: str):
+    """
+    Function to archive all URLs provided by the header.json of the respective crawler.
+    Saves all archived URLs in the archive_header.json.
 
+    Args:
+        name (str): name of the crawler, e.g. stadt-koeln
+    """
+    if name not in crawler.__all__:
+        print(f"{name} does not seem to be a crawler script in the crawler folder.")
+    else:
         base_url = getattr(crawler, name).base_url
+        # transforms e.g. "https://www.apotheken-umschau.de/"
+        # to foldername = www.apotheken-umschau.de
         foldername, _ = utl.get_names_from_url(base_url)
-        with open("Datasets/"+foldername+"/header.json") as fp:
+
+        with open(Path(dataset_location, foldername, "header.json")) as fp:
             header = json.load(fp)
 
-        path_archive_header = "Datasets/"+foldername+"/archive_header.json"
+        path_archive_header = Path(dataset_location, foldername, "archive_header.json")
         if os.path.isfile(path_archive_header):
             with open(path_archive_header, "r") as fp:
                 archive_header = json.load(fp)
@@ -60,6 +68,7 @@ def header_to_archive():
             try:
                 with urllib.request.urlopen(f"http://web.archive.org/{url}") as f:
                     print(f"Already archived: {f.url}")
+                    # TODO: add checksum for article content?
                     archive_header[key] = {
                         "url": f.url,
                         "crawl_date": header[key]["crawl_date"],
@@ -77,6 +86,7 @@ def header_to_archive():
                     try:
                         with urllib.request.urlopen(f"http://web.archive.org/save/{url}") as f:
                             print(f"Newly archived: {f.url}")
+                            # TODO: add checksum for article content?
                             archive_header[key] = {
                                 "url": f.url,
                                 "crawl_date": header[key]["crawl_date"],
@@ -93,8 +103,12 @@ def header_to_archive():
                         if counter > 4:
                             print(
                                 f"{counter} failed to archive: {url}\n  {str(err)}\n")
-                            # if counter >= 10:
                             print(f"Stopping {url}")
                             with open("ERROR", "a") as fp:
-                                fp.write(url+"\n  "+str(err)+"\n\n")
+                                fp.write(url + "\n  " + str(err) + "\n\n")
                             not_downloaded = False
+
+
+if __name__ == "__main__":
+    args = parser.parse_args("--archive apotheken-umschau".split())
+    main(args)

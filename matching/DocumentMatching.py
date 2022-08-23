@@ -3,6 +3,16 @@ from spacy.tokens.doc import Doc
 
 import matching.SimilarityMeasures as measures
 
+# max_matching --> bipartite
+all_measures = {"n_gram": measures.n_gram_similarity,
+                "bag_of_words": measures.bag_of_words_tf_idf_similarity,
+                "cosine": measures.cosine_similarity,
+                "average": measures.average_similarity,
+                "maximum": measures.max_similarity,
+                "bipartite": measures.bipartite_similarity,
+                "CWASA": measures.CWASA_similarity,
+                "sbert": measures.sbert_similarity}
+
 
 def match_documents(matching: str, simple_doc: list[Doc], normal_doc: list[Doc], match_matrix, threshold=0.0, sd_threshold=0.0) \
         -> list[list[tuple[str, str], tuple[str, str]]]:
@@ -183,25 +193,14 @@ def calculate_similarity_matrix(simple_doc: list[Doc], normal_doc: list[Doc], si
 
             if similarity_measure == "n_gram":
                 assert tf1 is not None and tf2 is not None and idf is not None
-                value = measures.n_gram_similarity(
-                    sent1, sent2, tf1, tf2, idf, n)
+                value = all_measures[similarity_measure](sent1, sent2, tf1, tf2, idf, n)
             elif similarity_measure == "bag_of_words":
                 assert tf1 is not None and tf2 is not None and idf is not None
-                value = measures.bag_of_words_tf_idf_similarity(
-                    sent1, sent2, tf1, tf2, idf)
-            elif similarity_measure == "cosine":
-                value = measures.cosine_similarity(sent1, sent2)
-            elif similarity_measure == "average":
-                value = measures.average_similarity(sent1, sent2)
-            elif similarity_measure == "maximum":
-                value = measures.max_similarity(sent1, sent2)
-            elif similarity_measure == "max_matching":
-                value = measures.max_matching_similarity(sent1, sent2)
-            elif similarity_measure == "CWASA":
-                value = measures.CWASA_similarity(sent1, sent2)
+                value = all_measures[similarity_measure](sent1, sent2, tf1, tf2, idf)
+            elif similarity_measure in all_measures:
+                value = all_measures[similarity_measure](sent1, sent2)
             else:
-                print(
-                    f"Similarity measure {similarity_measure} not known and/or not implemented")
+                print(f"Similarity measure {similarity_measure} not known and/or not implemented")
 
             match_matrix[i, j] = value
 
