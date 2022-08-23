@@ -1,5 +1,14 @@
 # A New Aligned Simple German Corpus
-This repository contains the data and code for a Simple German Corpus. This work originated from the lab module MA-INF 4306 of the university of Bonn.
+This repository contains the data and code for a Simple German Corpus. 
+
+If you use the corpus in your research, please cite our paper
+
+```
+@article{toborek2022simplegerman,
+  title={A New Aligned Simple German Corpus},
+  author={Toborek, Vanessa and Busch, Moritz and Bo{\ss}ert, Malte and Bauckhage, Christian and Welke, Pascal}
+}
+```
 
 ## About
 The German language knows two versions of plain language: Einfache Sprache (Simple German) and [Leichte Sprache](https://leichte-sprache.de/), the latter being controlled by the _Netzwerk Leichte Sprache_.
@@ -9,10 +18,28 @@ Currently, there are only few works that build a parallel corpus between Simple 
 1. Scraping websites with parallel versions for German and Simple German
 2. Implementing various algorithms presented in the literature to form a corpus that contains aligned, "translated" sentences.
 
-## Usage
-Before using the repo, you **must** create the file `defaultvalues.py`.
+
+## Installation
+
+We recommend creating a virtual python environment, e.g. using anaconda
+
+```
+conda create -n simple-german python=3.10
+```
+
+and installing the required packages
+
+```
+conda activate simple-german
+pip install -r requirements
+python -m spacy download de_core_news_lg
+```
+
+Before using the repo, you **must** edit the file `defaultvalues.py`.
 Within it, you need to define the variable `repository_location`, the absolute path to the folder of this repository. E.g. `dataset=/home/bob/Simple-German-Corpus`.
 You can also change any of the other variables.
+
+## Usage
 
 Please note, that downloading is throttled by a 5 second delay to reduce network traffic.
 You can change this in `crawler/utilities.py`
