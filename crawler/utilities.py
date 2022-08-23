@@ -13,6 +13,8 @@ from requests.adapters import HTTPAdapter
 
 from datetime import datetime, timedelta, date
 
+from defaultvalues import *
+
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0'}
@@ -233,13 +235,13 @@ def get_headerpath_from_url(url: str, parsed: bool = False) -> Path:
     """    
     foldername, _ = get_names_from_url(url)
     if parsed:
-        return Path("Datasets", foldername, "parsed_header.json")
+        return Path(dataset_location, foldername, "parsed_header.json")
     elif from_archive:
         # from_archive indicated if archive_header.json is to be used.
         # This option is only needed for the publication of the paper
-        return Path("Datasets", foldername, "archive_header.json")
+        return Path(dataset_location, foldername, "archive_header.json")
     else:
-        return Path("Datasets", foldername, "header.json")
+        return Path(dataset_location, foldername, "header.json")
 
 
 def get_log_path_from_url(url: str) -> Path:
@@ -252,7 +254,7 @@ def get_log_path_from_url(url: str) -> Path:
         Path: path to log.txt
     """    
     foldername, _ = get_names_from_url(url)
-    return Path("Datasets", foldername, "log.txt")
+    return Path(dataset_location, foldername, "log.txt")
 
 
 def get_parsed_path_from_url(url: str) -> Path:
@@ -265,7 +267,7 @@ def get_parsed_path_from_url(url: str) -> Path:
         Path: Path to parsed file
     """    
     foldername, filename = get_names_from_url(url)
-    return Path("Datasets", foldername, "parsed", filename + ".txt")
+    return Path(dataset_location, foldername, "parsed", filename + ".txt")
 
 
 def get_crawled_path_from_url(url: str) -> Path:
@@ -278,7 +280,7 @@ def get_crawled_path_from_url(url: str) -> Path:
         Path: Path to crawled file
     """    
     foldername, filename = get_names_from_url(url)
-    return Path("Datasets", foldername, "crawled", filename)
+    return Path(dataset_location, foldername, "crawled", filename)
 
 
 def get_soup_from_url(url: str) -> BeautifulSoup:

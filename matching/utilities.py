@@ -12,11 +12,9 @@ from tqdm import tqdm
 from spacy.tokens import Doc
 from typing import Iterator
 
-import defaultvalues
+from defaultvalues import *
 
 nlp = spacy.load('de_core_news_lg')
-
-dataset_location = defaultvalues.dataset_location
 
 stopwords = nlp.Defaults.stop_words
 
@@ -554,7 +552,7 @@ def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, mat
         str: path to matching distance file
     """
     hash = get_file_name_hash(simple_path, normal_path)
-    return f"results/matched/{hash}--{sim_measure}--{matching}--{str(sd_threshold)}.matches"
+    return f"{matching_location}/{hash}--{sim_measure}--{matching}--{str(sd_threshold)}.matches"
 
 
 def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None) -> str:
@@ -570,11 +568,11 @@ def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None
     """
     hash = get_file_name_hash(simple_path, normal_path)
     if short:
-        simple = f"results/hand_aligned/{short}-{hash}.simple"
-        normal = f"results/hand_aligned/{short}-{hash}.normal"
+        simple = f"{ground_truth_location}/{short}-{hash}.simple"
+        normal = f"{ground_truth_location}/{short}-{hash}.normal"
     else:
-        simple = f"results/hand_aligned/{hash}.simple"
-        normal = f"results/hand_aligned/{hash}.normal"
+        simple = f"{ground_truth_location}/{hash}.simple"
+        normal = f"{ground_truth_location}/{hash}.normal"
     return (simple, normal)
 
 
@@ -589,8 +587,8 @@ def make_alignment_path(simple_path: str, normal_path: str) -> tuple[str, str]:
         tuple[str, str]: path to automatically aligned file
     """
     hash = get_file_name_hash(simple_path, normal_path)
-    simple = f"results/alignment/{hash}.simple"
-    normal = f"results/alignment/{hash}.normal"
+    simple = f"{results_location}/alignment/{hash}.simple"
+    normal = f"{results_location}/alignment/{hash}.normal"
     return (simple, normal)
 
 

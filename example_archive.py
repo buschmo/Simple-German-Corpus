@@ -5,6 +5,8 @@ import pickle
 import os
 import json
 
+from defaultvalues import *
+
 """ This files is an example file for automatically archiving websites.
     As it is not intended to be used, it will not be documented.
 """
@@ -43,10 +45,10 @@ def header_to_archive():
 
         base_url = getattr(crawler, name).base_url
         foldername, _ = utl.get_names_from_url(base_url)
-        with open("Datasets/"+foldername+"/header.json") as fp:
+        with open(dataset_location + '/' + foldername + "/header.json") as fp:
             header = json.load(fp)
 
-        path_archive_header = "Datasets/"+foldername+"/archive_header.json"
+        path_archive_header = dataset_location + '/' + foldername + "/archive_header.json"
         if os.path.isfile(path_archive_header):
             with open(path_archive_header, "r") as fp:
                 archive_header = json.load(fp)
