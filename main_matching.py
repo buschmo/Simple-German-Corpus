@@ -1,16 +1,16 @@
-import matching.utilities as utl
-import matching.DocumentMatching as dm
-import json
 import os
 import sys
+import json
 from pathlib import Path
+from typing import Iterator
 from multiprocessing import Pool
 
-from typing import Iterator
+import matching.utilities as utl
+import matching.DocumentMatching as dm
 
 # setup lists for all settings
 similarity_measures = ["n_gram", "bag_of_words",
-                       "cosine", "average", "maximum", "max_matching", "CWASA"]
+                       "cosine", "average", "maximum", "bipartite", "CWASA", "sbert"]
 sd_thresholds = [0.0, 1.5]
 doc_matchings = ["max", "max_increasing_subsequence"]
 

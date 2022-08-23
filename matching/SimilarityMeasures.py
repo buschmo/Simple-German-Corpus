@@ -1,9 +1,28 @@
-from spacy.tokens.doc import Doc
-
-import matching.utilities as utl
-from collections import Counter
 import numpy as np
 import scipy.optimize
+from collections import Counter
+from spacy.tokens.doc import Doc
+import matching.utilities as utl
+from sentence_transformers import SentenceTransformer, util
+
+model = SentenceTransformer("sentence-transformers/distiluse-base-multilingual-cased-v1")
+
+# max_matching_similarity --> bipartite_similarity
+
+def sbert_similarity(sentence1: Doc, sentence2: Doc) -> float:
+    """ Uses a multilingual pre-trained SBERT model to encode the entire sentence.
+
+    Args:
+        sentence1 (Doc): First sentence
+        sentence2 (Doc): Second sentence
+
+    Returns:
+        float: A similarity value for the sentences between 0 and 1
+    """
+    emb1 = model.encode(str(sentence1))
+    emb2 = model.encode(str(sentence2))
+
+    return util.cos_sim(emb1, emb2)
 
 
 def n_gram_similarity(sentence1: Doc, sentence2: Doc, tf1: dict[str, float], tf2: dict[str, float], idf: dict[str, float], n: int = 3) \
@@ -149,7 +168,7 @@ def max_similarity(sentence1: Doc, sentence2: Doc) -> float:
     return (sts1 + sts2) / 2
 
 
-def max_matching_similarity(sentence1: Doc, sentence2: Doc) -> float:
+def bipartite_similarity(sentence1: Doc, sentence2: Doc) -> float:
     """ Calculates the similarity by calculating a maximum weight matching using the Hungarian algorithm.
     A scipy function is used for the actual calculation on the matrix of word similarities.
 
