@@ -6,6 +6,8 @@ import numpy as np
 
 import warnings
 
+from defaultvalues import *
+
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.simplefilter(action='ignore', category=RuntimeWarning)
 
@@ -14,7 +16,7 @@ import pandas as pd
 stat_file = pd.DataFrame(columns=["Similarity measure", "Alignment strategy", "sd-Threshold", "Avg. number of matches",
                                   "Avg. similarity of matches"])
 
-for root, dirs, files in os.walk("results/matched"):
+for root, dirs, files in os.walk(matching_location):
     for file in files:
         if not file.endswith(".matches"):
             continue
@@ -69,7 +71,7 @@ full_stat = stat_file.groupby(["Similarity measure", "Alignment strategy", "sd-T
      "AvgSim": 2,
      "TotalMatches": 0})
 
-with open("results/latex_eval_matches_auto.txt", "w", encoding="utf-8") as fp:
+with open(f"{results_location}/latex_eval_matches_auto.txt", "w", encoding="utf-8") as fp:
     fp.write(sim_stat.to_latex(index=False,
                             caption="Match statistics by similarity measure",
                             label="tab:sim-stat"))

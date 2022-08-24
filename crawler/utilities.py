@@ -13,7 +13,8 @@ from requests.adapters import HTTPAdapter
 
 from datetime import datetime, timedelta, date
 
-from defaultvalues import dataset_location
+from defaultvalues import *
+
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0'}

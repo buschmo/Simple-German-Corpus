@@ -5,12 +5,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import json
 import os
-from defaultvalues import dataset_location
+from defaultvalues import *
 import pandas as pd
 
 
 def test_number_of_files():
-    with open("/results/header_matching.json") as fp:
+    with open(f"{results_location}/header_matching.json") as fp:
         header = json.load(fp)
         print(f"Total number of evaluated files: {len(set(header.keys()))}")
 
