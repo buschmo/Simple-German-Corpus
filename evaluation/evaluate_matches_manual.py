@@ -124,7 +124,7 @@ global filtered_files
 website_count = [0 for _ in websites]
 website_evals = [[] for _ in websites]
 
-set_evaluated = set([file[:-8] for file in os.listdir(f"{results_location}s/evaluated")])
+set_evaluated = set([file[:-8] for file in os.listdir(f"{results_location}/evaluated")])
 for i, website in enumerate(websites):
     with open(os.path.join(dataset_location, f"{website}/parsed_header.json")) as fp:
         header = json.load(fp)
