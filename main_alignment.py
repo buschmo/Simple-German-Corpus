@@ -4,6 +4,7 @@ import json
 
 import matching.utilities as utl
 
+from defaultvalues import *
 
 def main():
     """ This function generates all alignments according to sepcific parameters
@@ -16,8 +17,8 @@ def main():
 
     # setup
     pairs = utl.get_article_pairs()
-    if not os.path.isdir("results/alignment"):
-        os.makedirs("results/alignment")
+    if not os.path.isdir(f"{results_location}/alignment"):
+        os.makedirs(f"{results_location}/alignment")
 
     alignment = {}
     for matching_simple, matching_normal in pairs:
@@ -60,7 +61,7 @@ def main():
             fp_normal.write("\n".join(normal_lines))
 
     # save all logged alignments for comprehensibility reasons
-    with open("results/alignments_with_distance.json", "w", encoding="utf-8") as fp:
+    with open(f"{results_location}/alignments_with_distance.json", "w", encoding="utf-8") as fp:
         json.dump(alignment, fp, indent=4, ensure_ascii=False)
 
 

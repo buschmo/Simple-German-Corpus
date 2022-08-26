@@ -8,13 +8,15 @@ from multiprocessing import Pool
 import matching.utilities as utl
 import matching.DocumentMatching as dm
 
+from defaultvalues import *
+
 # setup lists for all settings
 similarity_measures = ["n_gram", "bag_of_words",
                        "cosine", "average", "maximum", "bipartite", "CWASA", "sbert"]
 sd_thresholds = [0.0, 1.5]
 doc_matchings = ["max", "max_increasing_subsequence"]
 
-header_file = "results/header_matching.json"
+header_file = f"{results_location}/header_matching.json"
 
 # preprocessing arguments for gram and embeddings
 kwargs_gram = utl.make_preprocessing_dict(remove_punctuation=True)
@@ -22,8 +24,8 @@ kwargs_embeddings = utl.make_preprocessing_dict(
     lowercase=False, remove_punctuation=True)
 
 # output folder setup
-if not os.path.exists("results/matched"):
-    os.makedirs("results/matched")
+if not os.path.exists(matching_location):
+    os.makedirs(matching_location)
 
 # check if some matchings have already been calculated
 if not Path(header_file).exists():
@@ -50,8 +52,8 @@ print("ARTICLE HASH", idf_article_hash)
 # check for word idf (and calculate if necessary)
 found = False
 word_idf = dict()
-if Path("results/word_idf.json").exists():
-    with open("results/word_idf.json", 'r') as fp:
+if Path(f"{results_location}/word_idf.json").exists():
+    with open(f"{results_location}/word_idf.json", 'r') as fp:
         hash, word_idf = json.load(fp)
         if hash == idf_article_hash:
             found = True
@@ -60,14 +62,14 @@ if not found:
     word_idf = utl.calculate_full_word_idf(
         unnested_articles, **kwargs_gram)
     print("Calculated new word idf")
-    with open("results/word_idf.json", 'w') as fp:
+    with open(f"{results_location}/word_idf.json", 'w') as fp:
         json.dump([idf_article_hash, word_idf], fp, ensure_ascii=False)
 
 # check for n-gram idf (and calculate if necessary)
 found = False
 n_gram_idf = dict()
-if Path(f"results/{n}_gram_idf.json").exists():
-    with open(f"results/{n}_gram_idf.json", 'r') as fp:
+if Path(f"{results_location}/{n}_gram_idf.json").exists():
+    with open(f"{results_location}/{n}_gram_idf.json", 'r') as fp:
         hash, n_gram_idf = json.load(fp)
         if hash == idf_article_hash:
             found = True
@@ -76,7 +78,7 @@ if not found:
     n_gram_idf = utl.calculate_full_n_gram_idf(
         unnested_articles, n, **kwargs_gram)
     print("Calculated new n gram idf")
-    with open(f"results/{n}_gram_idf.json", 'w') as fp:
+    with open(f"{results_location}/{n}_gram_idf.json", 'w') as fp:
         json.dump([idf_article_hash, n_gram_idf], fp, ensure_ascii=False)
 
 

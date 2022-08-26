@@ -158,12 +158,12 @@ class gui:
                     int(-1*(event.delta/120)), "units")
 
     def show_progress(self):
-        n_aligned = int(len(os.listdir("results/hand_aligned"))/2)
+        n_aligned = int(len(os.listdir(ground_truth_location))/2)
         n_sample = len(self.pairs_sample)
         print(f"{n_aligned}/{n_sample} already aligned.")
 
     def get_articles(self):
-        path = "results/website_samples.pkl"
+        path = f"{results_location}/website_samples.pkl"
         if os.path.exists(path):
             print(f"Using presampled sites from {path}")
             # load existing subset
@@ -298,7 +298,7 @@ def prep_text(text):
 
 def choose_website():
     set_aligned = set([file[:-8]
-                      for file in os.listdir("results/hand_aligned")])
+                      for file in os.listdir(ground_truth_location)])
     global website_hashes
 
     for website in website_hashes:
@@ -317,8 +317,8 @@ website_hashes = utl.get_website_hashes()
 nlp = spacy.load("de_core_news_lg")
 
 if __name__ == "__main__":
-    if not os.path.isdir("results/hand_aligned/"):
-        os.makedirs("results/hand_aligned/")
+    if not os.path.isdir(ground_truth_location):
+        os.makedirs(ground_truth_location)
     root = tk.Tk()
     gui(root)
     root.mainloop()
