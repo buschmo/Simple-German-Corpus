@@ -2,3 +2,8 @@ __pycache__
 Datasets/*/**
 !Datasets/*/archive_header.json
 defaultvalues.py
+results/*
+!results/evaluated
+!results/hand_aligned
+!results/README.md
+!results/website_samples.pkl
