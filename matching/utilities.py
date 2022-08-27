@@ -522,7 +522,7 @@ def get_hash(string: str) -> int:
     return int(hashlib.sha1(string.encode("utf-8")).hexdigest(), 16)
 
 
-def get_file_name_hash(simple_path: str, normal_path: str) -> int:
+def get_file_name_hash_string(simple_path: str, normal_path: str) -> str:
     """ Get the hash for the filename
     Combines both simple and normal filename to a hashed one
 
@@ -535,7 +535,7 @@ def get_file_name_hash(simple_path: str, normal_path: str) -> int:
     """
     # make hash from file name only, thus agnostic to folder structure
     string = Path(simple_path).name + "___" + Path(normal_path).name
-    return get_hash(string)
+    return str(get_hash(string))
 
 
 def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, matching: str, sd_threshold: float) -> str:
@@ -551,11 +551,11 @@ def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, mat
     Returns:
         str: path to matching distance file
     """
-    hash = get_file_name_hash(simple_path, normal_path)
+    hash = get_file_name_hash_string(simple_path, normal_path)
     return f"{matching_location}/{hash}--{sim_measure}--{matching}--{str(sd_threshold)}.matches"
 
 
-def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None) -> str:
+def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None) -> tuple[str,str]:
     """ Returns the path to the file aligned by hand
 
     Args:
@@ -564,9 +564,9 @@ def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None
         short (str, optional): To allow for alternative filenames. Defaults to None. # TODO
 
     Returns:
-        str: path to file aligned by hand
+        tuple[str,str]: paths to files aligned by hand
     """
-    hash = get_file_name_hash(simple_path, normal_path)
+    hash = get_file_name_hash_string(simple_path, normal_path)
     if short:
         simple = f"{ground_truth_location}/{short}-{hash}.simple"
         normal = f"{ground_truth_location}/{short}-{hash}.normal"
@@ -584,9 +584,9 @@ def make_alignment_path(simple_path: str, normal_path: str) -> tuple[str, str]:
         normal_path (str): path to normal file
 
     Returns:
-        tuple[str, str]: path to automatically aligned file
+        tuple[str, str]: paths to automatically aligned files
     """
-    hash = get_file_name_hash(simple_path, normal_path)
+    hash = get_file_name_hash_string(simple_path, normal_path)
     simple = f"{results_location}/alignment/{hash}.simple"
     normal = f"{results_location}/alignment/{hash}.normal"
     return (simple, normal)
@@ -623,7 +623,7 @@ def get_website_hashes(root_dir: str = dataset_location) -> dict[str, list[str]]
                     if not header[fname]['easy']:
                         continue
                     for parallel_article in header[fname]['matching_files']:
-                        website_hashes[website].append(get_file_name_hash(
+                        website_hashes[website].append(get_file_name_hash_string(
                             fname+".txt", parallel_article+".txt"))
 
     return website_hashes
