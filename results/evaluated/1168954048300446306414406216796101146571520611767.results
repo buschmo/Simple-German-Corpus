@@ -1,0 +1,46 @@
+{
+  "Dass sie uns ihr Geld geben.": {
+    "\"Falsche Polizisten\" gehen echten Polizisten ins Netz.": false,
+    "Sie hatten sich bei der Frau Anfang vergangener Woche zunächst telefonisch als Polizeibeamte ausgegeben, die ihr Vermögen \"in Sicherheit bringen\" wollten.": true
+  },
+  "Die Polizei aus der Stadt Saalfeld ermittelt gegen 3 Betrüger.": {
+    "Drei \"falschen Polizisten\" ist die Polizei in Saalfeld auf die Schliche gekommen.": true,
+    "\"Falsche Polizisten\" gehen echten Polizisten ins Netz.": false
+  },
+  "Gegen den Chef von den 3 Männern hat das Amts-Gericht von der Stadt Gera einen Haft-Befehl gemacht.": {
+    "Von angeblichen Polizisten sollte der Dienstausweis gefordert werden.": false,
+    "Gegen einen 45-Jährigen aus Bayern hat das Amtsgericht Gera nun Haftbefehl erlassen, wie die Polizei am Mittwoch mitteilte.": true
+  },
+  "Sie haben eine ältere Frau aus der Stadt Rudolstadt angerufen.": {
+    "Sie hatten sich bei der Frau Anfang vergangener Woche zunächst telefonisch als Polizeibeamte ausgegeben, die ihr Vermögen \"in Sicherheit bringen\" wollten.": true,
+    "Sie sollen unter anderem einer 83 Jahre alten Seniorin aus Rudolstadt Bargeld und Schmuck im Gesamtwert von rund 10.000 Euro abgenommen haben.": true
+  },
+  "• 40 Jahre • und 47 Jahre alt.": {
+    "Sie sollen unter anderem einer 83 Jahre alten Seniorin aus Rudolstadt Bargeld und Schmuck im Gesamtwert von rund 10.000 Euro abgenommen haben.": false
+  },
+  "Die Polizei aus der Stadt Saalfeld hat gesagt:": {
+    "Die Polizei warnt immer wieder vor der Betrugsmasche.": true,
+    "Drei \"falschen Polizisten\" ist die Polizei in Saalfeld auf die Schliche gekommen.": false,
+    "Gegen einen 45-Jährigen aus Bayern hat das Amtsgericht Gera nun Haftbefehl erlassen, wie die Polizei am Mittwoch mitteilte.": false,
+    "\"Die Polizei wird Sie niemals um Geldbeträge bitten\", heißt es auf einem Informationsportal der Landespolizei Thüringen .": false
+  },
+  "Die Männer haben am Telefon gesagt: Wir sind von der Polizei.": {
+    "Sie hatten sich bei der Frau Anfang vergangener Woche zunächst telefonisch als Polizeibeamte ausgegeben, die ihr Vermögen \"in Sicherheit bringen\" wollten.": true,
+    "\"Die Polizei wird Sie niemals um Geldbeträge bitten\", heißt es auf einem Informationsportal der Landespolizei Thüringen .": false,
+    "Die Polizei warnt immer wieder vor der Betrugsmasche.": false,
+    "\"Falsche Polizisten\" gehen echten Polizisten ins Netz.": false
+  },
+  "Jetzt ermittelt die Polizei gegen die 3 Männer.": {
+    "\"Die Polizei wird Sie niemals um Geldbeträge bitten\", heißt es auf einem Informationsportal der Landespolizei Thüringen .": false,
+    "Gegen die zwei anderen Verdächtigen werde weiter ermittelt, hieß es.": true,
+    "Die Polizei warnt immer wieder vor der Betrugsmasche.": false,
+    "Drei \"falschen Polizisten\" ist die Polizei in Saalfeld auf die Schliche gekommen.": true
+  },
+  "Die Männer sind zwischen:": {
+    "Drei \"falschen Polizisten\" ist die Polizei in Saalfeld auf die Schliche gekommen.": false
+  },
+  "finished": true,
+  "Die Polizei aus der Stadt Saalfeld hat gesagt: Die Männer sind zwischen:": {
+    "Drei \"falschen Polizisten\" ist die Polizei in Saalfeld auf die Schliche gekommen.": false
+  }
+}

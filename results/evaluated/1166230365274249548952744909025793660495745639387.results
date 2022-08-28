@@ -1,0 +1,151 @@
+{
+  "Das Gericht entscheidet, wer der Vater ist.": {
+    "Jetzt erst stehen Ihnen als Vater des Kindes Rechte zu beziehungsweise entstehen auch Pflichten.": false,
+    "Dies ist gebührenpflichtig.": false,
+    "Damit die Anerkennung wirksam wird, ist die Zustimmung der Mutter erforderlich.": false,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false,
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true
+  },
+  "Wenn Sie die Vaterschaft klären wollen, kommen Sie bitte zur Beratung zum Amt für Kinder, Jugend und Familie.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung und die Beurkundung der Zustimmungserklärung der Mutter können zusammen in einem Termin erfolgen.": false,
+    "Auch bei Notar*innen können Sie die Vaterschaftsanerkennung beurkunden lassen.": false,
+    "Sie ist erforderlich, wenn Sie als Eltern eines gemeinsamen Kindes nicht miteinander verheiratet sind.": false,
+    "Wenden Sie sich hierzu bitte an das für Ihren Wohnort zuständige Bezirksjugendamt, Bereich Beistandschaft.": true,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false
+  },
+  "Bevor Sie zu uns kommen, machen Sie bitte einen Termin .": {
+    "Die Telefonnummern finden Sie unter \"Kontakt\".": false,
+    "Auf Wunsch können Sie aber auch getrennte Beurkundungstermine vereinbaren.": false
+  },
+  "Zum Beispiel: Bei Fragen zur Vaterschaft .": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true
+  },
+  "Wenn der Mann die Vaterschaft nicht anerkennt, kann die Mutter einen Beistand bekommen.": {
+    "Damit die Anerkennung wirksam wird, ist die Zustimmung der Mutter erforderlich.": false,
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true,
+    "Die Beurkundung der Vaterschaftsanerkennung und die Beurkundung der Zustimmungserklärung der Mutter können zusammen in einem Termin erfolgen.": false,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false
+  },
+  "Der Beistand hilft der Mutter.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true,
+    "Die Vaterschaftsanerkennung und die Zustimmungserklärung der Mutter erfolgen durch Beurkundung.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung und die Beurkundung der Zustimmungserklärung der Mutter können zusammen in einem Termin erfolgen.": false,
+    "Hierbei können wir Ihnen als Mutter des Kindes behilflich sein.": true
+  },
+  "Vater-schaft heißt: Ein Mann ist der Vater von einem Kind.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Jetzt erst stehen Ihnen als Vater des Kindes Rechte zu beziehungsweise entstehen auch Pflichten.": false,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": true
+  },
+  "Manchmal ist nicht klar, wer der Vater von einem Kind ist.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Jetzt erst stehen Ihnen als Vater des Kindes Rechte zu beziehungsweise entstehen auch Pflichten.": false,
+    "Sie ist erforderlich, wenn Sie als Eltern eines gemeinsamen Kindes nicht miteinander verheiratet sind.": false,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false
+  },
+  "Bei Fragen zum Anerkennen der Vaterschaft.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Die Vaterschaftsanerkennung und die Zustimmungserklärung der Mutter erfolgen durch Beurkundung.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung und die Beurkundung der Zustimmungserklärung der Mutter können zusammen in einem Termin erfolgen.": false,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false,
+    "Die Beurkundung der Vaterschaftsanerkennung ist kostenfrei.": false
+  },
+  "Weitere Informationen *": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Gebühren": false
+  },
+  "Die Adresse und Telefon-Nummer steht unter der Überschrift:": {
+    "Die Vaterschaftsanerkennung und die Zustimmungserklärung der Mutter erfolgen durch Beurkundung.": false,
+    "Die Telefonnummern finden Sie unter \"Kontakt\".": true
+  },
+  "Bitte bringen Sie alle nötigen Papiere zum Termin mit.": {
+    "Gebühren": false,
+    "Wenden Sie sich hierzu bitte an das für Ihren Wohnort zuständige Bezirksjugendamt, Bereich Beistandschaft.": false
+  },
+  "Das schwere Wort dafür ist: Abstammungs-Verfahren .": {
+    "Dies ist gebührenpflichtig.": false
+  },
+  "Wir beraten Sie hier auch.": {
+    "Auch bei Notar*innen können Sie die Vaterschaftsanerkennung beurkunden lassen.": false,
+    "Auf Wunsch können Sie aber auch getrennte Beurkundungstermine vereinbaren.": false
+  },
+  "Wo kann ich die Vaterschaft anerkennen lassen?": {
+    "Damit die Anerkennung wirksam wird, ist die Zustimmung der Mutter erforderlich.": false,
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true,
+    "Auch bei Notar*innen können Sie die Vaterschaftsanerkennung beurkunden lassen.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung ist kostenfrei.": false
+  },
+  "Sie müssen dazu ins Jugend-Amt .": {
+    "Die Urkunden können Sie bundesweit bei jedem Jugendamt erstellen lassen.": true
+  },
+  "Auf der Urkunde steht:": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung ist kostenfrei.": false,
+    "Die Urkunden können Sie bundesweit bei jedem Jugendamt erstellen lassen.": false
+  },
+  "Das bedeutet: Ein Gericht klärt dann die Vaterschaft.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false
+  },
+  "Der Beistand leitet manchmal ein gerichtliches Verfahren ein, um die Vaterschaft zu klären.": {
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": false
+  },
+  "Dann müssen Sie nicht so lange warten.": {
+    "Auf Wunsch können Sie aber auch getrennte Beurkundungstermine vereinbaren.": false
+  },
+  "Wichtig: Wenn Sie uns anrufen, können Sie auch fragen, welche Papiere Sie mitbringen müssen.": {
+    "Auf Wunsch können Sie aber auch getrennte Beurkundungstermine vereinbaren.": false,
+    "Gebühren": false,
+    "Die Telefonnummern finden Sie unter \"Kontakt\".": false
+  },
+  "Mehr Informationen dazu stehen unter der Überschrift:": {
+    "Gebühren": false,
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": true
+  },
+  "Sie bekommen die Urkunde kostenlos .": {
+    "Auch bei Notar*innen können Sie die Vaterschaftsanerkennung beurkunden lassen.": false,
+    "Gebühren": false,
+    "Die Urkunden können Sie bundesweit bei jedem Jugendamt erstellen lassen.": false,
+    "Dies ist gebührenpflichtig.": false
+  },
+  "Wichtig: Wenn der Mann die Vaterschaft frei-willig anerkennt, dann können wir die Vaterschaft be-urkunden .": {
+    "Damit die Anerkennung wirksam wird, ist die Zustimmung der Mutter erforderlich.": false,
+    "Weitere Informationen Ist der Vater des Kindes nicht bereit die Vaterschaft zu dem Kind freiwillig anzuerkennen, so ist beim Familiengericht ein Antrag auf Feststellung der Vaterschaft zu stellen.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung ist kostenfrei.": false,
+    "Die Beurkundung der Vaterschaftsanerkennung und die Beurkundung der Zustimmungserklärung der Mutter können zusammen in einem Termin erfolgen.": false,
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": true
+  },
+  "Dafür müssen Sie kein Geld bezahlen.": {
+    "Gebühren": false
+  },
+  "Achtung: Das Jugend-Amt hat viele Außen-Stellen in Köln.": {
+    "Die Urkunden können Sie bundesweit bei jedem Jugendamt erstellen lassen.": false
+  },
+  "Hier finden Sie eine Liste mit allen Außen-Stellen in Köln.": {
+    "Die Telefonnummern finden Sie unter \"Kontakt\".": false
+  },
+  "Die Bilder gehören:": {
+    "Die Telefonnummern finden Sie unter \"Kontakt\".": false
+  },
+  "Das heißt: Sie bekommen eine Urkunde vom Amt.": {
+    "Die Urkunden können Sie bundesweit bei jedem Jugendamt erstellen lassen.": true
+  },
+  "Zum Beispiel: Mit der Adresse und den Öffnungs-Zeiten .": {
+    "Die Beurkundung der Vaterschaftsanerkennung und die Beurkundung der Zustimmungserklärung der Mutter können zusammen in einem Termin erfolgen.": false
+  },
+  "finished": true,
+  "Ein Mann ist der Vater von einem Kind.": {
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": true
+  },
+  "Klicken Sie auf ein Amt in Ihrer Nähe .": {
+    "Wenden Sie sich hierzu bitte an das für Ihren Wohnort zuständige Bezirksjugendamt, Bereich Beistandschaft.": true
+  },
+  "Vater-schaft heißt:": {
+    "Die Anerkennung der Vaterschaft ist eine Erklärung \"Vater des Kindes zu sein\".": true
+  },
+  "Bei Fragen zur Vaterschaft .": {
+    "Die Beurkundung der Vaterschaftsanerkennung ist kostenfrei.": false
+  }
+}

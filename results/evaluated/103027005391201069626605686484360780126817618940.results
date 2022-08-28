@@ -1,0 +1,93 @@
+{
+  "Das Gesetz heißt „Gesetz über Ordnungs·widrigkeiten“.": {
+    "Nach § 55 des Gesetzes über Ordnungswidrigkeiten (OWiG) haben Sie Gelegenheit, zu dem Vorwurf Stellung zu nehmen.": true
+  },
+  "„ACAB“ ist eine Abkürzung für einen Spruch.": {
+    "„ACAB“ stellt allgemein bekannt eine Abkürzung für die Parole „All Cops are Bastards“ dar und dient dazu, die Polizei in der Öffentlichkeit zu verunglimpfen.": true,
+    "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“.": true
+  },
+  "Sonst müssen Sie noch mehr Geld zahlen.": {
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false,
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": true,
+    "Es steht Ihnen frei, zur Sache auszusagen.": false
+  },
+  "Da haben Sie was angestellt.": {
+    "Falls Sie sich äußern, werde ich aufgrund Ihrer Angaben entscheiden, ob das Verfahren eingestellt oder ohne weitere Antwort ein Bußgeldbescheid erlassen wird.": false,
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false,
+    "Es steht Ihnen frei, zur Sache auszusagen.": false
+  },
+  "Sie hatten einen Pulli an.": {
+    "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“.": true
+  },
+  "Warum haben Sie den frechen Pulli angezogen?": {
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": true,
+    "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“.": false
+  },
+  "Vielleicht sagen Sie nichts zu dem frechen Pulli.": {
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false,
+    "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“.": false,
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": true,
+    "Es steht Ihnen frei, zur Sache auszusagen.": true
+  },
+  "Jetzt müssen Sie eine Strafe zahlen.": {
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false,
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": true,
+    "Es steht Ihnen frei, zur Sache auszusagen.": false
+  },
+  "Dann kriegen Sie von mir eine Rechnung.": {
+    "Falls Sie sich äußern, werde ich aufgrund Ihrer Angaben entscheiden, ob das Verfahren eingestellt oder ohne weitere Antwort ein Bußgeldbescheid erlassen wird.": false,
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false
+  },
+  "Vielleicht kriegen Sie dann trotzdem eine Rechnung.": {
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false,
+    "Falls Sie sich äußern, werde ich aufgrund Ihrer Angaben entscheiden, ob das Verfahren eingestellt oder ohne weitere Antwort ein Bußgeldbescheid erlassen wird.": true,
+    "Es steht Ihnen frei, zur Sache auszusagen.": false
+  },
+  "Vielleicht sagen Sie was zu dem frechen Pulli.": {
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": true,
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": true,
+    "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“.": false,
+    "Es steht Ihnen frei, zur Sache auszusagen.": true
+  },
+  "Liebe Grüße Frau X": {
+    "Frau X": true
+  },
+  "Der Spruch soll die Polizei beleidigen.": {
+    "„ACAB“ stellt allgemein bekannt eine Abkürzung für die Parole „All Cops are Bastards“ dar und dient dazu, die Polizei in der Öffentlichkeit zu verunglimpfen.": true
+  },
+  "Hallo Herr X, Sie waren am 28. November 2015 in Frankfurt.": {
+    "Sehr geehrter Herr X, ich werfe Ihnen vor, am 28.11.2015 um 23:00 Uhr in Frankfurt am Main, Kaiserstraße 76 (Kaisersack) folgende Ordnungswidrigkeit begangen zu haben:": true,
+    "Frau X": false
+  },
+  "Aber nur wenn Sie wollen.": {
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": true,
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false
+  },
+  "Dann müssen Sie das jetzt sagen.": {
+    "Falls Sie sich äußern, werde ich aufgrund Ihrer Angaben entscheiden, ob das Verfahren eingestellt oder ohne weitere Antwort ein Bußgeldbescheid erlassen wird.": true
+  },
+  "Auf dem Pulli stand „ACAB“.": {
+    "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“.": true
+  },
+  "Um 11 Uhr abends am Kaisersack.": {
+    "Sehr geehrter Herr X, ich werfe Ihnen vor, am 28.11.2015 um 23:00 Uhr in Frankfurt am Main, Kaiserstraße 76 (Kaisersack) folgende Ordnungswidrigkeit begangen zu haben:": true
+  },
+  "Vielleicht ist Ihr Name in diesem Brief falsch geschrieben.": {
+    "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen.": false
+  },
+  "Damit haben Sie gegen ein Gesetz verstoßen.": {
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": false,
+    "Es steht Ihnen frei, zur Sache auszusagen.": false
+  },
+  "Das können Sie jetzt sagen.": {
+    "Falls Sie sich äußern, werde ich aufgrund Ihrer Angaben entscheiden, ob das Verfahren eingestellt oder ohne weitere Antwort ein Bußgeldbescheid erlassen wird.": true,
+    "Sofern Sie sich nicht zu dem Vorwurf äußern, kann ohne weitere Anhörung ein Bußgeldbescheid gegen Sie erlassen werden.": false
+  },
+  "finished": true,
+  "Das kann gefährlich sein.": {
+    "Dies stellt eine grob ungehörige Handlung dar, die geeignet ist, die Allgemeinheit zu belästigen oder zu gefährden und die öffentliche Ordnung zu beeinträchtigen.": true
+  },
+  "Das war sehr frech von Ihnen.": {
+    "Es steht Ihnen frei, zur Sache auszusagen.": false
+  }
+}

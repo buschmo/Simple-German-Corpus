@@ -1,0 +1,450 @@
+{
+  "Die betroffene Person kann zum Beispiel nicht mehr lächeln.": {
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true,
+    "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen).": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false
+  },
+  "Dann legen Sie die Person in die stabile Seitenlage .": {
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "Das sollten Sie tun:": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false
+  },
+  "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false
+  },
+  "Die Anzeichen treten meist plötzlich auf.": {
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Übelkeit": {
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Ratgeber Schlaganfall .": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Herzinfarkt :": false
+  },
+  "Atemnot ein blasses Gesicht": {
+    "Herzinfarkt :": false,
+    "Ratgeber Schlaganfall .": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false
+  },
+  "Richten Sie den Oberkörper der betroffenen Person etwas auf.": {
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Das sollten Sie tun:": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false
+  },
+  "Die Uhrzeit ist eine wichtige Information für den Notarzt.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false
+  },
+  "Das kann lebensgefährlich sein.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false
+  },
+  "Deshalb ist eine schnelle Erste Hilfe wichtig.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": true,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": true,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Legen Sie ihr zum Beispiel ein Kissen in den Rücken.": {
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Sie wollen noch mehr über Erste Hilfe bei einem Schlaganfall oder einem Herzinfarkt lesen?": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": true,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Herzinfarkt :": false
+  },
+  "Die betroffene Person atmet nicht?": {
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Ratgeber Schlaganfall .": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false
+  },
+  "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Herzinfarkt :": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": true
+  },
+  "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Herzinfarkt :": false,
+    "Ratgeber Schlaganfall .": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false
+  },
+  "Und dann können Gehirnzellen sterben.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen).": true,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Herzinfarkt :": false
+  },
+  "Dann beginnen Sie sofort mit der Wiederbelebung .": {
+    "Das sollten Sie tun:": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": true,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Dann können Sie jetzt Erste Hilfe leisten.": {
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Bleiben Sie bei der betroffenen Person.": {
+    "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen).": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Das sollten Sie tun:": false
+  },
+  "Wird die Verstopfung im Blutgefäß nicht gelöst?": {
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false
+  },
+  "Deshalb bekommt das Herz nicht mehr genug Blut.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen).": true,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Die Informationen sind dann nicht mehr in Einfacher Sprache.": {
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false
+  },
+  "Typische Anzeichen für einen Schlaganfall sind zum Beispiel:": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true,
+    "Ratgeber Schlaganfall .": false
+  },
+  "• Schlaganfall • Herzinfarkt": {
+    "Ratgeber Schlaganfall .": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Herzinfarkt :": true,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false
+  },
+  "Die betroffene Person hat Sehstörungen.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true
+  },
+  "Mehr Informationen finden Sie hier.": {
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": true
+  },
+  "Die Person könnte sich nämlich verschlucken.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Eine Person hat vielleicht einen Schlaganfall oder einen Herzinfarkt?": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Das sollten Sie tun:": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Ratgeber Schlaganfall .": false
+  },
+  "Dann müssen Sie schnell handeln.": {
+    "Das sollten Sie tun:": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Angst": {
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": true,
+    "Herzinfarkt :": false,
+    "Ratgeber Schlaganfall .": false
+  },
+  "Ein Körperteil ist gelähmt.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Merken Sie sich: Wann haben die Anzeichen angefangen?": {
+    "Das sollten Sie tun:": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false
+  },
+  "Entfernen Sie Zahnprothesen der betroffenen Person.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Das sollten Sie tun:": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Ratgeber Schlaganfall .": false
+  },
+  "Lockern Sie zu enge Kleidung der betroffenen Person.": {
+    "Das sollten Sie tun:": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Geben Sie der betroffenen Person nichts zu essen oder zu trinken.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false
+  },
+  "Mehr Informationen in Einfacher Sprache zu diesen Themen finden Sie in diesen Texten:": {
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": true,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false
+  },
+  "Bei einem Herzinfarkt ist ein Blutgefäß verstopft.": {
+    "Herzinfarkt :": true,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false
+  },
+  "Achtung!": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": true,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Ist die betroffene Person bewusstlos?": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Sie haben den Rettungsdienst gerufen?": {
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Dann fehlen im Gehirn Sauerstoff und Nährstoffe.": {
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Herzinfarkt :": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false
+  },
+  "Die Telefonnummer ist: 112.": {
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": false
+  },
+  "Typische Anzeichen für einen Herzinfarkt sind zum Beispiel: starke Schmerzen in der Brust ein drückendes Gefühl in der Brust Schmerzen im linken Arm Schmerzen im Hals oder im Kiefer kalter Schweiß": {
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": true,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Die Nummer ist: 112.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Das sollten Sie tun:": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": false
+  },
+  "Es gibt verschiedene Anzeichen für einen Schlaganfall.": {
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true,
+    "Ratgeber Schlaganfall .": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false
+  },
+  "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?": {
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": true,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Herzinfarkt :": false,
+    "Ausführliche Informationen bietet der Ratgeber Herzinfarkt .": true,
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false
+  },
+  "Ein Körperteil fühlt sich taub an.": {
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false
+  },
+  "Dann sterben Muskelzellen im Herz ab.": {
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen).": true,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false
+  },
+  "Reden Sie mit der betroffenen Person.": {
+    "Ratgeber Schlaganfall .": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Das sollten Sie tun:": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Das Herz kann dann manchmal nicht mehr richtig arbeiten.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Das sollten Sie tun:": false
+  },
+  "Oder erbricht sie sich?": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten).": false,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "Das sollten Sie tun:": false
+  },
+  "Ein Teil des Gesichts ist gelähmt.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true
+  },
+  "Die betroffene Person fühlt sich schwindelig.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Es gibt viele verschiedene Anzeichen für einen Herzinfarkt.": {
+    "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt.": false,
+    "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein.": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": true,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Herzinfarkt :": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Sie glauben:": {
+    "Das sollten Sie tun:": false,
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false
+  },
+  "Die Verstopfung von dem Gefäß muss schnell gelöst werden.": {
+    "Achtung: Ein Herzinfarkt kann sich auch anders äußern.": false,
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false
+  },
+  "Dann rufen Sie sofort den Rettungsdienst.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": true,
+    "Herzinfarkt :": false
+  },
+  "Folgendes können Sie tun:": {
+    "Das sollten Sie tun:": true,
+    "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen:": false,
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": false
+  },
+  "Die betroffene Person hat Problemen beim Sprechen.": {
+    "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen.": false,
+    "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst.": false,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": true
+  },
+  "Rufen Sie zuerst den Rettungsdienst.": {
+    "Daher sollten Sie schnellstens den Rettungsdienst alarmieren.": true,
+    "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind.": false,
+    "Das sollten Sie tun:": false
+  },
+  "finished": true
+}

@@ -2,7 +2,8 @@
   "Ein Problem ist dabei aber: Wenn Männer und Frauen vorkommen, dann werden die Sätze oft sehr lang.": {
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": true,
     "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false,
-    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false,
+    "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false
   },
   "Das gilt auch für die Sprache.": {
     "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false,
@@ -28,7 +29,8 @@
   "Vielen Menschen ist das egal.": {
     "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": false,
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
-    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
+    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
+    "„Das begrüße ich.“": false
   },
   "Wie sieht sich ein Mensch selbst?": {
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
@@ -57,7 +59,8 @@
     "Deshalb will die Linkspartei sie ab jetzt nicht mehr verwenden.": false
   },
   "Hinzu kommt:": {
-    "Der nun gefundene Kompromiss sieht so aus:": false
+    "Der nun gefundene Kompromiss sieht so aus:": false,
+    "„Das begrüße ich.“": false
   },
   "Diese Computer-Programme lesen die Texte auf Internet-Seiten vor.": {
     "So kann etwa die Software von Vorlesegeräten, die blinde Menschen nutzen, um Dokumente im Internet zu erschließen, Sonderzeichen nur sperrig übersetzen.": true,
@@ -65,24 +68,28 @@
     "Die vereinfachte Schreibweise soll es Menschen mit Behinderungen erleichtern, Dokumente im Internet zu lesen.": false
   },
   "Sie sagen:": {
-    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false,
+    "„Das begrüße ich.“": false
   },
   "Es gibt noch mehr Infos über die verschiedenen Geschlechter.": {
     "Deshalb will die Linkspartei sie ab jetzt nicht mehr verwenden.": false,
     "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
   },
   "Das ist ungerecht!": {
-    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
+    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
+    "„Das begrüße ich.“": false
   },
   "Politiker und Politikerin kommen aber nur Mann und Frau vor.": {
     "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false,
     "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
   },
   "Aber das funktioniert oft nicht so gut , wenn in den Texten das Gender-Sternchen vorkommen.": {
-    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false,
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
   },
   "Nein, es kommen nicht alle Geschlechter vor.": {
-    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false
+    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false,
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
   },
   "Auch bei Leichter Sprache spricht man aktuell viel über geschlechter-gerechte Sprache.": {
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
@@ -121,7 +128,8 @@
   "Aber es gibt dabei auch Probleme, zum Beispiel wenn es um Barriere-Freiheit geht.": {
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
     "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false,
-    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
+    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false,
+    "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false
   },
   "Zum Beispiel durch Geschlechts-Organe, wie den Penis und die Scheide.": {
     "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
@@ -151,11 +159,13 @@
   },
   "Eine weibliche Politikerin kommt in dem Wort nicht vor.": {
     "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
-    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
+    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false,
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
   },
   "Und nicht jeder Mensch mit einer Scheide ist eine Frau.": {
     "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false,
-    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false,
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
   },
   "Sollen wir weiter Politiker schreiben?": {
     "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false,
@@ -172,7 +182,8 @@
   },
   "taz leicht Prüfung von: capito Berlin, Büro für barrierefreie Information Erschienen am: 16. November 2019": {
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false,
-    "Sharon McCutcheon BERLIN": false
+    "Sharon McCutcheon BERLIN": false,
+    "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false
   },
   "Beide Geschlechter sollen in der Sprache vorkommen!": {
     "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
@@ -208,10 +219,12 @@
   },
   "Gleichzeitig sollen unsere Texte leicht verständlich sein.": {
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false,
-    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false,
+    "Die vereinfachte Schreibweise soll es Menschen mit Behinderungen erleichtern, Dokumente im Internet zu lesen.": true
   },
   "Mir reichen diese 2 Geschlechter nicht aus.": {
-    "Deshalb will die Linkspartei sie ab jetzt nicht mehr verwenden.": false
+    "Deshalb will die Linkspartei sie ab jetzt nicht mehr verwenden.": false,
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": true
   },
   "Es gibt Männer und es gibt Frauen.": {
     "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
@@ -233,12 +246,14 @@
   },
   "Gender (spricht man: Djänder) ist das englische Wort für Geschlecht.": {
     "„Das begrüße ich.“": false,
-    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false
+    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false,
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
   },
   "Es ist ein Zeichen für alle Menschen.": {
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
     "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false,
-    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
+    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false,
+    "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": false
   },
   "Dort stand selten das Wort Politikerin.": {
     "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
@@ -269,7 +284,8 @@
   },
   "Dazu muss man wissen:": {
     "So kann etwa die Software von Vorlesegeräten, die blinde Menschen nutzen, um Dokumente im Internet zu erschließen, Sonderzeichen nur sperrig übersetzen.": false,
-    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false
+    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false,
+    "„Das begrüße ich.“": false
   },
   "Sie benutzt das Gender-Sternchen nicht mehr auf ihren Internet-Seiten.": {
     "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": false,
@@ -297,13 +313,15 @@
   "Aber nicht jeder Mensch mit einem Penis ist ein Mann.": {
     "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false,
     "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": false,
-    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false
+    "Zu einem abschließenden Ergebnis sei man noch nicht gekommen.": false,
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
   },
   "Deshalb sagen viele Menschen:": {
     "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
     "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false,
     "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false,
-    "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": false
+    "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": false,
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
   },
   "Denn Sprache ist ein wichtiger Teil unseres Lebens.": {
     "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
@@ -323,7 +341,8 @@
   },
   "Und alle Geschlechter sind wichtig.": {
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false,
-    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false,
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
   },
   "Wir haben diesen Text geschrieben, um Ihre Meinung zu erfahren:": {
     "Als Sonderzeichen werde nur der Bindestrich genutzt, um zusammengesetzte Worte zu trennen.": false,
@@ -334,7 +353,8 @@
   },
   "Wie hilft das Gender-Sternchen in der Sprache weiter?": {
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false,
-    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
+    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false,
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
   },
   "Aber unsere Sprache ist vor allem männlich.": {
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false,
@@ -355,7 +375,8 @@
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel Foto:": false
   },
   "Das betrifft auch unser Geschlecht.": {
-    "„Das begrüße ich.“": false
+    "„Das begrüße ich.“": false,
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
   },
   "Gender-gerechte Sprache ist für diese Partei wichtig.": {
     "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false,
@@ -374,10 +395,12 @@
     "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
   },
   "Deshalb gibt es besondere Abkürzungen.": {
-    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
+    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
   },
   "Wie in der Erklärung oben in diesem Text steht: Es gibt nicht nur Männer und Frauen.": {
-    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false,
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
   },
   "Probleme mit geschlechter-gerechter Sprache": {
     "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false,
@@ -410,7 +433,8 @@
     "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
   },
   "Frauen kämpfen in Deutschland für die Gleich-Berechtigung von Mann und Frau.": {
-    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false,
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
   },
   "Schreiben Sie uns auch gern, wenn wir etwas im Text übersehen oder vergessen haben.": {
     "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
@@ -419,20 +443,23 @@
     "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
   },
   "Und ein Mensch mit einer Scheide gilt als Frau.": {
-    "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false
+    "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false,
+    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
   },
   "Oder sollen wir Politiker und Politikerin oder Po­li­ti­ke­r*in schreiben?": {
     "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false,
     "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
   },
   "Und es klappt!": {
-    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
+    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false,
+    "„Das begrüße ich.“": false
   },
   "Es heißt dann zum Bespiel:": {
     "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
   },
   "Das Gender-Sternchen kann auch für blinde Menschen ein Problem sein.": {
-    "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": true
+    "Sonderzeichen machen vielen Menschen mit Behinderung im Internet zu schaffen.": true,
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
   },
   "Ein Mensch mit einem Penis kann zum Bespiel sagen:": {
     "Auch Menschen mit kognitiven Einschränkungen hätten Probleme mit Sonderzeichen, so Daniel Fischer, Geschäftsführer der Lebenshilfe Berlin.": false
@@ -444,7 +471,99 @@
     "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
   },
   "Eine mögliche Antwort ist das Gender-Sternchen.": {
-    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false
+    "In dem Konzept zur Teilhabe, welches der Parteivorstand am Sonntag verabschiedete, heißt es: „Im Interesse des flüssigen Lesens und der Maschinenlesbarkeit ist auf eine ‚gegenderte‘ Schreibweise zu verzichten.": false,
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
   },
-  "finished": true
+  "finished": true,
+  "Aber es gibt noch weitere Geschlechter.": {
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
+  },
+  "*.": {
+    "„Das begrüße ich.“": false
+  },
+  "Alle Geschlechter kommen gleichberechtigt in der Sprache vor.": {
+    "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false
+  },
+  "•": {
+    "„Das begrüße ich.“": false
+  },
+  "Es gibt viele Geschlechter Foto: imago images /": {
+    "Schwieriger Widerspruch: Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel Foto:": false
+  },
+  "Politiker und Politikerin, • Ärztin und Arzt • oder Lehrer und Lehrerin.": {
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
+  },
+  "Das Gender-Sternchen kommt im Wort vor die weibliche Endung „in“.": {
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
+  },
+  "Einige Infos in diesem leichten Text kommen aus diesem „schweren“ Text .": {
+    "Die vereinfachte Schreibweise soll es Menschen mit Behinderungen erleichtern, Dokumente im Internet zu lesen.": false
+  },
+  "Zum Beispiel auf diesen Internet-Seiten: • einfachqueer • Regenbogenportal": {
+    "Der Passus im Teilhabekonzept bezieht sich nur auf die Webseiten.": false
+  },
+  "Bei den Wörtern Politiker und Politikerin kommen aber nur Mann und Frau vor.": {
+    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
+  },
+  "oder Leh­re­r*in": {
+    "„Das begrüße ich.“": false
+  },
+  "Das Gender-Sternchen in Wörtern zeigt also:": {
+    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
+  },
+  "Was sagen Sie?": {
+    "„Das begrüße ich.“": false
+  },
+  "Das Gender-Sternchen hat eine wichtige Bedeutung:": {
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
+  },
+  "In der Sprache kamen nicht alle Geschlechter vor.": {
+    "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false
+  },
+  "Es heißt dann zum Bespiel: • Po­li­ti­ke­r*in • Ärz­t*in": {
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": true
+  },
+  "Deshalb ist es meistens so:": {
+    "Es ist also stets von ‚Nutzerinnen und Nutzer‘ zu schreiben.“": false
+  },
+  "Alle Menschen wollen die gleichen Rechte haben.": {
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
+  },
+  "Man fragt sich beim Schreiben in Leichter Sprache:": {
+    "Die vereinfachte Schreibweise soll es Menschen mit Behinderungen erleichtern, Dokumente im Internet zu lesen.": false,
+    "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false
+  },
+  "Alle Geschlechter sollen dazugehören": {
+    "Die Linke habe, so Möhring die Debatte schon wiederholt darum geführt, wie sich Barrierefreiheit und Gendern miteinander vereinbaren ließen.": false
+  },
+  "Ich will auch in der Sprache dazugehören.": {
+    "Gegenderte und barrierefreie Sprache sind derzeit nur bedingt kompatibel.": false
+  },
+  "Ich bin trotzdem ein Mann.": {
+    "„Das begrüße ich.“": false
+  },
+  "Beim Wort Politiker denkt man sofort an einen Mann.": {
+    "So würde das Wort Polizist*innen per Sprachausgabe als „Polizist Stern innen“ gelesen.": false
+  },
+  "Das Gender-Sternchen sieht so aus:": {
+    "Der nun gefundene Kompromiss sieht so aus:": false
+  },
+  "Aber egal, welches Geschlecht ein Mensch hat:": {
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
+  },
+  "Ist das Gender-Sternchen bekannt genug?": {
+    "„Wir als queerinklusive Feministinnen innerhalb der Partei sind natürlich nicht zufrieden mit dieser Schreibweise“, so Fraktionsvize Cornelia Möhring.": false
+  },
+  "Wissen alle, was das Gender-Sternchen bedeutet?": {
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
+  },
+  "Das gilt zum Beispiel für Zeitungen.": {
+    "„Wir schreiben daher für unsere Klienten etwa von Arzt und Ärztin.“": false
+  },
+  "Aber kommen in den Abkürzungen alle Geschlechter vor?": {
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
+  },
+  "Und jeder Mensch kennt sein Geschlecht selbst am besten.": {
+    "Man sehe aber, dass keine trans- und interfeindliche Motivation zugrunde liege, sondern ein Interesse an der Inklusion aller Menschen.": false
+  }
 }

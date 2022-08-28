@@ -9,7 +9,8 @@
   },
   "Dunja Stegemann konnte drei Sprachen sprechen:": {
     "– Was die Stegemann anging, so war sie zu Moskau von deutschen Eltern geboren und dortselbst, oder doch in Russland, aufgewachsen.": false,
-    "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": false
+    "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": false,
+    "Dreier Sprachen, des Russischen, Französischen und Deutschen, mächtig, war sie als Gouvernante nach Deutschland gekommen;": true
   },
   "Ich habe mal eine Frau getroffen.": {
     "Noch niemals hatte ich bei einer Frau eine so unzweideutige und resolute Hässlichkeit gesehen.": false,
@@ -29,7 +30,8 @@
     "– Was die Stegemann anging, so war sie zu Moskau von deutschen Eltern geboren und dortselbst, oder doch in Russland, aufgewachsen.": true
   },
   "Damals war ich 20 Jahre alt.": {
-    "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true
+    "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true,
+    "[…] Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true
   },
   "Aber ich wollte das Leben genießen.": {
     "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": false
@@ -49,7 +51,8 @@
     "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true
   },
   "Die Frau hieß Dunja Stegemann.": {
-    "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true
+    "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true,
+    "[…] Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": true
   },
   "Ihre Augen waren grün.": {
     "Sie war dreißig Jahre alt, als ich, am Tage meiner Ankunft in B., an der spärlich besetzten Table d’hôte einer kleinen Pension mit ihr zusammentraf: – eine große Person mit flacher Brust, flachen Hüften, hellgrünlichen Augen, die keines verwirrten Ausdrucks fähig waren, einer übermäßig aufgeworfenen Nase und einer kunstlosen Frisur von indifferentem Blond.": true
@@ -75,10 +78,14 @@
     "Meine Begierden waren zügellos, ohne Skrupel gab ich mich ihrer Befriedigung hin, und mit der neugierigen Lasterhaftigkeit meiner Lebensführung verband ich aufs Anmutigste jenen Idealismus, der mich zum Beispiel die reine, geistige – aber absolut geistige – Vertrautheit mit einer Frau innig erwünschen ließ.": false
   },
   "In Deutschland hat sie erst als Lehrerin gearbeitet.": {
-    "Dreier Sprachen, des Russischen, Französischen und Deutschen, mächtig, war sie als Gouvernante nach Deutschland gekommen;": true
+    "Dreier Sprachen, des Russischen, Französischen und Deutschen, mächtig, war sie als Gouvernante nach Deutschland gekommen;": true,
+    "aber mit artistischen Instinkten ausgestattet, hatte sie diesen Beruf nach einigen Jahren fahren gelassen und lebte nun als intelligentes und freies Frauenzimmer, als Philosophin und Junggesellin, indem sie eine Zeitung zweiten oder dritten Ranges mit Literatur- und Musikberichten versah.": false
   },
   "Ich habe sie in der Stadt Berlin getroffen.": {
     "Als ich Dunja Stegemann kennenlernte, war ich zwanzig Jahre alt und von extremer Gimpelhaftigkeit.": false
   },
-  "finished": true
+  "finished": true,
+  "Da hat sie Texte über Bücher und über Musik geschrieben.": {
+    "aber mit artistischen Instinkten ausgestattet, hatte sie diesen Beruf nach einigen Jahren fahren gelassen und lebte nun als intelligentes und freies Frauenzimmer, als Philosophin und Junggesellin, indem sie eine Zeitung zweiten oder dritten Ranges mit Literatur- und Musikberichten versah.": true
+  }
 }
