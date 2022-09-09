@@ -1,3 +1,5 @@
+import spacy
+import torch
 import numpy as np
 import scipy.optimize
 from collections import Counter
@@ -5,7 +7,13 @@ from spacy.tokens.doc import Doc
 import matching.utilities as utl
 from sentence_transformers import SentenceTransformer, util
 
-model = SentenceTransformer("sentence-transformers/distiluse-base-multilingual-cased-v1")
+if torch.cuda.is_available():
+    device = "cuda"
+    spacy.prefer_gpu()
+else:
+    device = "cpu"
+
+model = SentenceTransformer("sentence-transformers/distiluse-base-multilingual-cased-v1", device=device)
 
 # max_matching_similarity --> bipartite_similarity
 

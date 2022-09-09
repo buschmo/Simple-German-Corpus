@@ -1,18 +1,20 @@
-from typing import Union, List
-from pathlib import Path
-
-import spacy
 import re
-import numpy as np
 import os
 import json
+import torch
+import spacy
 import hashlib
+import numpy as np
 
 from tqdm import tqdm
+from pathlib import Path
 from spacy.tokens import Doc
 from typing import Iterator
+from typing import Union, List
 
 from defaultvalues import *
+if torch.cuda.is_available():
+    spacy.prefer_gpu()
 
 nlp = spacy.load('de_core_news_lg')
 
@@ -145,7 +147,7 @@ def get_exemplary_article_pairs(root_dir: str = dataset_location) -> list[tuple[
     for root, dirs, files in os.walk(root_dir):
         for name in files:
             if name == 'exemplary_header.json':
-                with open(os.path.join(root, name), 'r') as fp:
+                with open(os.path.join(root, name), 'r', encoding="utf-8") as fp:
                     data = json.load(fp)
 
                 for fname in data:
@@ -156,7 +158,7 @@ def get_exemplary_article_pairs(root_dir: str = dataset_location) -> list[tuple[
     return parallel_list
 
 
-def get_article_pairs(root_dir: str = dataset_location) -> list[tuple[str, str]]:
+def get_article_pairs(root_dir: str = dataset_location, source: str | list = None, type: str = None) -> list[tuple[str, str]]:
     """ Returns a list of tuples in the form of (easy_article, normal_article) in the specified directory
 
     Args:
@@ -166,23 +168,25 @@ def get_article_pairs(root_dir: str = dataset_location) -> list[tuple[str, str]]
         list[tuple[str,str]]: list of tuples in the form of (easy_article, normal_article) in the specified directory
     """
     parallel_list = []
+    source = [source] if isinstance(source, str) else source
     for root, dirs, files in os.walk(root_dir):
         for name in files:
             if name == 'parsed_header.json':
-                with open(os.path.join(root, name), 'r') as fp:
+                # if you want to filter by source(s) and the current file is not from that source
+                if source and not any(name in root for name in source):
+                    continue
+
+                with open(os.path.join(root, name), 'r', encoding="utf-8") as fp:
                     data = json.load(fp)
 
                 for fname in data:
-                    # if str(root).endswith("www.brandeins.de"):
-                    #     name = str(fname).replace('.html', '')
-                    #     parallel_list.append((os.path.join(root, 'parsed/' + name + '_easy.html.txt'),
-                    #                           os.path.join(root, 'parsed/' + name + '_normal.html.txt')))
-                    #     continue
                     if 'matching_files' not in data[fname]:
                         continue
                     if 'easy' not in data[fname]:
                         continue
                     if not data[fname]['easy']:
+                        continue
+                    if type and data[fname]['type'] != type:
                         continue
                     for parallel_article in data[fname]['matching_files']:
                         parallel_list.append((os.path.join(root, 'parsed/' + fname + '.txt'),
@@ -210,7 +214,7 @@ def calculate_full_n_gram_idf(articles: set[str], n=3, **kwargs) -> dict[str, fl
         article_n_gram_set = set()
 
         try:
-            with open(article, 'r') as fp:
+            with open(article, 'r', encoding="utf-8") as fp:
                 text = fp.read()
                 prep_text = preprocess(text, **kwargs)
                 prep_text = ' '.join([str(sent) for sent in prep_text])
@@ -292,7 +296,7 @@ def calculate_full_word_idf(articles: set[str], **kwargs) -> dict[str, float]:
         article_n_gram_set = set()
 
         try:
-            with open(article, 'r') as fp:
+            with open(article, 'r', encoding="utf-8") as fp:
                 text = fp.read()
                 prep_text = preprocess(text, **kwargs)
 
@@ -330,7 +334,7 @@ def calculate_n_gram_tf_from_article(article: str, n: int = 3, **kwargs) -> dict
         dict[str, float]: The n-gram tf dictionary
     """
     try:
-        with open(article, 'r') as fp:
+        with open(article, 'r', encoding="utf-8") as fp:
             text = fp.read()
             prep_text = preprocess(text, **kwargs)
     except FileNotFoundError:
@@ -441,9 +445,9 @@ def article_generator(matched_article_list: list[tuple[str, str]], *preprocessin
     for simple, normal in matched_article_list:
         simple_arts = []
         normal_arts = []
-        with open(simple, 'r') as fp:
+        with open(simple, 'r', encoding="utf-8") as fp:
             simple_text = fp.read()
-        with open(normal, 'r') as fp:
+        with open(normal, 'r', encoding="utf-8") as fp:
             normal_text = fp.read()
 
         # don't process exact copies
@@ -538,7 +542,7 @@ def get_file_name_hash(simple_path: str, normal_path: str) -> int:
     return get_hash(string)
 
 
-def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, matching: str, sd_threshold: float) -> str:
+def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, matching: str, sd_threshold: float) -> Path:
     """ Returns the path to the corresponding matching distance file
 
     Args:
@@ -552,7 +556,7 @@ def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, mat
         str: path to matching distance file
     """
     hash = get_file_name_hash(simple_path, normal_path)
-    return f"{matching_location}/{hash}--{sim_measure}--{matching}--{str(sd_threshold)}.matches"
+    return Path(matching_location, f"{hash}--{sim_measure}--{matching}--{str(sd_threshold)}.matches")
 
 
 def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None) -> str:
@@ -605,7 +609,7 @@ def get_website_hashes(root_dir: str = dataset_location) -> dict[str, list[str]]
     for root, _, files in os.walk(root_dir):
         for name in files:
             if name == 'parsed_header.json':
-                with open(os.path.join(root, name), 'r') as fp:
+                with open(os.path.join(root, name), 'r', encoding="utf-8") as fp:
                     header = json.load(fp)
 
                 website = root.split("/")[-1]
