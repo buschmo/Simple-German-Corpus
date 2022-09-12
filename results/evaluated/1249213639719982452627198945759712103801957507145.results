@@ -1,0 +1,544 @@
+{
+  "Die Informationen sind dann nicht mehr in Einfacher Sprache.": {
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Sonst gerät noch mehr Gift in den Körper.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false
+  },
+  "Der Stich ist im Mund oder im Rachen der betroffenen Person.": {
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Sie bekommen ein passendes Mittel gegen Insektenstiche in der Apotheke.": {
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": true,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false
+  },
+  "Sie können zum Beispiel einen Hitze-Stift kaufen.": {
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": true,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Entfernen Sie zuerst den Stachel aus der Haut.": {
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": true,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.": {
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Falls keine Hilfsmittel zur Hand sind, kann der Stachel auch „herausgeschnippt“ werden.": false,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false
+  },
+  "Lösen Sie die Spritze aus.": {
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": true,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "Rufen Sie sofort den Rettungsdienst.": {
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": true,
+    "Anschließend rufen sie den Rettungsdienst (112) !": true
+  },
+  "Auch Hitze kann bei einem Insektenstich helfen.": {
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": true,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false
+  },
+  "In Deutschland ist ein normaler Insektenstich meist nicht gefährlich.": {
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": true
+  },
+  "Berühren Sie nicht die Giftblase.": {
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Sonst gerät noch mehr Gift in den Körper.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": true,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "In der Giftblaseist das Insektengift.": {
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false
+  },
+  "Die Person kann auf die große Menge Insektengift allergisch reagieren.": {
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": true
+  },
+  "Einem Medikament mit Kortison .": {
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false
+  },
+  "Dann entfernen Sie den Stachel vorsichtig.": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": true,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": true,
+    "Damit kann der Stachel weggeschoben werden.": true
+  },
+  "Kühlen Sie den Insektenstich.": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": true,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Eine Person reagiert allergisch auf Insektengift?": {
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Cremen Sie den Stich mit einem speziellen Gel oder einer speziellen Salbe ein.": {
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": true,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Das können Sie bei einem Insektenstich tun.": {
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Antihistamin hilft gegen allergische Reaktionen.": {
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true
+  },
+  "Sie die Adrenalin-Fertigspritze.": {
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "Kortison hilft gegen Entzündungen.": {
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false
+  },
+  "Insektenstiche in diesen Bereichen können stark anschwellen.": {
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "So versorgen Sie Allergiker mit dem Notfall-Set:": {
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false
+  },
+  "Dann können Betroffene manchmal nicht mehr atmen.": {
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Sonst gerät noch mehr Gift in den Körper.": false
+  },
+  "Die Giftblase ist oben am Stachel.": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false
+  },
+  "Einen Insektenstich versorgen Sie so:": {
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Nutzen Sie das Notfall-Set.": {
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": true,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Sie berühren die Giftblase?": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Sonst gerät noch mehr Gift in den Körper.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Setzen Sie die Spritze seitlich auf den Oberschenkel.": {
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": true
+  },
+  "Die betroffene Person reagiert allergisch auf den Insektenstich.": {
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": true,
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": true,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false
+  },
+  "Achtung: Legen Sie Kältepacks oder Eiswürfel nicht direkt auf die Haut.": {
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": true,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": true
+  },
+  "Und die Person weiß von der Allergie.": {
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": true
+  },
+  "Das Notfall-Set besteht aus:": {
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": true,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true
+  },
+  "Eine Person wurde sehr häufig von einer Wespe, einer Biene oder einer Hornisse gestochen?": {
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": true,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Die Adrenalin-Fertigspritze stabilisiert den Kreislauf.": {
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": false,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false
+  },
+  "Die betroffene Person hat sehr viele Insektenstiche gleichzeitig bekommen.": {
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": true,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false
+  },
+  "Legen Sie das Tuch auf den Stich.": {
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": true
+  },
+  "Entsichern": {
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": false,
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": false
+  },
+  "Wickeln Sie ein Kältepack oder Eiswürfel in ein Tuch.": {
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": true
+  },
+  "Achtung: Insektenstiche im Mund und Rachen können lebensgefährlich sein.": {
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false
+  },
+  "Achtung: Der Betroffene atmet nicht mehr?": {
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false
+  },
+  "Das Video zeigt Ihnen:": {
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false
+  },
+  "Deshalb können Sie den Insektenstich meist selbst versorgen.": {
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "Atemnot Schwindel": {
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": true
+  },
+  "Der Stachel der Biene steckt noch in der Haut?": {
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": true
+  },
+  "Dann beginnen Sie mit der Wiederbelebung .": {
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "Anzeichen für eine allergische Reaktion sind zum Beispiel:": {
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": true
+  },
+  "Dann müssen Sie sehr vorsichtig sein.": {
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": true
+  },
+  "Wickeln Sie der betroffenen Person kühle Umschläge um den Hals.": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Am besten schieben Sie den Stachel seitlich heraus.": {
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": true,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false
+  },
+  "Dann hat die Person vielleicht ein Notfall-Set für Allergiker bei sich.": {
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": true,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Sie wollen noch mehr über Insektenstiche lesen?": {
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false
+  },
+  "Dann rufen Sie sofort den Rettungsdienst.": {
+    "Anschließend rufen sie den Rettungsdienst (112) !": true,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Einige Insektenstiche können gefährlich sein.": {
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false
+  },
+  "Einer Adrenalin-Fertigspritze .": {
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false
+  },
+  "Dann kann mehrInsektengift in die Wunde kommen.": {
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause.": false
+  },
+  "Die Hitze hilft gegen den Juckreiz.": {
+    "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen.": true,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "In den folgenden Situationen müssen Sie den Rettungsdienst rufen:": {
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": true,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "So können Sie Erste Hilfe leisten:": {
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Die Nummer ist 112 .": {
+    "Anschließend rufen sie den Rettungsdienst (112) !": true,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Einem Antihistaminikum .": {
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true,
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig.": false
+  },
+  "Streichen Sie mit der Karte über den Stich.": {
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte.": true,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": true
+  },
+  "Mehr Informationen über Insektenstich finden Sie hier .": {
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Es droht die Entwicklung eines anaphylaktischen Schocks.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Die Kälte kann der Haut schaden.": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": true,
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": true
+  },
+  "Geben Sie der betroffenen Person einen Eiswürfel zum Lutschen.": {
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false
+  },
+  "Geben Sie der betroffenen Person das Medikament mit Kortison und das Antihistaminikum.": {
+    "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen).": true,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false,
+    "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden.": false
+  },
+  "Dann müssen Sie schnell handeln.": {
+    "Anschließend rufen sie den Rettungsdienst (112) !": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "Quaddeln sind rote geschwollene Flecken auf der Haut.": {
+    "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!": false,
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": true,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Benutzen Sie dafür eine stumpfe Kante, zum Beispiel einer Kreditkarte.": {
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte.": true,
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": false,
+    "Damit kann der Stachel weggeschoben werden.": false
+  },
+  "Die Gele und Salben lindern den Juckreiz.": {
+    "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern.": true,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false
+  },
+  "Herzklopfen starke Schwellungen Quaddeln auf der Haut.": {
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": true,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false
+  },
+  "Hinweis: Sie möchten den Stachel mit einer Pinzette herausziehen?": {
+    "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle.": true,
+    "Damit kann der Stachel weggeschoben werden.": false,
+    "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren.": false,
+    "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte.": false
+  },
+  "Eine Person hat einen Insektenstich im Mund oder Rachen?": {
+    "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut.": false,
+    "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden.": false,
+    "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden.": false,
+    "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich.": false,
+    "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten.": false,
+    "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst.": false
+  },
+  "finished": true
+}

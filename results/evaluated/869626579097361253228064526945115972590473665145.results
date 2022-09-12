@@ -1,0 +1,105 @@
+{
+  "Das Tor darf silbern sein.": {
+    "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben.": false,
+    "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf.": false,
+    "Die natürliche Silberfarbe bei Toren aus Metall ist zulässig.": true
+  },
+  "Vielleicht schießt der Spieler vorher sogar ein Tor.": {
+    "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben.": false,
+    "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer.": true
+  },
+  "Manchmal geht die Stange vom Tor kaputt.": {
+    "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben.": false,
+    "Die natürliche Silberfarbe bei Toren aus Metall ist zulässig.": false
+  },
+  "Die Fußbälle müssen rund sein.": {
+    "Sämtliche Bälle müssen kugelförmig sein.": true
+  },
+  "Manchmal dauert das aber.": {
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": true
+  },
+  "Sie sollen nur schnell wieder zurück·kommen.": {
+    "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen.": false,
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": false,
+    "„Choreografierte“ Jubelszenen werden aber nicht gefördert und dürfen zu keiner übermäßigen Zeitverzögerung führen.": true,
+    "Die Spieler sind gehalten, so rasch wie möglich zurückzukehren.": true
+  },
+  "Manchmal schießt ein Spieler ein Tor.": {
+    "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer.": true,
+    "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben.": false
+  },
+  "Manchmal verliert ein Spieler aus Versehen einen Schuh.": {
+    "Die Spieler sind gehalten, so rasch wie möglich zurückzukehren.": false,
+    "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen.": true
+  },
+  "Die Fahnen sollen bunt sein.": {
+    "(…) Es sind möglichst Fahnen in lebhafter Farbe zu verwenden.": true,
+    "Sämtliche Bälle müssen kugelförmig sein.": false
+  },
+  "Dann zählt das Tor trotzdem.": {
+    "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer.": true,
+    "Die natürliche Silberfarbe bei Toren aus Metall ist zulässig.": false
+  },
+  "Auf dem Fußball·feld sind viele Linien.": {
+    "Kunstrasenfelder sind grün.": false,
+    "￼ Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf.": true
+  },
+  "Dann muss die Stange repariert werden.": {
+    "(…) Falls die Querlatte verschoben wird oder bricht, wird das Spiel unterbrochen, bis sie repariert oder wieder in die richtige Lage gebracht wurde.": true,
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": false
+  },
+  "Dann muss er den Schuh ganz schnell wieder anziehen.": {
+    "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen.": true,
+    "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben.": false
+  },
+  "Manchmal rennen Spieler vor Freude vom Platz.": {
+    "Die Spieler sind gehalten, so rasch wie möglich zurückzukehren.": true
+  },
+  "Aber nur wenn es erlaubtes Gras aus Plastik ist.": {
+    "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu.": true
+  },
+  "Dann dürfen sich alle Spieler freuen.": {
+    "Die Spieler sind gehalten, so rasch wie möglich zurückzukehren.": false,
+    "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben.": true
+  },
+  "Aber sie sollen nicht doll tanzen oder trödeln.": {
+    "„Choreografierte“ Jubelszenen werden aber nicht gefördert und dürfen zu keiner übermäßigen Zeitverzögerung führen.": true,
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": false
+  },
+  "Das Gras darf auch aus Plastik sein.": {
+    "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu.": true,
+    "Kunstrasenfelder sind grün.": false
+  },
+  "Manchmal darf aber auch beides gemischt sein.": {
+    "„Choreografierte“ Jubelszenen werden aber nicht gefördert und dürfen zu keiner übermäßigen Zeitverzögerung führen.": false,
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": false
+  },
+  "Aber manchmal klappt das nicht.": {
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": true
+  },
+  "Dann ist das Spiel für heute zu Ende.": {
+    "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer.": false,
+    "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden.": true
+  },
+  "Das Gras muss entweder echt sein oder aus Plastik.": {
+    "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu.": true,
+    "Kunstrasenfelder sind grün.": false
+  },
+  "Das ist in Ordnung.": {
+    "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu.": false,
+    "(…)": false
+  },
+  "finished": true,
+  "Das Fußball·feld hat vier Ecken.": {
+    "￼ Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf.": true
+  },
+  "Hauptsache das Gras ist grün.": {
+    "Kunstrasenfelder sind grün.": true
+  },
+  "Die Linien dürfen keinem wehtun.": {
+    "￼ Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf.": true
+  },
+  "Auf dem Boden vom Fußball·feld muss Gras sein.": {
+    "Sämtliche Bälle müssen kugelförmig sein.": false
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "Die Tages-Betreuung ist für Menschen mit Behinderung, die nicht arbeiten gehen.": {
+    "Die Tagesgestaltung ist ein Angebot für Menschen mit Behinderung, die (noch) nicht oder nicht mehr in einer Werkstatt für behinderte Menschen tätig sind.": true,
+    "Lebenshilfe": false
+  },
+  "Die Lebenshilfe macht viele Freizeit-Angebote .": {
+    "Lebenshilfe": true,
+    "Diverse Freizeitangebote wie Kegeln, Schwimmen, Disco oder die integrative Tanzgruppe runden das Angebot der Lebenshilfe ab.": true
+  },
+  "Die Früh-Förder-Stelle hilft über 310 kleinen Kindern.": {
+    "Die Frühförderung fördert rund 310 Kleinkinder im Vorschulalter und berät und begleitet deren Familien.": true,
+    "Die Beratungsstelle STARK - EUTB Main-Taunus berät und begleitet Menschen mit und ohne Behinderung.": false,
+    "Lebenshilfe": false
+  },
+  "Über 150 Menschen wohnen bei der Lebenshilfe .": {
+    "Lebenshilfe": false,
+    "Im Wohnverbund mit 5 Wohnhäusern und dem Betreuten Wohnen leben über 150 Menschen mit Behinderung.": true,
+    "Der Familienunterstützende Dienst (FuD) betreut über 350 Kinder, Jugendliche und Erwachsene in Freizeitgruppen, bei Einzelbetreuungen, Ferienspielen, Freizeiten und in der Schule.": false
+  },
+  "Hier finden Sie eine kurze Beschreibung zu allem, was die Lebenshilfe anbietet.": {
+    "Außerdem gibt es hier eine Bücherei für Leichte Sprache, die allen Interessierten offen steht.": false,
+    "Lebenshilfe": false,
+    "informiert ein- bis zwei Mal järhrlich über Arbeit und Angebote der Lebenshilfe Main-Taunus.": true
+  },
+  "Kontakt zur Lebenshilfe": {
+    "Lebenshilfe": false,
+    "Die Zeitung „Lebenshilfe inform“": false
+  },
+  "Adresse: Lebenshilfe für Menschen mit Behinderung Kreisvereinigung Main-Taunus Nachtigallenweg": {
+    "Die Zeitung „Lebenshilfe inform“ informiert ein- bis zwei Mal järhrlich über Arbeit und Angebote der Lebenshilfe Main-Taunus.": false,
+    "Kreisvereinigung Main-Taunus": true,
+    "Lebenshilfe": false,
+    "Die Beratungsstelle STARK - EUTB Main-Taunus berät und begleitet Menschen mit und ohne Behinderung.": false
+  },
+  "Die Lebenshilfe ist im Main-Taunus Kreis.": {
+    "Lebenshilfe": false,
+    "Die Zeitung „Lebenshilfe inform“ informiert ein- bis zwei Mal järhrlich über Arbeit und Angebote der Lebenshilfe Main-Taunus.": false,
+    "Kreisvereinigung Main-Taunus": true
+  },
+  "Der FuD betreut über 350 Kinder und Jugendliche.": {
+    "Die Frühförderung fördert rund 310 Kleinkinder im Vorschulalter und berät und begleitet deren Familien.": true,
+    "Der Familienunterstützende Dienst (FuD) betreut über 350 Kinder, Jugendliche und Erwachsene in Freizeitgruppen, bei Einzelbetreuungen, Ferienspielen, Freizeiten und in der Schule.": true,
+    "Lebenshilfe": false
+  },
+  "Zum Beispiel: Kegeln, Schwimmen, Disco oder Tanz-Gruppen.": {
+    "Diverse Freizeitangebote wie Kegeln, Schwimmen, Disco oder die integrative Tanzgruppe runden das Angebot der Lebenshilfe ab.": true
+  },
+  "Die Tages-Betreuung findet in den Wohnhäusern statt.": {
+    "Insgesamt erhalten 48 Menschen in den Wohneinrichtungen der Lebenshilfe ein Angebot der Tagesgestaltung, 20 davon im Haus Trappen in Eschborn.": true,
+    "Im Wohnverbund mit 5 Wohnhäusern und dem Betreuten Wohnen leben über 150 Menschen mit Behinderung.": false,
+    "Der Familienunterstützende Dienst (FuD) betreut über 350 Kinder, Jugendliche und Erwachsene in Freizeitgruppen, bei Einzelbetreuungen, Ferienspielen, Freizeiten und in der Schule.": false,
+    "Lebenshilfe": false,
+    "Die Tagesgestaltung ist ein Angebot für Menschen mit Behinderung, die (noch) nicht oder nicht mehr in einer Werkstatt für behinderte Menschen tätig sind.": false
+  },
+  "Hier kann sich jeder Bücher, Hefte und Spiele in Leichter Sprache ausleihen.": {
+    "Im Treffpunkt Leichte Sprache werden Texte in Leichte Sprache und in verständliche Verwaltungssprache übersetzt.": true,
+    "Außerdem gibt es hier eine Bücherei für Leichte Sprache, die allen Interessierten offen steht.": true
+  },
+  "Fax: 0 61 95 / 60 08-199 E-Mail: info@lebenshilfe-main-taunus.de Taunus-Sparkasse IBAN: DE04 5125 0000 0005003326 BIC: HELADEF1TSK": {
+    "e.V. Nachtigallenweg 19 65779 Kelkheim Telefon: 0 61 95 / 60 08-0 Telefax: 0 61 95 / 60 08-199 E-Mail:": true,
+    "Taunussparkasse IBAN: DE04 5125 0000 0005 0033 26 BIC: HELADEF1TSK Kontakt": true
+  },
+  "Die Beratungs-Stelle berät und begleitet Kinder, Jugendliche, junge Erwachsene und ihre Familien.": {
+    "Die Frühförderung fördert rund 310 Kleinkinder im Vorschulalter und berät und begleitet deren Familien.": true,
+    "Lebenshilfe": false,
+    "Der Familienunterstützende Dienst (FuD) betreut über 350 Kinder, Jugendliche und Erwachsene in Freizeitgruppen, bei Einzelbetreuungen, Ferienspielen, Freizeiten und in der Schule.": false,
+    "Die Beratungsstelle STARK - EUTB Main-Taunus berät und begleitet Menschen mit und ohne Behinderung.": true
+  },
+  "Ein bis zwei Mal im Jahr gibt es die Zeitung Lebenshilfe inform.": {
+    "Lebenshilfe": false,
+    "Die Zeitung „Lebenshilfe inform“ informiert ein- bis zwei Mal järhrlich über Arbeit und Angebote der Lebenshilfe Main-Taunus.": true,
+    "Die Zeitung „Lebenshilfe inform“": true
+  },
+  "Der FuD macht zum Beispiel:": {
+    "Der FuD ist eine anerkannte Beratungsstelle.": true
+  },
+  "Darin stehen spannende Berichte über die Lebenshilfe Main-Taunus.": {
+    "Lebenshilfe": false,
+    "Die Zeitung „Lebenshilfe inform“ informiert ein- bis zwei Mal järhrlich über Arbeit und Angebote der Lebenshilfe Main-Taunus.": true,
+    "Die Zeitung „Lebenshilfe inform“": false
+  },
+  "Sie leben in einem der 5 Wohnheime oder im Betreuten Wohnen oder in den WGs MitLeben .": {
+    "Insgesamt erhalten 48 Menschen in den Wohneinrichtungen der Lebenshilfe ein Angebot der Tagesgestaltung, 20 davon im Haus Trappen in Eschborn.": false,
+    "Im Wohnverbund mit 5 Wohnhäusern und dem Betreuten Wohnen leben über 150 Menschen mit Behinderung.": true
+  },
+  "Zum Beispiel: Computer-Kurse für Menschen mit Behinderung, Freizeiten und den Kunst-Kalender": {
+    "Im Wohnverbund mit 5 Wohnhäusern und dem Betreuten Wohnen leben über 150 Menschen mit Behinderung.": false,
+    "Lebenshilfe": false
+  },
+  "Ausflüge, Treffen für Jugendliche, Ferien-Spiele und Betreuungen in der Familie.": {
+    "Der Familienunterstützende Dienst (FuD) betreut über 350 Kinder, Jugendliche und Erwachsene in Freizeitgruppen, bei Einzelbetreuungen, Ferienspielen, Freizeiten und in der Schule.": true,
+    "Lebenshilfe": false
+  },
+  "Sie ist für Menschen mit Behinderung und ihre Familien da.": {
+    "Die Tagesgestaltung ist ein Angebot für Menschen mit Behinderung, die (noch) nicht oder nicht mehr in einer Werkstatt für behinderte Menschen tätig sind.": false,
+    "Lebenshilfe": false,
+    "Main-Taunus berät und begleitet Menschen mit und ohne Behinderung.": true
+  },
+  "Die Früh-Förder-Stelle berät und unterstützt auch Eltern, Erzieherinnen, Lehrerinnen und Lehrer.": {
+    "Die Beratungsstelle STARK - EUTB Main-Taunus berät und begleitet Menschen mit und ohne Behinderung.": false,
+    "Lebenshilfe": false,
+    "Die Frühförderung fördert rund 310 Kleinkinder im Vorschulalter und berät und begleitet deren Familien.": true
+  },
+  "Seit 2003 gibt es die Stiftung Lebenshilfe Main-Taunus.": {
+    "Lebenshilfe": false,
+    "2003 wurde die Stiftung Lebenshilfe Main-Taunus gegründet, die bis heute bereits zahlreiche Anträge auf Förderung bewilligen konnte.": true,
+    "Die Zeitung „Lebenshilfe inform“ informiert ein- bis zwei Mal järhrlich über Arbeit und Angebote der Lebenshilfe Main-Taunus.": false
+  },
+  "Möchten Sie mehr Informationen?": {
+    "Alle Einrichtungen und Dienste finden Sie in unsererem Faktenblatt \"": true
+  },
+  "Im Treffpunkt Leichte Sprache werden viele Texte geschrieben.": {
+    "Im Treffpunkt Leichte Sprache werden Texte in Leichte Sprache und in verständliche Verwaltungssprache übersetzt.": true
+  },
+  "Der Familien unterstützende Dienst heißt kurz FuD.": {
+    "Der FuD ist eine anerkannte Beratungsstelle.": true,
+    "Die Frühförderung fördert rund 310 Kleinkinder im Vorschulalter und berät und begleitet deren Familien.": false
+  },
+  "19 65779 Kelkheim Telefon: 0 61 95 / 60 08-0": {
+    "e.V. Nachtigallenweg 19 65779 Kelkheim Telefon: 0 61 95 / 60 08-0 Telefax: 0 61 95 / 60 08-199 E-Mail:": true
+  },
+  "Und es gibt eine Bücherei für Leichte Sprache.": {
+    "Außerdem gibt es hier eine Bücherei für Leichte Sprache, die allen Interessierten offen steht.": true
+  },
+  "finished": true,
+  "Sie hat schon viele gute Sachen mit Geld unterstützen können.": {
+    "2003 wurde die Stiftung Lebenshilfe Main-Taunus gegründet, die bis heute bereits zahlreiche Anträge auf Förderung bewilligen konnte.": true
+  },
+  "Computer-Kurse für Menschen mit Behinderung, Freizeiten und den Kunst-Kalender": {
+    "Die Tagesgestaltung ist ein Angebot für Menschen mit Behinderung, die (noch) nicht oder nicht mehr in einer Werkstatt für behinderte Menschen tätig sind.": false
+  },
+  "Hier kommen Sie zum Programm von STARK.": {
+    "Die Beratungsstelle STARK - EUTB": true
+  },
+  "Menschen mit Lern-Schwierigkeiten prüfen, ob man die Texte gut verstehen kann.": {
+    "Im Treffpunkt Leichte Sprache werden Texte in Leichte Sprache und in verständliche Verwaltungssprache übersetzt.": true
+  },
+  "Kreisvereinigung Main-Taunus Nachtigallenweg": {
+    "Kreisvereinigung Main-Taunus": true
+  },
+  "19 65779 Kelkheim Telefon: 0 61 95 / 60 08-0 Fax: 0 61 95 / 60 08-199 E-Mail:": {
+    "e.V. Nachtigallenweg 19 65779 Kelkheim Telefon: 0 61 95 / 60 08-0": true
+  },
+  "info@lebenshilfe-main-taunus.de Taunus-Sparkasse IBAN: DE04 5125 0000 0005003326 BIC:": {
+    "Taunussparkasse IBAN: DE04 5125 0000 0005 0033 26 BIC: HELADEF1TSK Kontakt Lebenshilfe": true
+  },
+  "Lebenshilfe für Menschen mit Behinderung": {
+    "Im Wohnverbund mit 5 Wohnhäusern und dem Betreuten Wohnen leben über 150 Menschen mit Behinderung.": false
+  }
+}

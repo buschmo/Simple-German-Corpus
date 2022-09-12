@@ -106,7 +106,7 @@ def load_header(url: str) -> dict:
     headerpath = get_headerpath_from_url(url)
     # save header information
     if os.path.exists(headerpath):
-        with open(headerpath, "r") as f:
+        with open(headerpath, "r", encoding="utf-8") as f:
             header = json.load(f)
     else:
         header = {}
@@ -131,7 +131,7 @@ def save_header(filepath: Path, url: str, matching_filepath: Path, bool_easy: bo
 
     # save header information
     if os.path.exists(headerpath):
-        with open(headerpath, "r") as f:
+        with open(headerpath, "r", encoding="utf-8") as f:
             header = json.load(f)
     else:
         header = {}
@@ -475,6 +475,6 @@ def log_resaving_file(filepath: Path):
 def already_logged(url: str) -> bool:
     path = get_headerpath_from_url(url)
     if os.path.exists(path):
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:
             content = f.read()
             return bool(url in content)

@@ -1,7 +1,7 @@
 from pathlib import Path
 import os
 import json
-
+from tqdm import tqdm
 import matching.utilities as utl
 
 from defaultvalues import *
@@ -21,8 +21,8 @@ def main():
         os.makedirs(f"{results_location}/alignment")
 
     alignment = {}
-    for matching_simple, matching_normal in pairs:
-        # get filenames and get the path to the matching calculated by main_matching.py
+    for matching_simple, matching_normal in tqdm(pairs):
+        # get filenames and get the path to the matching calculated by old_main_matching.py
         simple_file = matching_simple.split("/")[-1]
         normal_file = matching_normal.split("/")[-1]
         name = utl.make_matching_path(
@@ -30,7 +30,7 @@ def main():
 
         easy_lines = []
         normal_lines = []
-        with open(name) as fp:
+        with open(name, encoding="utf-8") as fp:
             matches = json.load(fp)
             for match in matches:
                 # read information of the matches

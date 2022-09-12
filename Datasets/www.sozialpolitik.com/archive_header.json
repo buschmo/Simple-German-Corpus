@@ -6,7 +6,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__die-europaeische-union.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__armut-und-reichtum.html": {
         "url": "http://web.archive.org/web/20220331043940/https://www.sozialpolitik.com/armut-und-reichtum",
@@ -15,7 +16,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__kein-geld-zum-leben.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__leben-im-sozial-staat.html": {
         "url": "http://web.archive.org/web/20210414174033/https://www.sozialpolitik.com/es/leben-im-sozial-staat",
@@ -24,7 +26,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__das-sozialstaatprinzip.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__recht-auf-soziale-entschaedigung.html": {
         "url": "http://web.archive.org/web/20210414165535/https://www.sozialpolitik.com/es/recht-auf-soziale-entschaedigung",
@@ -33,7 +36,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__opferentschaedigung.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__ausbildung-und-studium.html": {
         "url": "http://web.archive.org/web/20210414170734/https://www.sozialpolitik.com/es/ausbildung-und-studium",
@@ -42,7 +46,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__ausbildung-und-studium.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__leben-und-arbeiten-mit-behinderung.html": {
         "url": "http://web.archive.org/web/20220529212141/https://www.sozialpolitik.com/leben-und-arbeiten-mit-behinderung",
@@ -51,7 +56,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__leben-und-arbeiten-mit-behinderung.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__das-recht-auf-mit-bestimmung.html": {
         "url": "http://web.archive.org/web/20210414170527/https://www.sozialpolitik.com/es/das-recht-auf-mit-bestimmung",
@@ -60,7 +66,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__mitbestimmungsrecht.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__arbeitsrecht.html": {
         "url": "http://web.archive.org/web/20220529185818/https://www.sozialpolitik.com/arbeitsrecht",
@@ -69,7 +76,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__rechte-und-pflichten-fuer-die-arbeit.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__die-arbeits-welt.html": {
         "url": "http://web.archive.org/web/20210414175745/https://www.sozialpolitik.com/es/die-arbeits-welt",
@@ -78,7 +86,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__arbeitswelt-von-morgen.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__digitalisierung.html": {
         "url": "http://web.archive.org/web/20210414161257/https://www.sozialpolitik.com/es/digitalisierung",
@@ -87,7 +96,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__digitalisierung.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__das-sozialstaatprinzip.html": {
         "url": "http://web.archive.org/web/20220529190032/https://www.sozialpolitik.com/das-sozialstaatprinzip",
@@ -96,7 +106,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__leben-im-sozial-staat.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__soziale-gerechtigkeit.html": {
         "url": "http://web.archive.org/web/20210414164752/https://www.sozialpolitik.com/es/soziale-gerechtigkeit",
@@ -105,7 +116,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__soziale-gerechtigkeit.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__praktische-hilfen-zum-berufseinstieg.html": {
         "url": "http://web.archive.org/web/20220307235216/https://www.sozialpolitik.com/praktische-hilfen-zum-berufseinstieg",
@@ -114,7 +126,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__der-berufs-einstieg.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__mitbestimmungsrecht.html": {
         "url": "http://web.archive.org/web/20220529190340/https://www.sozialpolitik.com/mitbestimmungsrecht",
@@ -123,7 +136,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__das-recht-auf-mit-bestimmung.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__die-europaeische-union.html": {
         "url": "http://web.archive.org/web/20210414175822/https://www.sozialpolitik.com/es/die-europaeische-union",
@@ -132,7 +146,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__soziales-europa.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__ausbildung-und-studium.html": {
         "url": "http://web.archive.org/web/20220529185946/https://www.sozialpolitik.com/ausbildung-und-studium",
@@ -141,7 +156,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__ausbildung-und-studium.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__arbeitslosigkeit-und-arbeitslosenversicherung.html": {
         "url": "http://web.archive.org/web/20220529123212/https://www.sozialpolitik.com/arbeitslosigkeit-und-arbeitslosenversicherung",
@@ -150,7 +166,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__translate-to-leichte-sprache-arbeitslosigkeit-und-arbeitslosenversicherung.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__translate-to-leichte-sprache-arbeitslosigkeit-und-arbeitslosenversicherung.html": {
         "url": "http://web.archive.org/web/20210414161624/https://www.sozialpolitik.com/es/translate-to-leichte-sprache-arbeitslosigkeit-und-arbeitslosenversicherung",
@@ -159,7 +176,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__arbeitslosigkeit-und-arbeitslosenversicherung.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__sozial-versicherung-im-alter.html": {
         "url": "http://web.archive.org/web/20210414174915/https://www.sozialpolitik.com/es/sozial-versicherung-im-alter",
@@ -168,7 +186,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__alterssicherung.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__unterstuetzung-im-notfall.html": {
         "url": "http://web.archive.org/web/20210414160002/https://www.sozialpolitik.com/es/unterstuetzung-im-notfall",
@@ -177,7 +196,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__lebensrisiken.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__kein-geld-zum-leben.html": {
         "url": "http://web.archive.org/web/20210414175432/https://www.sozialpolitik.com/es/kein-geld-zum-leben",
@@ -186,7 +206,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__armut-und-reichtum.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__es__rechte-und-pflichten-fuer-die-arbeit.html": {
         "url": "http://web.archive.org/web/20210414173333/https://www.sozialpolitik.com/es/rechte-und-pflichten-fuer-die-arbeit",
@@ -195,7 +216,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__arbeitsrecht.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__lebensrisiken.html": {
         "url": "http://web.archive.org/web/20220529190214/https://www.sozialpolitik.com/lebensrisiken",
@@ -204,7 +226,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__unterstuetzung-im-notfall.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__digitalisierung.html": {
         "url": "http://web.archive.org/web/20220529190126/https://www.sozialpolitik.com/digitalisierung",
@@ -213,7 +236,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__digitalisierung.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__alterssicherung.html": {
         "url": "http://web.archive.org/web/20220529185650/https://www.sozialpolitik.com/alterssicherung",
@@ -222,7 +246,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__sozial-versicherung-im-alter.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__leben-und-arbeiten-mit-behinderung.html": {
         "url": "http://web.archive.org/web/20210414173910/https://www.sozialpolitik.com/es/leben-und-arbeiten-mit-behinderung",
@@ -231,7 +256,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__leben-und-arbeiten-mit-behinderung.html"
-        ]
+        ],
+        "type": "LS"
     },
     "sozialpolitik.com__arbeitswelt-von-morgen.html": {
         "url": "http://web.archive.org/web/20220529185903/https://www.sozialpolitik.com/arbeitswelt-von-morgen",
@@ -240,7 +266,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__die-arbeits-welt.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__opferentschaedigung.html": {
         "url": "http://web.archive.org/web/20220529190423/https://www.sozialpolitik.com/opferentschaedigung",
@@ -249,7 +276,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__recht-auf-soziale-entschaedigung.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__soziale-gerechtigkeit.html": {
         "url": "http://web.archive.org/web/20211102142502/https://www.sozialpolitik.com/soziale-gerechtigkeit",
@@ -258,7 +286,8 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__es__soziale-gerechtigkeit.html"
-        ]
+        ],
+        "type": "AS"
     },
     "sozialpolitik.com__es__der-berufs-einstieg.html": {
         "url": "http://web.archive.org/web/20210414170817/https://www.sozialpolitik.com/es/der-berufs-einstieg",
@@ -267,6 +296,7 @@
         "publication_date": null,
         "matching_files": [
             "sozialpolitik.com__praktische-hilfen-zum-berufseinstieg.html"
-        ]
+        ],
+        "type": "LS"
     }
 }

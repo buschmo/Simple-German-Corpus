@@ -7,7 +7,8 @@
   },
   "Ihre Kurse sind beliebt.": {
     "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false,
-    "Konnten bisher zwei Kurse im Jahr angeboten werden, seien es nun insgesamt sieben auf unterschiedlichen Niveaus.": false
+    "Konnten bisher zwei Kurse im Jahr angeboten werden, seien es nun insgesamt sieben auf unterschiedlichen Niveaus.": false,
+    "Erstmals gebe es einen Kurs ausschließlich für Frauen.": false
   },
   "Sie ist Schwimm-Lehrerin und leitet seit 4 Jahren ein Schwimm-Projekt.": {
     "Liegt natürlich auch hier auf dem Schwimmen.": false,
@@ -18,26 +19,30 @@
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
     "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": true,
-    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false
+    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false,
+    "Heute springt sie ein, wenn Not an der Frau ist:": false
   },
   "Und sie hilft beim Bewerben.": {
     "Und das mit meiner Stärke, Schwimmen zu lehren.“": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
-    "„Und diese Masse an Stoff ist beim Schwimmenlernen einfach hinderlich.“": false
+    "„Und diese Masse an Stoff ist beim Schwimmenlernen einfach hinderlich.“": false,
+    "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false
   },
   "Sie kommen aus dem afrikanischen Land Kamerun.": {
     "Sie begeisterte sich schnell – trainierte bis zu sechs Mal in der Woche, nahm an Wettkämpfen teil und engagierte sich im Verein.": false
   },
   "Der deutsche Staat sagt: Die 2 Brüder sollen Deutschland verlassen.": {
     "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false,
-    "Der Schwerpunkt?": false
+    "Der Schwerpunkt?": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Die Helfer mussten also gegen viele Vorurteile kämpfen.": {
     "„Die meisten sind aber zwischen zwölf und Mitte, Ende zwanzig“, erklärt sie.": false,
     "Unter ihnen sei der Bedarf am größten, viele könnten gar nicht schwimmen.": false,
     "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
-    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false
+    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
+    "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false
   },
   "Das Schwimm-Projekt hilft den Menschen beim Neu-Beginn in Deutschland.": {
     "Deutsch lernen beim Schwimmen": true,
@@ -48,7 +53,8 @@
     "Sie begeisterte sich schnell – trainierte bis zu sechs Mal in der Woche, nahm an Wettkämpfen teil und engagierte sich im Verein.": false,
     "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
-    "Sieben Stunden in der Woche wird sie dann in der Schwimmhalle stehen.": false
+    "Sieben Stunden in der Woche wird sie dann in der Schwimmhalle stehen.": false,
+    "Wichtig ist ihr dabei: „Herkunft oder Elternhaus spielen keine Rolle.": false
   },
   "Für Flüchtlinge ist Arbeit wichtig für einen Neu-Beginn.": {
     "Jeder ist willkommen.“": false,
@@ -59,7 +65,8 @@
   "Sie haben eine Ausbildung gemacht.": {
     "Ganz besonders freut sie sich, dass ihr Angebot jetzt durch die Kooperation mit einem örtlichen Schwimmverein ausgeweitet werden kann.": false,
     "Eine Herausforderung?": false,
-    "Als sie mit zwölf Jahren nach einem passenden Sport für sich suchte, fing sie mit Fußball an.": false
+    "Als sie mit zwölf Jahren nach einem passenden Sport für sich suchte, fing sie mit Fußball an.": false,
+    "In den Kursen lernen sie, sich im Wasser sicher zu bewegen.": false
   },
   "Und sie sind alle ausgebucht.": {
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
@@ -72,18 +79,21 @@
   "Sie haben hier kein Aufenthalts-Recht.": {
     "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false,
     "Als sie mit zwölf Jahren nach einem passenden Sport für sich suchte, fing sie mit Fußball an.": false,
-    "Dabei hätte es auch ganz anders kommen können.": false
+    "Dabei hätte es auch ganz anders kommen können.": false,
+    "Liegt natürlich auch hier auf dem Schwimmen.": false
   },
   "Und sie hat Deutsch unterrichtet.": {
     "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false,
-    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false
+    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false,
+    "Deutsch lernen beim Schwimmen": true
   },
   "Manchmal dauert die Arbeits-Suche lange.": {
     "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
     "Schwimmen war immer ihre Leidenschaft:": false,
-    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
+    "„Aber ganz so schnell bin ich nicht mehr.“": false
   },
   "Heute unterrichtet Franziska Meißner alleine.": {
     "Franziska Meißner unterrichtet vor allem Geflüchete.": false
@@ -92,12 +102,14 @@
     "Ganz besonders freut sie sich, dass ihr Angebot jetzt durch die Kooperation mit einem örtlichen Schwimmverein ausgeweitet werden kann.": false,
     "Heute springt sie ein, wenn Not an der Frau ist: „Aber ganz so schnell bin ich nicht mehr.“": false,
     "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false,
-    "Zusätzlich liegt der Fokus auf der Verbesserung der sprachlichen Fähigkeiten.": false
+    "Zusätzlich liegt der Fokus auf der Verbesserung der sprachlichen Fähigkeiten.": false,
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
   },
   "Dafür hat sie sogar ein eigenes Büro eröffnet.": {
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Dann habe ich noch zweimal den Ball ins Gesicht bekommen und somit hatte sich das“, erzählt sie lachend.": false,
-    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false
+    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false,
+    "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false
   },
   "Früher war er Anwalt.": {
     "„Das war aber dann doch nichts für mich:": false,
@@ -106,11 +118,13 @@
   "Denn einige Menschen in Sachsen und Brandenburg sind gegen Flüchtlinge in Deutschland.": {
     "Sieben Stunden in der Woche wird sie dann in der Schwimmhalle stehen.": false,
     "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
-    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false
+    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Die 2 Brüder leben noch in Deutschland.": {
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
-    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
+    "Über ihre Stiefmutter und ihre Schwestern sei sie zum Rettungsschwimmen gekommen.": false
   },
   "Das war nicht immer leicht.": {
     "„Das war aber dann doch nichts für mich:": false,
@@ -120,7 +134,8 @@
   "Aber oft klappt es und das ist gut.": {
     "„Das war aber dann doch nichts für mich:": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
-    "Dabei hätte es auch ganz anders kommen können.": false
+    "Dabei hätte es auch ganz anders kommen können.": false,
+    "Und schafft dabei viel mehr, als nur Überwasserhalten.": true
   },
   "Am Anfang hat Franziska Meißner gedacht:": {
     "Franziska Meißner unterrichtet vor allem Geflüchete.": false,
@@ -136,7 +151,8 @@
   "Viele Menschen aus Sachsen und Brandenburg wollten den Flüchtlingen deshalb helfen.": {
     "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
-    "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": false
+    "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Zuerst hat sie Flüchtlinge zu Ärzten oder Vermietern begleitet.": {
     "Dabei hätte es auch ganz anders kommen können.": false,
@@ -153,7 +169,8 @@
     "„Die meisten sind aber zwischen zwölf und Mitte, Ende zwanzig“, erklärt sie.": false,
     "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false,
     "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
-    "Franziska Meißner unterrichtet vor allem Geflüchete.": false
+    "Franziska Meißner unterrichtet vor allem Geflüchete.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Und sie hatten meistens wenig Geld.": {
     "Als sie mit zwölf Jahren nach einem passenden Sport für sich suchte, fing sie mit Fußball an.": false,
@@ -167,19 +184,22 @@
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
     "„Das war aber dann doch nichts für mich:": false,
-    "Schwimmkurse, Rettungsschwimmerausbildung, Katastrophenschutz, Rettungshundestaffel – Meißner muss das alles unter einen Hut bringen.": false
+    "Schwimmkurse, Rettungsschwimmerausbildung, Katastrophenschutz, Rettungshundestaffel – Meißner muss das alles unter einen Hut bringen.": false,
+    "„Und diese Masse an Stoff ist beim Schwimmenlernen einfach hinderlich.“": false
   },
   "Also wenn der Staat zu Flüchtlingen sagt: Sie müssen Deutschland jetzt verlassen.": {
     "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
     "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false,
-    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Deshalb will die taz wissen: Welche Themen sind den Menschen in Sachsen und Brandenburg wichtig?": {
     "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
     "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false,
-    "Dabei hätte es auch ganz anders kommen können.": false
+    "Dabei hätte es auch ganz anders kommen können.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Viele Flüchtlinge mussten dort ein neues Leben beginnen.": {
     "Dabei hätte es auch ganz anders kommen können.": false,
@@ -197,7 +217,8 @@
     "Deutsch lernen beim Schwimmen": true
   },
   "Denn Deutsche und Flüchtlinge arbeiten zusammen.": {
-    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
+    "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": false
   },
   "Viele Menschen helfen Flüchtlingen.": {
     "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": true,
@@ -209,21 +230,25 @@
     "In den Kursen lernen sie, sich im Wasser sicher zu bewegen.": false,
     "Und schafft dabei viel mehr, als nur Überwasserhalten.": false,
     "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false,
-    "Heute springt sie ein, wenn Not an der Frau ist: „Aber ganz so schnell bin ich nicht mehr.“": false
+    "Heute springt sie ein, wenn Not an der Frau ist: „Aber ganz so schnell bin ich nicht mehr.“": false,
+    "Deutsch lernen beim Schwimmen": true
   },
   "Außerdem lernen sie bei der Arbeit andere Menschen kennen.": {
     "Ganz besonders freut sie sich, dass ihr Angebot jetzt durch die Kooperation mit einem örtlichen Schwimmverein ausgeweitet werden kann.": false,
     "In den Kursen lernen sie, sich im Wasser sicher zu bewegen.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
-    "Zusätzlich liegt der Fokus auf der Verbesserung der sprachlichen Fähigkeiten.": false
+    "Zusätzlich liegt der Fokus auf der Verbesserung der sprachlichen Fähigkeiten.": false,
+    "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false
   },
   "Ein wichtiges Thema sind Flüchtlinge.": {
-    "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
+    "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false,
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": true
   },
   "Heute arbeitet er ohne Bezahlung.": {
     "Dann habe ich noch zweimal den Ball ins Gesicht bekommen und somit hatte sich das“, erzählt sie lachend.": false,
-    "Heute springt sie ein, wenn Not an der Frau ist: „Aber ganz so schnell bin ich nicht mehr.“": false
+    "Heute springt sie ein, wenn Not an der Frau ist: „Aber ganz so schnell bin ich nicht mehr.“": false,
+    "Heute springt sie ein, wenn Not an der Frau ist:": false
   },
   "Yvonne Trenner Foto: privat Yvonne Trenner wohnt in Oranienburg in Brandenburg.": {
     "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
@@ -241,13 +266,15 @@
   "Die Infos in diesem leichten Text kommen aus diesem , diesem und diesem „schweren“ Text.": {
     "„Wegen ihres Glaubens schwimmen einige in gemischten Kursen im Burkini“, erläutert sie.": false,
     "In den Kursen lernen sie, sich im Wasser sicher zu bewegen.": false,
-    "Eine Herausforderung?": false
+    "Eine Herausforderung?": false,
+    "„Und diese Masse an Stoff ist beim Schwimmenlernen einfach hinderlich.“": false
   },
   "Yvonne Trenner vermittelt 50 bis 60 Flüchtlinge pro Jahr in eine Ausbildungen oder in ein Praktikum.": {
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
     "Ihrem Konzept nach soll in einzelnen Gruppen jeweils acht bis zehn Teilnehmern das Schwimmen beigebracht werden.": false,
     "20 bis 30 Stunden Ehrenamt Meißner brennt für ihren Sport:": false,
-    "Eine Herausforderung?": false
+    "Eine Herausforderung?": false,
+    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false
   },
   "Und einige sind fast 50 Jahr alt.": {
     "Der älteste Schwimmnovize sei im letzten Jahr 47 Jahre alt gewesen.": true,
@@ -256,39 +283,48 @@
   "Sie sollen zurück nach Kamerun.": {
     "Als sie mit zwölf Jahren nach einem passenden Sport für sich suchte, fing sie mit Fußball an.": false,
     "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false,
-    "Ihrem Konzept nach soll in einzelnen Gruppen jeweils acht bis zehn Teilnehmern das Schwimmen beigebracht werden.": false
+    "Ihrem Konzept nach soll in einzelnen Gruppen jeweils acht bis zehn Teilnehmern das Schwimmen beigebracht werden.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Seit 5 Jahren hilft sie Flüchtlingen.": {
     "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false,
-    "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false
+    "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": false,
+    "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": false
   },
   "Mittlerweile hat Dieter Bollmann viele Abschiebungen verhindert.": {
     "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false,
-    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
+    "Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false
   },
   "Denn in einigen Kulturen ist es nicht üblich, dass Frauen auch Männer unterrichten.": {
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
-    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
+    "Erstmals gebe es einen Kurs ausschließlich für Frauen.": false
   },
   "Es werden immer mehr Kurse.": {
     "In den Kursen lernen sie, sich im Wasser sicher zu bewegen.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
-    "Konnten bisher zwei Kurse im Jahr angeboten werden, seien es nun insgesamt sieben auf unterschiedlichen Niveaus.": true
+    "Konnten bisher zwei Kurse im Jahr angeboten werden, seien es nun insgesamt sieben auf unterschiedlichen Niveaus.": true,
+    "Erstmals gebe es einen Kurs ausschließlich für Frauen.": false
   },
   "Alles hat gut geklappt.": {
-    "„Das war aber dann doch nichts für mich:": false
+    "„Das war aber dann doch nichts für mich:": false,
+    "Jeder ist willkommen.“": false
   },
   "Und er hatte Erfolg.": {
     "Dann habe ich noch zweimal den Ball ins Gesicht bekommen und somit hatte sich das“, erzählt sie lachend.": false,
-    "„Das war aber dann doch nichts für mich:": false
+    "„Das war aber dann doch nichts für mich:": false,
+    "Und schafft dabei viel mehr, als nur Überwasserhalten.": true
   },
   "Die taz hat mit einigen Helfern gesprochen.": {
-    "Die Kooperation mit dem örtlichen Schwimmbad sei auch eine Reaktion auf die hohe Nachfrage.": false
+    "Die Kooperation mit dem örtlichen Schwimmbad sei auch eine Reaktion auf die hohe Nachfrage.": false,
+    "Deswegen habe sie zunächst einen männlichen Kollegen um Unterstützung gebeten.": false
   },
   "Das sorgt für viel Frust.": {
-    "Das bedeutet viel Papierarbeit für die 32-Jährige.": false
+    "Das bedeutet viel Papierarbeit für die 32-Jährige.": false,
+    "Eine Herausforderung?": false
   },
   "Doch ihre Sorgen waren unnötig.": {
     "„Das war aber dann doch nichts für mich:": false,
@@ -311,7 +347,8 @@
   },
   "Einige Schwimm-Schüler sind 12 Jahre alt.": {
     "Der älteste Schwimmnovize sei im letzten Jahr 47 Jahre alt gewesen.": false,
-    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false
+    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
+    "„Die Kurse richten sich an alle ab zwölf Jahren, die noch nicht oder nicht gut schwimmen können“, erklärt sie.": true
   },
   "Hinweis: Hier können Sie den Text herunterladen.": {
     "Als sie mit zwölf Jahren nach einem passenden Sport für sich suchte, fing sie mit Fußball an.": false
@@ -321,14 +358,16 @@
     "Sie begeisterte sich schnell – trainierte bis zu sechs Mal in der Woche, nahm an Wettkämpfen teil und engagierte sich im Verein.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
     "Wichtig ist ihr dabei: „Herkunft oder Elternhaus spielen keine Rolle.": false,
-    "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false
+    "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false,
+    "Unter ihnen sei der Bedarf am größten, viele könnten gar nicht schwimmen.": false
   },
   "Dabei bringt sie auch Flüchtlingen das Schwimmen bei.": {
     "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false,
     "Ganz besonders freut sie sich, dass ihr Angebot jetzt durch die Kooperation mit einem örtlichen Schwimmverein ausgeweitet werden kann.": false,
     "Liegt natürlich auch hier auf dem Schwimmen.": false,
     "Dabei hätte es auch ganz anders kommen können.": false,
-    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false
+    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
+    "Und schafft dabei viel mehr, als nur Überwasserhalten.": false
   },
   "Franziska Meißner Foto: Volly Tanner Franziska Meißner wohnt in Leipzig in Sachsen.": {
     "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto: Volly Tanner Sobald die Ferien in Sachsen rum sind, geht es auch für Franziska Meißner wieder los:": false,
@@ -348,7 +387,8 @@
     "Der älteste Schwimmnovize sei im letzten Jahr 47 Jahre alt gewesen.": false
   },
   "Dieter Bollmann hat geholfen.": {
-    "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false
+    "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false,
+    "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": false
   },
   "Die Bürger wählen dort Parteien und Politiker.": {
     "„Die meisten sind aber zwischen zwölf und Mitte, Ende zwanzig“, erklärt sie.": false,
@@ -363,20 +403,39 @@
   },
   "Eine Landtags-Wahl ist im Bundesland Sachsen.": {
     "Eine Herausforderung?": false,
-    "Das Projekt ist für Meißner eine Herzensangelegenheit.": false
+    "Das Projekt ist für Meißner eine Herzensangelegenheit.": false,
+    "Seit 2017 ist die Leipzigerin nun Vorsitzende der DLRG.": false
   },
   "Und eine Landtags-Wahl ist im Bundesland Brandenburg.": {
     "Eine Herausforderung?": false,
-    "Das Projekt ist für Meißner eine Herzensangelegenheit.": false
+    "Das Projekt ist für Meißner eine Herzensangelegenheit.": false,
+    "Seit 2017 ist die Leipzigerin nun Vorsitzende der DLRG.": false
   },
   "Am 1. September 2019 gibt es 2 Landtags-Wahlen.": {
-    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false
+    "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false,
+    "Seit 2017 ist die Leipzigerin nun Vorsitzende der DLRG.": false
   },
   "Die Zeitung taz schreibt über die 2 Landtags-Wahlen.": {
     "Zu Stoßzeiten sind es auch mal 20 bis 30 Stunden, die sie ins Ehrenamt investiert, in der Regel 10 bis 15. „Was nicht geht, das geht eben nicht“, verrät die Mutter zweier Kinder ihr Rezept gegen Stress.": false
   },
   "Und ein Bruder hat eine Familie gegründet.": {
-    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false
+    "Bald wird sie noch ein didaktisches Studium aufnehmen, denn seit eineinhalb Jahren unterrichtet sie Sport als Quereinsteigerin an einer Grundschule.": false,
+    "Über ihre Stiefmutter und ihre Schwestern sei sie zum Rettungsschwimmen gekommen.": false
   },
-  "finished": true
+  "finished": true,
+  "Yvonne Trenner": {
+    "Volly Tanner": false
+  },
+  "Nur so können Flüchtlinge ein Leben in Deutschland aufbauen.": {
+    "Zwar gebe es auch Fördermöglichkeiten für Kinder aus sozial benachteiligten Familien, die allermeisten Teilnehmer seien aber Flüchtlinge, erzählt Meißner.": false
+  },
+  "Foto: privat Yvonne Trenner wohnt in Oranienburg in Brandenburg.": {
+    "Hauptsache, Wasser: Stefanie Meißner entwickelte ein spezielles Konzept für ihre Schwimmkurse Foto:": false
+  },
+  "Yvonne Trenner sagt dazu:": {
+    "Meißner sagt, zu Beginn habe sie sich durchaus Sorgen gemacht: über Verständigungsprobleme, über Reaktionen auf sie als Frau.": false
+  },
+  "Können Sie 2 Brüdern helfen?": {
+    "„Als 2015 so viele Menschen nach Deutschland kamen, wollte ich gerne helfen.": false
+  }
 }

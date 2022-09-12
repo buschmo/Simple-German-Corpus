@@ -4,13 +4,15 @@
     "Die Sozialgesetzbücher enthalten eigene Vorschriften gegen Diskriminierung.": true,
     "Durch dieses Gesetz sind die öffentlichen Stellen des Landes Berlin verpflichtet, Chancengleichheit tatsächlich herzustellen und durchzusetzen, jede Form von Diskriminierung zu verhindern und zu beseitigen sowie eine Kultur der Wertschätzung von Vielfalt zu fördern.": true,
     "Solche Rechtfertigungsgründe können besondere Umstände oder Gründe sein, die eine bestimmte Maßnahme – eine Ungleichbehandlung – ausnahmsweise für zulässig erweisen.": false,
-    "Er beschreibt die Situation, dass eine Person eine Benachteiligung aufgrund mehrerer Diskriminierungsmerkmale erfährt, zum Beispiel aufgrund einer Behinderung und ihrer ethnischen Herkunft.": false
+    "Er beschreibt die Situation, dass eine Person eine Benachteiligung aufgrund mehrerer Diskriminierungsmerkmale erfährt, zum Beispiel aufgrund einer Behinderung und ihrer ethnischen Herkunft.": false,
+    "Diskriminierung nach dem AGG": true
   },
   "allgemeinen zivilrechtlichen Benachteiligungs-Verbot.": {
     "Verhältnis zu anderen Gesetzestexten": false,
     "Das arbeitsrechtliche Benachteiligungsverbot bezieht sich auf die Erwerbstätigkeit und umfasst auch den Zugang zur Erwerbstätigkeit.": true,
     "Man kann die Benachteiligung dann nicht allein anhand eines Merkmals festmachen.": false,
-    "Das AGG unterscheidet zwischen einem arbeitsrechtlichen und einem allgemeinen zivilrechtlichen Benachteiligungsverbot.": true
+    "Das AGG unterscheidet zwischen einem arbeitsrechtlichen und einem allgemeinen zivilrechtlichen Benachteiligungsverbot.": true,
+    "Das allgemeine zivilrechtliche Behinderungsverbot gilt für Versicherungen und Massengeschäfte – sogenannte Alltagsgeschäfte.": true
   },
   "Wegen der Rasse oder wegen der Herkunft eines Menschen.": {
     "Es ist Ziel des Gesetzes, Benachteiligungen aus Gründen der Rasse oder wegen der ethnischen Herkunft, des Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identität zu verhindern oder zu beseitigen.": true
@@ -19,7 +21,8 @@
     "Die Sozialgesetzbücher enthalten eigene Vorschriften gegen Diskriminierung.": true,
     "Der gesetzliche Schutz gilt also für alle Menschen mit Behinderungen, nicht nur für Schwerbehinderte.": false,
     "Verhältnis zu anderen Gesetzestexten": false,
-    "Auch Personen, die selbst keine Behinderungen haben, dürfen nicht benachteiligt werden, weil sie sich als nahe Angehörige einer Person mit einer Behinderung, zum Beispiel eines Kindes, kümmern.": false
+    "Auch Personen, die selbst keine Behinderungen haben, dürfen nicht benachteiligt werden, weil sie sich als nahe Angehörige einer Person mit einer Behinderung, zum Beispiel eines Kindes, kümmern.": false,
+    "Definiert ist auch der Begriff der Mehrfachdiskriminierung.": false
   },
   "Seit dem 21. Juni 2020 gilt das Landes-Anti-Diskriminierungs-Gesetz in Berlin (LADG).": {
     "Seit dem 21. Juni 2020 gilt das Landes-Antidiskriminierungsgesetz Berlin (LADG).": true
@@ -30,7 +33,8 @@
   },
   "Zum Beispiel weil jemand eine Behinderung hat und sehr alt ist.": {
     "Anders als zum Beispiel bei der Ausstellung des Behindertenausweises wird nicht auf den Grad der Behinderung abgestellt.": true,
-    "Er beschreibt die Situation, dass eine Person eine Benachteiligung aufgrund mehrerer Diskriminierungsmerkmale erfährt, zum Beispiel aufgrund einer Behinderung und ihrer ethnischen Herkunft.": true
+    "Er beschreibt die Situation, dass eine Person eine Benachteiligung aufgrund mehrerer Diskriminierungsmerkmale erfährt, zum Beispiel aufgrund einer Behinderung und ihrer ethnischen Herkunft.": true,
+    "Auch Personen, die selbst keine Behinderungen haben, dürfen nicht benachteiligt werden, weil sie sich als nahe Angehörige einer Person mit einer Behinderung, zum Beispiel eines Kindes, kümmern.": false
   },
   "Hier werden die Begriffe erklärt.": {
     "Dazu gehört beispielsweise die Stellenausschreibung und das Bewerbungsgespräch sowie der spätere berufliche Aufstieg beziehungsweise die Beförderung.": false
@@ -72,7 +76,8 @@
   },
   "Das arbeits-rechtliche Benachteiligungs-Verbot regelt alles was mit der Arbeit zu tun hat.": {
     "Das gilt nicht, wenn der Arbeitsplatz behinderungsgerecht eingerichtet wird.": false,
-    "Man kann die Benachteiligung dann nicht allein anhand eines Merkmals festmachen.": false
+    "Man kann die Benachteiligung dann nicht allein anhand eines Merkmals festmachen.": false,
+    "Das arbeitsrechtliche Benachteiligungsverbot bezieht sich auf die Erwerbstätigkeit und umfasst auch den Zugang zur Erwerbstätigkeit.": true
   },
   "Das AGG unterscheidet zwischen einem: arbeits-rechtlichen Benachteiligungs-Verbot.": {
     "Das AGG unterscheidet zwischen einem arbeitsrechtlichen und einem allgemeinen zivilrechtlichen Benachteiligungsverbot.": true
@@ -100,7 +105,8 @@
     "Dazu gehört beispielsweise die Stellenausschreibung und das Bewerbungsgespräch sowie der spätere berufliche Aufstieg beziehungsweise die Beförderung.": true
   },
   "Mehr Infos zu dem Behindertengleichstellungsgesetz": {
-    "Im Bereich des öffentlichen Rechts gilt außerdem das Behindertengleichstellungsgesetz ( BGG ), das die Rechte von Menschen mit Behinderungen sichert.": false
+    "Im Bereich des öffentlichen Rechts gilt außerdem das Behindertengleichstellungsgesetz ( BGG ), das die Rechte von Menschen mit Behinderungen sichert.": false,
+    "Der Begriff der Behinderung gleicht dem der UN -Behindertenrechtskonvention ( UN - BRK ).": false
   },
   "Haben Sie eine Benachteiligung erlebt?": {
     "Haben Sie eine Benachteiligung in diesen Rechtsbereichen erlebt, können Sie sich an die Antidiskriminierungsstelle des Bundes wenden.": true,
@@ -121,7 +127,8 @@
     "Das Allgemeine Gleichbehandlungsgesetz ( AGG ) ist am 18. August 2006 in Kraft getreten.": true
   },
   "Egal wie schwer die Behinderung ist.": {
-    "Anders als zum Beispiel bei der Ausstellung des Behindertenausweises wird nicht auf den Grad der Behinderung abgestellt.": true
+    "Anders als zum Beispiel bei der Ausstellung des Behindertenausweises wird nicht auf den Grad der Behinderung abgestellt.": true,
+    "Der gesetzliche Schutz gilt also für alle Menschen mit Behinderungen, nicht nur für Schwerbehinderte.": true
   },
   "Für Menschen mit Behinderungen gilt das SGB I und SGB IX.": {
     "Für Menschen mit Behinderungen gelten insbesondere das SGB I und SGB IX.": true
@@ -134,7 +141,8 @@
     "Verhältnis zu anderen Gesetzestexten": false
   },
   "Links Link zur Anti-Diskriminierungs-Stelle des Bundes (Alltagssprache)": {
-    "Seit dem 21. Juni 2020 gilt das Landes-Antidiskriminierungsgesetz Berlin (LADG).": false
+    "Seit dem 21. Juni 2020 gilt das Landes-Antidiskriminierungsgesetz Berlin (LADG).": false,
+    "Haben Sie eine Benachteiligung in diesen Rechtsbereichen erlebt, können Sie sich an die Antidiskriminierungsstelle des Bundes wenden.": false
   },
   "Die öffentlichen Stellen von dem Bundes-Land Berlin müssen Chancen-Gleichheit ermöglichen.": {
     "Durch dieses Gesetz sind die öffentlichen Stellen des Landes Berlin verpflichtet, Chancengleichheit tatsächlich herzustellen und durchzusetzen, jede Form von Diskriminierung zu verhindern und zu beseitigen sowie eine Kultur der Wertschätzung von Vielfalt zu fördern.": true,
@@ -162,5 +170,14 @@
   "Kontakt unten.": {
     "Diese hilft kostenlos weiter, Kontakt unten.": true
   },
-  "finished": true
+  "finished": true,
+  "Link zum Text vom AGG unter \"Gesetze im Internet\" (Alltagssprache)": {
+    "Das AGG unterscheidet zwischen einem arbeitsrechtlichen und einem allgemeinen zivilrechtlichen Benachteiligungsverbot.": false
+  },
+  "Es gilt zum Beispiel bei: Stellen-Ausschreibungen Bewerbungs-Gesprächen beruflichem Aufstieg oder Beförderung.": {
+    "Dazu gehört beispielsweise die Stellenausschreibung und das Bewerbungsgespräch sowie der spätere berufliche Aufstieg beziehungsweise die Beförderung.": true
+  },
+  "Wegweiser der Antidiskriminierungsstelle (Alltagssprache)": {
+    "Diskriminierung nach dem AGG": false
+  }
 }

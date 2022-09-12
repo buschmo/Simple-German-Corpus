@@ -1,0 +1,69 @@
+{
+  "In dem Stadt-Teil Albertstadt gibt es eine Gas -Firma.": {
+    "Im Industriegelände im Dresdner Norden brennt eine Abfüllanlage für Flüssiggas.": true,
+    "Der Brand in einer Abfüllanlage für Flüssiggas in der Dresdner Albertstadt ist unter Kontrolle.": true,
+    "Großbrand in Flüssiggasanlage in Dresdner Albertstadt unter Kontrolle.": true
+  },
+  "In dieser Gas-Firma gab es seit dem Morgen ein großes Feuer.": {
+    "Bis zu 70 Feuerwehrleute und ein Helikopter waren im Einsatz, um ein Übergreifen des Feuers auf umliegende Gebäude zu verhindern.": false,
+    "Nun hat die Feuerwehr den Brand unter Kontrolle.": false
+  },
+  "Die Feuerwehr von Dresden hat das Feuer jetzt fast gelöscht.": {
+    "Nun hat die Feuerwehr den Brand unter Kontrolle.": true,
+    "Bis zu 70 Feuerwehrleute und ein Helikopter waren im Einsatz, um ein Übergreifen des Feuers auf umliegende Gebäude zu verhindern.": false,
+    "Es gebe immer noch kleinere Brände, weshalb die Feuerwehr noch vor Ort sei, aber der Großteil sei gelöscht, sagte der Feuerwehrsprecher Michael Klahre.": true
+  },
+  "Bis das Feuer gelöscht ist.": {
+    "Die Feuerwehr hatte darum gebeten, den Bereich weiträumig zu umfahren.": true,
+    "Bis zu 70 Feuerwehrleute und ein Helikopter waren im Einsatz, um ein Übergreifen des Feuers auf umliegende Gebäude zu verhindern.": false,
+    "Es gebe immer noch kleinere Brände, weshalb die Feuerwehr noch vor Ort sei, aber der Großteil sei gelöscht, sagte der Feuerwehrsprecher Michael Klahre.": false
+  },
+  "Das kann für die Menschen sehr gefährlich sein.": {
+    "Auch der Bereich um die Hermann-Mende-Straße, am Lagerplatz sowie die Straße am Kohlenplatz waren voll gesperrt, sowohl für Pkw als auch die Straßenbahnlinien 7, 8 und 13.": false,
+    "Die Warnungen an die Bevölkerung, Fenster und Türen geschlossen zu halten sowie Belüftungs- und Klimaanlagen nicht zu benutzen, werden zurückgezogen, so die Polizei.": false,
+    "Es sei jedoch noch mit Verspätungen zu rechnen.": false,
+    "Es gebe immer noch kleinere Brände, weshalb die Feuerwehr noch vor Ort sei, aber der Großteil sei gelöscht, sagte der Feuerwehrsprecher Michael Klahre.": false
+  },
+  "So kann es später verkauft werden.": {
+    "Es sei jedoch noch mit Verspätungen zu rechnen.": false,
+    "Die Warnungen an die Bevölkerung, Fenster und Türen geschlossen zu halten sowie Belüftungs- und Klimaanlagen nicht zu benutzen, werden zurückgezogen, so die Polizei.": false
+  },
+  "Und es gab auch viel Rauch.": {
+    "Es sei jedoch noch mit Verspätungen zu rechnen.": false,
+    "Angaben zu möglichen Verletzten und zur Brandursache gab es zunächst nicht.": false,
+    "Die Rauchsäule der brennenden Abfüllanlage war noch in großer Entfernung zu sehen.": true
+  },
+  "Die Anwohner in Albertstadt sollten wegen dem Brand ihre Fenster und Türen nicht aufmachen.": {
+    "Großbrand in Flüssiggasanlage in Dresdner Albertstadt unter Kontrolle.": false,
+    "Der Brand in einer Abfüllanlage für Flüssiggas in der Dresdner Albertstadt ist unter Kontrolle.": false,
+    "Die Rauchsäule der brennenden Abfüllanlage war noch in großer Entfernung zu sehen.": false,
+    "Die Warnungen an die Bevölkerung, Fenster und Türen geschlossen zu halten sowie Belüftungs- und Klimaanlagen nicht zu benutzen, werden zurückgezogen, so die Polizei.": true
+  },
+  "Damit kein Rauch in ihre Häuser kommt.": {
+    "Die Rauchsäule der brennenden Abfüllanlage war noch in großer Entfernung zu sehen.": false
+  },
+  "Und die Menschen sollten auch ihre Klima-Anlagen und ihre Belüftungen ausmachen.": {
+    "Die Warnungen an die Bevölkerung, Fenster und Türen geschlossen zu halten sowie Belüftungs- und Klimaanlagen nicht zu benutzen, werden zurückgezogen, so die Polizei.": true,
+    "Es sei jedoch noch mit Verspätungen zu rechnen.": false
+  },
+  "In Dresden hat eine Gas-Firma gebrannt.": {
+    "Großbrand in Flüssiggasanlage in Dresdner Albertstadt unter Kontrolle.": true,
+    "Im Industriegelände im Dresdner Norden brennt eine Abfüllanlage für Flüssiggas.": true
+  },
+  "Das sollten sie so lange machen:": {
+    "Die Warnungen an die Bevölkerung, Fenster und Türen geschlossen zu halten sowie Belüftungs- und Klimaanlagen nicht zu benutzen, werden zurückgezogen, so die Polizei.": true,
+    "Es sei jedoch noch mit Verspätungen zu rechnen.": false
+  },
+  "Dresden ist eine Stadt im Bundes-Land Sachsen.": {
+    "Im Industriegelände im Dresdner Norden brennt eine Abfüllanlage für Flüssiggas.": false
+  },
+  "Sie hat gesagt: Wegen dem Gas gab es bei dem Brand immer wieder Explosionen .": {
+    "Nun hat die Feuerwehr den Brand unter Kontrolle.": false,
+    "Angaben zu möglichen Verletzten und zur Brandursache gab es zunächst nicht.": false,
+    "Die Feuerwehr hatte darum gebeten, den Bereich weiträumig zu umfahren.": false
+  },
+  "finished": true,
+  "Das sollten sie so lange machen: Bis das Feuer gelöscht ist.": {
+    "Nun hat die Feuerwehr den Brand unter Kontrolle.": false
+  }
+}
