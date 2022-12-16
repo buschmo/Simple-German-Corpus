@@ -209,7 +209,7 @@ def calculate_full_n_gram_idf(articles: set[str], n=3, **kwargs) -> dict[str, fl
     idf_dict = dict()
     article_count = 0
 
-    for article in tqdm(articles):
+    for article in tqdm(articles, desc="Full n-gram idf"):
 
         article_n_gram_set = set()
 
@@ -291,7 +291,7 @@ def calculate_full_word_idf(articles: set[str], **kwargs) -> dict[str, float]:
     idf_dict = dict()
     article_count = 0
 
-    for article in tqdm(articles):
+    for article in tqdm(articles, desc="Full word idf"):
 
         article_n_gram_set = set()
 
@@ -559,7 +559,7 @@ def make_matching_path(simple_path: str, normal_path: str, sim_measure: str, mat
     return f"{matching_location}/{hash}--{sim_measure}--{matching}--{str(sd_threshold)}.matches"
 
 
-def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None) -> tuple[str,str]:
+def make_hand_aligned_path(simple_path: str, normal_path: str, short: str = None) -> tuple[str, str]:
     """ Returns the path to the file aligned by hand
 
     Args:
