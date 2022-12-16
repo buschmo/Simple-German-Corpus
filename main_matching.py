@@ -10,6 +10,9 @@ import matching.DocumentMatching as dm
 
 from defaultvalues import *
 
+# Run sbert on CPU only
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
+
 # setup lists for all settings
 similarity_measures = ["n_gram", "bag_of_words",
                        "cosine", "average", "maximum", "bipartite", "CWASA", "sbert"]
@@ -23,63 +26,53 @@ kwargs_gram = utl.make_preprocessing_dict(remove_punctuation=True)
 kwargs_embeddings = utl.make_preprocessing_dict(
     lowercase=False, remove_punctuation=True)
 
-# output folder setup
-if not os.path.exists(matching_location):
-    os.makedirs(matching_location)
-
-# check if some matchings have already been calculated
-if not Path(header_file).exists():
-    header = dict()
-else:
-    with open(header_file, 'r') as fp:
-        header = json.load(fp)
-
 # n for n-gram
 n = 4
 
-print("Start working")
 
-articles = utl.get_article_pairs()
-unnested_articles = utl.get_unnested_articles(articles)
+def calculate_idf(articles: list[tuple[str, str]]):
+    unnested_articles = utl.get_unnested_articles(articles)
 
-# concatenate all article names and hash it
-idf_article_string = ''.join([art.split('/')[-1]
-                             for art in sorted(list(unnested_articles))])
-idf_article_hash = utl.get_hash(idf_article_string)
+    # concatenate all article names and hash it
+    idf_article_string = ''.join([art.split('/')[-1]
+                                  for art in sorted(list(unnested_articles))])
+    idf_article_hash = utl.get_hash(idf_article_string)
 
-print("ARTICLE HASH", idf_article_hash)
+    print("ARTICLE HASH", idf_article_hash)
 
-# check for word idf (and calculate if necessary)
-found = False
-word_idf = dict()
-if Path(f"{results_location}/word_idf.json").exists():
-    with open(f"{results_location}/word_idf.json", 'r') as fp:
-        hash, word_idf = json.load(fp)
-        if hash == idf_article_hash:
-            found = True
-            print("Word idf was already computed!")
-if not found:
-    word_idf = utl.calculate_full_word_idf(
-        unnested_articles, **kwargs_gram)
-    print("Calculated new word idf")
-    with open(f"{results_location}/word_idf.json", 'w') as fp:
-        json.dump([idf_article_hash, word_idf], fp, ensure_ascii=False)
+    # check for word idf (and calculate if necessary)
+    found = False
+    word_idf = dict()
+    if Path(f"{results_location}/word_idf.json").exists():
+        with open(f"{results_location}/word_idf.json", 'r') as fp:
+            hash, word_idf = json.load(fp)
+            if hash == idf_article_hash:
+                found = True
+                print("Word idf was already computed!")
+    if not found:
+        word_idf = utl.calculate_full_word_idf(
+            unnested_articles, **kwargs_gram)
+        print("Calculated new word idf")
+        with open(f"{results_location}/word_idf.json", 'w') as fp:
+            json.dump([idf_article_hash, word_idf], fp, ensure_ascii=False)
 
-# check for n-gram idf (and calculate if necessary)
-found = False
-n_gram_idf = dict()
-if Path(f"{results_location}/{n}_gram_idf.json").exists():
-    with open(f"{results_location}/{n}_gram_idf.json", 'r') as fp:
-        hash, n_gram_idf = json.load(fp)
-        if hash == idf_article_hash:
-            found = True
-            print("n_gram idf was already computed!")
-if not found:
-    n_gram_idf = utl.calculate_full_n_gram_idf(
-        unnested_articles, n, **kwargs_gram)
-    print("Calculated new n gram idf")
-    with open(f"{results_location}/{n}_gram_idf.json", 'w') as fp:
-        json.dump([idf_article_hash, n_gram_idf], fp, ensure_ascii=False)
+    # check for n-gram idf (and calculate if necessary)
+    found = False
+    n_gram_idf = dict()
+    if Path(f"{results_location}/{n}_gram_idf.json").exists():
+        with open(f"{results_location}/{n}_gram_idf.json", 'r') as fp:
+            hash, n_gram_idf = json.load(fp)
+            if hash == idf_article_hash:
+                found = True
+                print("n_gram idf was already computed!")
+    if not found:
+        n_gram_idf = utl.calculate_full_n_gram_idf(
+            unnested_articles, n, **kwargs_gram)
+        print("Calculated new n gram idf")
+        with open(f"{results_location}/{n}_gram_idf.json", 'w') as fp:
+            json.dump([idf_article_hash, n_gram_idf], fp, ensure_ascii=False)
+
+    return word_idf, n_gram_idf
 
 
 def article_generator_parallel(matched_article_list: list[tuple[str, str]]) -> Iterator[tuple[str, str, str, str]]:
@@ -128,7 +121,7 @@ def article_preprocess(simple_text: str, normal_text: str) -> [str, str, list[st
     return simple_original, normal_original, *simple_arts, *normal_arts
 
 
-def parallel(simple_name: str, normal_name: str, simple_text: str, normal_text: str) -> dict[str, list[str]]:
+def parallel(simple_name: str, normal_name: str, simple_text: str, normal_text: str, header, word_idf: dict[str, float], n_gram_idf: dict[str, float]) -> dict[str, list[str]]:
     """ The actual matching calculation
     This function is called by main() with multi-processing.
 
@@ -228,10 +221,29 @@ def main():
     BEWARE! Even though this calculation is computed in parallel it takes a lot of time.
     Also there are no checkpoints.
     """
+    # output folder setup
+    if not os.path.exists(matching_location):
+        os.makedirs(matching_location)
+
+    # check if some matchings have already been calculated
+    if not Path(header_file).exists():
+        header = dict()
+    else:
+        with open(header_file, 'r') as fp:
+            header = json.load(fp)
+
+    print("Start working")
+
+    articles = utl.get_article_pairs()
+    word_idf, n_gram_idf = calculate_idf(articles)
+
     # start multi-processed matching calculation
     with Pool() as p:
-        header_extensions = p.starmap(parallel, article_generator_parallel(
-            articles))
+        header_extensions = p.starmap(
+            parallel,
+            map(lambda x: (*x, header, word_idf, n_gram_idf),
+                article_generator_parallel(articles))
+        )
 
         # merge all results, given a list of many headers
         for ext in header_extensions:
