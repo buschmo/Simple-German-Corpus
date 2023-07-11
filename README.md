@@ -4,10 +4,22 @@ This repository contains the data and code for a Simple German Corpus.
 If you use the corpus in your research, please cite our paper
 
 ```
-@article{toborek2022simplegerman,
-  title={A New Aligned Simple German Corpus},
-  author={Toborek, Vanessa and Busch, Moritz and Bo{\ss}ert, Malte and Bauckhage, Christian and Welke, Pascal}
+@@inproceedings{toborek-etal-2023-new,
+    title = "A New Aligned Simple {G}erman Corpus",
+    author = "Toborek, Vanessa  and
+      Busch, Moritz  and
+      Bo{\ss}ert, Malte  and
+      Bauckhage, Christian  and
+      Welke, Pascal",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.638",
+    pages = "11393--11412",
 }
+
 ```
 
 ## About
