@@ -4,7 +4,7 @@ This repository contains the data and code for a Simple German Corpus.
 If you use the corpus in your research, please cite our paper
 
 ```
-@@inproceedings{toborek-etal-2023-new,
+@inproceedings{toborek-etal-2023-new,
     title = "A New Aligned Simple {G}erman Corpus",
     author = "Toborek, Vanessa  and
       Busch, Moritz  and
