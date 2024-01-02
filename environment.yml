@@ -1,0 +1,13 @@
+name: simple-german-corpus
+dependencies:
+  - python==3.10
+  - spacy==3.3.1
+  - beautifulsoup4==4.11.1
+  - numpy==1.22.3
+  - requests==2.27.1
+  - pandas==1.4.3
+  - matplotlib==3.5.1
+  - scipy==1.8.1
+  - sentence-transformers==2.2.2
+  - pytorch==1.10.2
+  - seaborn==0.11.2
