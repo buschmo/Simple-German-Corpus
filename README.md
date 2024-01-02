@@ -51,6 +51,11 @@ Before using the repo, you **must** edit the file `defaultvalues.py`.
 Within it, you need to define the variable `repository_location`, the absolute path to the folder of this repository. E.g. `dataset=/home/bob/Simple-German-Corpus`.
 You can also change any of the other variables.
 
+You may also use the *untested* `environment.yml` for a direct conda installation
+```
+conda env create --file environments.yml
+```
+
 ## Usage
 
 Please note, that downloading is throttled by a 5 second delay to reduce network traffic.
