@@ -1,4 +1,6 @@
 name: simple-german-corpus
+channels:
+  - conda-forge
 dependencies:
   - python==3.10
   - spacy==3.3.1
